@@ -1,0 +1,1001 @@
+Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax 5%,Total,Date,Time,Payment,cogs,gross margin %,gross income,Rating,Hour,Month,Month_num
+750-22-1895,Branche B,Mandalay,Member,Male,Food and beverages,88.47,9,38.22,834.45,2019-01-01 00:00:00.000000,15:33,Cash,796.23,4.8,38.22,5.6,15,January,1
+750-23-3682,Branche A,Yangon,Member,Female,Home and lifestyle,29.61,8,13.03,249.91,2019-01-01 00:00:00.000000,14:52,Cash,236.88,5.5,13.03,7.2,14,January,1
+750-64-8021,Branche A,Yangon,Normal,Female,Electronic accessories,89.18,2,8.03,186.39,2019-01-01 00:00:00.000000,15:17,Ewallet,178.36,4.5,8.03,7.5,15,January,1
+750-22-4255,Branche B,Mandalay,Member,Male,Home and lifestyle,58.72,2,6.46,123.9,2019-01-01 04:16:34.594594,17:02,Credit card,117.44,5.5,6.46,5.8,17,January,1
+750-40-4927,Branche C,Naypyitaw,Normal,Female,Electronic accessories,54.83,4,9.87,229.19,2019-01-01 06:24:51.891891,20:56,Ewallet,219.32,4.5,9.87,6.8,20,January,1
+750-65-5280,Branche A,Yangon,Member,Male,Home and lifestyle,63.94,3,10.55,202.37,2019-01-01 14:58:01.081081,19:58,Ewallet,191.82,5.5,10.55,9.5,19,January,1
+750-80-7608,Branche C,Naypyitaw,Member,Male,Fashion accessories,21.02,7,7.65,154.79,2019-01-01 14:58:01.081081,17:50,Credit card,147.14,5.2,7.65,6.1,17,January,1
+750-87-6007,Branche B,Mandalay,Normal,Female,Fashion accessories,59.01,6,18.41,372.47,2019-01-01 19:14:35.675675,13:16,Credit card,354.06,5.2,18.41,4.3,13,January,1
+750-51-3291,Branche B,Mandalay,Normal,Female,Home and lifestyle,31.37,1,1.73,33.1,2019-01-01 23:31:10.270270,15:02,Ewallet,31.37,5.5,1.73,9.8,15,January,1
+750-69-2897,Branche C,Naypyitaw,Normal,Female,Electronic accessories,93.86,3,12.67,294.25,2019-01-01 23:31:10.270270,15:15,Cash,281.58,4.5,12.67,8.5,15,January,1
+750-50-5939,Branche C,Naypyitaw,Member,Male,Fashion accessories,34.19,4,7.11,143.87,2019-01-01 23:31:10.270270,10:57,Credit card,136.76,5.2,7.11,6.1,10,January,1
+750-77-2806,Branche A,Yangon,Member,Female,Electronic accessories,62.48,8,22.49,522.33,2019-01-02 10:12:36.756756,13:53,Credit card,499.84,4.5,22.49,6.1,13,January,1
+750-65-9031,Branche A,Yangon,Member,Male,Food and beverages,98.31,10,47.19,1030.29,2019-01-02 12:20:54.054054,17:57,Cash,983.1,4.8,47.19,9.6,17,January,1
+750-25-3401,Branche B,Mandalay,Member,Male,Electronic accessories,79.17,5,17.81,413.66,2019-01-02 12:20:54.054054,13:21,Cash,395.85,4.5,17.81,9.0,13,January,1
+750-88-9678,Branche C,Naypyitaw,Member,Female,Food and beverages,18.76,1,0.9,19.66,2019-01-02 14:29:11.351351,10:56,Credit card,18.76,4.8,0.9,7.0,10,January,1
+750-53-2506,Branche C,Naypyitaw,Member,Female,Home and lifestyle,34.35,1,1.89,36.24,2019-01-02 14:29:11.351351,16:39,Cash,34.35,5.5,1.89,5.0,16,January,1
+750-40-3567,Branche B,Mandalay,Member,Female,Health and beauty,72.55,8,34.82,615.22,2019-01-02 18:45:45.945945,12:47,Credit card,580.4,6.0,34.82,9.5,12,January,1
+750-97-9636,Branche A,Yangon,Normal,Male,Food and beverages,68.1,3,9.81,214.11,2019-01-02 18:45:45.945945,11:53,Cash,204.3,4.8,9.81,7.7,11,January,1
+750-76-1089,Branche B,Mandalay,Member,Female,Health and beauty,71.17,7,29.89,528.08,2019-01-02 20:54:03.243243,14:47,Ewallet,498.19,6.0,29.89,4.9,14,January,1
+750-60-6707,Branche B,Mandalay,Normal,Male,Fashion accessories,19.26,2,2.0,40.52,2019-01-03 01:10:37.837837,14:51,Credit card,38.52,5.2,2.0,5.9,14,January,1
+750-95-9967,Branche C,Naypyitaw,Member,Female,Electronic accessories,51.27,1,2.31,53.58,2019-01-03 03:18:55.135135,17:01,Cash,51.27,4.5,2.31,7.6,17,January,1
+750-56-6375,Branche C,Naypyitaw,Normal,Male,Fashion accessories,36.4,10,18.93,382.93,2019-01-03 03:18:55.135135,18:08,Credit card,364.0,5.2,18.93,9.1,18,January,1
+750-33-4097,Branche A,Yangon,Normal,Female,Food and beverages,65.39,7,21.97,479.7,2019-01-03 05:27:12.432432,17:20,Cash,457.73,4.8,21.97,4.4,17,January,1
+750-22-6051,Branche B,Mandalay,Member,Male,Electronic accessories,65.23,5,14.68,340.83,2019-01-03 05:27:12.432432,13:38,Cash,326.15,4.5,14.68,6.2,13,January,1
+750-67-1233,Branche C,Naypyitaw,Normal,Male,Sports and travel,79.28,10,45.19,837.99,2019-01-03 11:52:04.324324,13:08,Ewallet,792.8,5.7,45.19,9.8,13,January,1
+750-69-5454,Branche C,Naypyitaw,Normal,Female,Home and lifestyle,21.9,6,7.23,138.63,2019-01-03 11:52:04.324324,18:15,Cash,131.4,5.5,7.23,5.7,18,January,1
+750-11-4619,Branche C,Naypyitaw,Normal,Female,Home and lifestyle,47.72,6,15.75,302.07,2019-01-03 11:52:04.324324,12:27,Credit card,286.32,5.5,15.75,4.3,12,January,1
+750-22-9503,Branche C,Naypyitaw,Normal,Male,Sports and travel,40.72,6,13.93,258.25,2019-01-03 16:08:38.918918,11:49,Cash,244.32,5.7,13.93,7.8,11,January,1
+750-97-3303,Branche A,Yangon,Normal,Male,Fashion accessories,69.67,7,25.36,513.05,2019-01-03 18:16:56.216216,19:30,Cash,487.69,5.2,25.36,5.2,19,January,1
+750-43-8269,Branche B,Mandalay,Normal,Male,Food and beverages,86.55,10,41.54,907.04,2019-01-03 20:25:13.513513,11:36,Cash,865.5,4.8,41.54,4.3,11,January,1
+750-92-8813,Branche C,Naypyitaw,Normal,Female,Home and lifestyle,99.0,2,10.89,208.89,2019-01-03 22:33:30.810810,18:06,Credit card,198.0,5.5,10.89,5.6,18,January,1
+750-38-1753,Branche B,Mandalay,Member,Male,Food and beverages,16.21,10,7.78,169.88,2019-01-03 22:33:30.810810,14:02,Cash,162.1,4.8,7.78,7.5,14,January,1
+750-80-4626,Branche A,Yangon,Normal,Female,Electronic accessories,11.25,2,1.01,23.51,2019-01-04 00:41:48.108108,18:39,Ewallet,22.5,4.5,1.01,4.0,18,January,1
+750-39-3646,Branche C,Naypyitaw,Member,Female,Food and beverages,84.58,1,4.06,88.64,2019-01-04 02:50:05.405405,18:45,Credit card,84.58,4.8,4.06,4.3,18,January,1
+750-38-7110,Branche C,Naypyitaw,Normal,Female,Food and beverages,24.64,3,3.55,77.47,2019-01-04 07:06:40.000000,17:58,Ewallet,73.92,4.8,3.55,8.8,17,January,1
+750-83-2810,Branche A,Yangon,Member,Male,Fashion accessories,49.66,5,12.91,261.21,2019-01-04 09:14:57.297297,13:54,Credit card,248.3,5.2,12.91,7.7,13,January,1
+750-47-8053,Branche C,Naypyitaw,Member,Male,Electronic accessories,99.33,6,26.82,622.8,2019-01-04 11:23:14.594594,13:05,Cash,595.98,4.5,26.82,7.5,13,January,1
+750-36-6984,Branche A,Yangon,Normal,Male,Home and lifestyle,53.06,9,26.26,503.8,2019-01-04 13:31:31.891891,19:07,Credit card,477.54,5.5,26.26,7.9,19,January,1
+750-14-1804,Branche C,Naypyitaw,Normal,Female,Sports and travel,43.9,8,20.02,371.22,2019-01-04 15:39:49.189189,17:03,Cash,351.2,5.7,20.02,6.2,17,January,1
+750-27-6327,Branche C,Naypyitaw,Member,Female,Fashion accessories,89.77,6,28.01,566.63,2019-01-04 15:39:49.189189,15:02,Cash,538.62,5.2,28.01,8.5,15,January,1
+750-10-6672,Branche A,Yangon,Normal,Male,Sports and travel,30.36,6,10.38,192.54,2019-01-04 19:56:23.783783,15:15,Cash,182.16,5.7,10.38,5.9,15,January,1
+750-98-4512,Branche A,Yangon,Normal,Female,Food and beverages,45.42,7,15.26,333.2,2019-01-05 06:37:50.270270,10:23,Credit card,317.94,4.8,15.26,9.9,10,January,1
+750-64-2351,Branche B,Mandalay,Normal,Female,Food and beverages,52.92,6,15.24,332.76,2019-01-05 10:54:24.864864,14:47,Cash,317.52,4.8,15.24,5.3,14,January,1
+750-79-8814,Branche C,Naypyitaw,Member,Female,Health and beauty,37.7,10,22.62,399.62,2019-01-05 17:19:16.756756,19:13,Credit card,377.0,6.0,22.62,9.8,19,January,1
+750-77-4811,Branche A,Yangon,Member,Male,Health and beauty,14.38,5,4.31,76.21,2019-01-05 19:27:34.054054,15:09,Cash,71.9,6.0,4.31,7.5,15,January,1
+750-89-7374,Branche A,Yangon,Member,Male,Food and beverages,47.33,3,6.82,148.81,2019-01-05 19:27:34.054054,15:01,Cash,141.99,4.8,6.82,4.1,15,January,1
+750-63-1033,Branche B,Mandalay,Normal,Male,Home and lifestyle,93.6,6,30.89,592.49,2019-01-06 04:00:43.243243,14:37,Cash,561.6,5.5,30.89,5.4,14,January,1
+750-12-3200,Branche B,Mandalay,Member,Male,Fashion accessories,99.29,6,30.98,626.72,2019-01-06 04:00:43.243243,13:16,Ewallet,595.74,5.2,30.98,4.9,13,January,1
+750-71-6768,Branche C,Naypyitaw,Member,Female,Health and beauty,78.38,2,9.41,166.17,2019-01-06 04:00:43.243243,17:10,Cash,156.76,6.0,9.41,5.6,17,January,1
+750-43-1703,Branche A,Yangon,Normal,Female,Sports and travel,91.97,4,20.97,388.85,2019-01-06 04:00:43.243243,18:37,Credit card,367.88,5.7,20.97,8.4,18,January,1
+750-59-1071,Branche A,Yangon,Normal,Male,Sports and travel,31.63,5,9.01,167.16,2019-01-06 06:09:00.540540,12:46,Ewallet,158.15,5.7,9.01,4.3,12,January,1
+750-57-8990,Branche C,Naypyitaw,Normal,Female,Food and beverages,12.16,7,4.09,89.21,2019-01-06 08:17:17.837837,14:25,Credit card,85.12,4.8,4.09,4.4,14,January,1
+750-67-7825,Branche C,Naypyitaw,Normal,Male,Sports and travel,59.22,3,10.13,187.79,2019-01-06 08:17:17.837837,17:37,Credit card,177.66,5.7,10.13,5.6,17,January,1
+750-23-5039,Branche C,Naypyitaw,Member,Male,Sports and travel,48.0,2,5.47,101.47,2019-01-06 08:17:17.837837,15:07,Credit card,96.0,5.7,5.47,4.1,15,January,1
+750-83-6367,Branche A,Yangon,Normal,Male,Electronic accessories,29.26,7,9.22,214.04,2019-01-06 10:25:35.135135,11:32,Credit card,204.82,4.5,9.22,4.9,11,January,1
+750-27-9645,Branche A,Yangon,Member,Female,Fashion accessories,21.3,5,5.54,112.04,2019-01-06 14:42:09.729729,10:06,Credit card,106.5,5.2,5.54,4.7,10,January,1
+750-79-7642,Branche A,Yangon,Normal,Male,Electronic accessories,32.39,8,11.66,270.78,2019-01-06 18:58:44.324324,18:49,Ewallet,259.12,4.5,11.66,9.0,18,January,1
+750-20-8434,Branche A,Yangon,Normal,Female,Food and beverages,80.51,9,34.78,759.37,2019-01-06 21:07:01.621621,17:05,Credit card,724.59,4.8,34.78,9.5,17,January,1
+750-31-8129,Branche C,Naypyitaw,Normal,Male,Home and lifestyle,20.8,3,3.43,65.83,2019-01-06 23:15:18.918918,15:27,Cash,62.4,5.5,3.43,4.1,15,January,1
+750-37-1511,Branche A,Yangon,Member,Female,Home and lifestyle,40.49,9,20.04,384.45,2019-01-07 01:23:36.216216,19:10,Ewallet,364.41,5.5,20.04,5.0,19,January,1
+750-65-5506,Branche A,Yangon,Normal,Female,Health and beauty,83.65,2,10.04,177.34,2019-01-07 03:31:53.513513,17:42,Credit card,167.3,6.0,10.04,8.5,17,January,1
+750-46-9283,Branche B,Mandalay,Normal,Female,Fashion accessories,25.7,2,2.67,54.07,2019-01-07 05:40:10.810810,11:39,Cash,51.4,5.2,2.67,8.6,11,January,1
+750-69-8981,Branche A,Yangon,Member,Female,Home and lifestyle,68.12,7,26.23,503.07,2019-01-07 12:05:02.702702,16:23,Cash,476.84,5.5,26.23,8.9,16,January,1
+750-18-5687,Branche C,Naypyitaw,Normal,Female,Electronic accessories,76.78,6,20.73,481.41,2019-01-07 12:05:02.702702,18:29,Ewallet,460.68,4.5,20.73,7.1,18,January,1
+750-92-8365,Branche A,Yangon,Member,Male,Health and beauty,38.1,10,22.86,403.86,2019-01-07 14:13:20.000000,11:47,Credit card,381.0,6.0,22.86,5.6,11,January,1
+750-28-5035,Branche C,Naypyitaw,Normal,Male,Electronic accessories,18.09,8,6.51,151.23,2019-01-07 16:21:37.297297,11:45,Ewallet,144.72,4.5,6.51,4.1,11,January,1
+750-20-3542,Branche B,Mandalay,Normal,Female,Food and beverages,87.53,5,21.01,458.66,2019-01-07 18:29:54.594594,17:26,Cash,437.65,4.8,21.01,7.8,17,January,1
+750-15-8744,Branche C,Naypyitaw,Normal,Male,Food and beverages,13.88,10,6.66,145.46,2019-01-08 00:54:46.486486,14:09,Ewallet,138.8,4.8,6.66,5.8,14,January,1
+750-60-9191,Branche C,Naypyitaw,Normal,Female,Electronic accessories,83.29,7,26.24,609.27,2019-01-08 00:54:46.486486,14:22,Cash,583.03,4.5,26.24,4.6,14,January,1
+750-78-8190,Branche A,Yangon,Normal,Male,Electronic accessories,66.71,4,12.01,278.85,2019-01-08 03:03:03.783783,14:47,Ewallet,266.84,4.5,12.01,8.8,14,January,1
+750-40-4491,Branche C,Naypyitaw,Member,Male,Electronic accessories,82.91,3,11.19,259.92,2019-01-08 05:11:21.081081,15:19,Credit card,248.73,4.5,11.19,7.3,15,January,1
+750-39-6964,Branche C,Naypyitaw,Normal,Female,Home and lifestyle,25.19,9,12.47,239.18,2019-01-08 07:19:38.378378,12:26,Cash,226.71,5.5,12.47,6.9,12,January,1
+750-58-2511,Branche A,Yangon,Member,Male,Sports and travel,87.32,6,29.86,553.78,2019-01-08 13:44:30.270270,16:20,Cash,523.92,5.7,29.86,9.5,16,January,1
+750-47-9820,Branche C,Naypyitaw,Normal,Male,Home and lifestyle,63.77,4,14.03,269.11,2019-01-08 13:44:30.270270,19:31,Credit card,255.08,5.5,14.03,7.4,19,January,1
+750-90-8723,Branche C,Naypyitaw,Normal,Male,Fashion accessories,63.41,8,26.38,533.66,2019-01-08 13:44:30.270270,13:50,Credit card,507.28,5.2,26.38,9.2,13,January,1
+750-26-9367,Branche A,Yangon,Normal,Female,Sports and travel,21.09,10,12.02,222.92,2019-01-08 13:44:30.270270,14:09,Ewallet,210.9,5.7,12.02,8.6,14,January,1
+750-46-4404,Branche B,Mandalay,Member,Female,Food and beverages,62.0,1,2.98,64.98,2019-01-08 13:44:30.270270,17:32,Cash,62.0,4.8,2.98,9.7,17,January,1
+750-23-1721,Branche A,Yangon,Normal,Female,Health and beauty,23.43,6,8.43,149.01,2019-01-08 15:52:47.567567,18:28,Cash,140.58,6.0,8.43,8.8,18,January,1
+750-62-7012,Branche A,Yangon,Member,Male,Electronic accessories,27.88,8,10.04,233.08,2019-01-08 15:52:47.567567,14:29,Cash,223.04,4.5,10.04,7.1,14,January,1
+750-30-3070,Branche A,Yangon,Normal,Female,Electronic accessories,91.63,1,4.12,95.75,2019-01-08 18:01:04.864864,11:27,Cash,91.63,4.5,4.12,5.0,11,January,1
+750-52-5562,Branche C,Naypyitaw,Member,Male,Fashion accessories,14.84,3,2.32,46.84,2019-01-08 20:09:22.162162,13:44,Ewallet,44.52,5.2,2.32,9.8,13,January,1
+750-43-9753,Branche C,Naypyitaw,Member,Female,Home and lifestyle,18.86,6,6.22,119.38,2019-01-09 00:25:56.756756,14:39,Ewallet,113.16,5.5,6.22,4.9,14,January,1
+750-57-5147,Branche C,Naypyitaw,Member,Female,Fashion accessories,42.83,4,8.91,180.23,2019-01-09 02:34:14.054054,12:03,Credit card,171.32,5.2,8.91,5.0,12,January,1
+750-40-9802,Branche A,Yangon,Normal,Male,Health and beauty,40.53,9,21.89,386.66,2019-01-09 04:42:31.351351,13:38,Credit card,364.77,6.0,21.89,5.5,13,January,1
+750-72-9171,Branche C,Naypyitaw,Normal,Male,Food and beverages,86.85,9,37.52,819.17,2019-01-09 04:42:31.351351,16:13,Credit card,781.65,4.8,37.52,7.8,16,January,1
+750-62-3413,Branche C,Naypyitaw,Member,Female,Fashion accessories,47.68,10,24.79,501.59,2019-01-09 04:42:31.351351,15:20,Ewallet,476.8,5.2,24.79,9.2,15,January,1
+750-31-1386,Branche C,Naypyitaw,Member,Male,Fashion accessories,61.62,10,32.04,648.24,2019-01-09 04:42:31.351351,13:23,Cash,616.2,5.2,32.04,7.4,13,January,1
+750-44-3415,Branche A,Yangon,Member,Male,Home and lifestyle,26.6,9,13.17,252.57,2019-01-09 08:59:05.945945,11:54,Credit card,239.4,5.5,13.17,5.2,11,January,1
+750-19-8726,Branche A,Yangon,Member,Female,Health and beauty,10.63,3,1.91,33.8,2019-01-09 08:59:05.945945,19:59,Ewallet,31.89,6.0,1.91,9.0,19,January,1
+750-74-9509,Branche B,Mandalay,Member,Female,Electronic accessories,39.85,10,17.93,416.43,2019-01-09 08:59:05.945945,16:48,Ewallet,398.5,4.5,17.93,7.4,16,January,1
+750-47-3779,Branche C,Naypyitaw,Member,Female,Health and beauty,83.42,4,20.02,353.7,2019-01-09 08:59:05.945945,13:09,Cash,333.68,6.0,20.02,7.2,13,January,1
+750-12-4546,Branche C,Naypyitaw,Member,Female,Food and beverages,35.25,4,6.77,147.77,2019-01-09 08:59:05.945945,14:49,Cash,141.0,4.8,6.77,4.5,14,January,1
+750-33-6419,Branche A,Yangon,Member,Female,Sports and travel,41.09,10,23.42,434.32,2019-01-09 11:07:23.243243,19:17,Ewallet,410.9,5.7,23.42,9.3,19,January,1
+750-73-7980,Branche B,Mandalay,Member,Female,Fashion accessories,95.05,2,9.89,199.99,2019-01-09 13:15:40.540540,17:57,Credit card,190.1,5.2,9.89,5.1,17,January,1
+750-81-8538,Branche B,Mandalay,Member,Male,Fashion accessories,80.02,5,20.81,420.91,2019-01-09 17:32:15.135135,17:29,Credit card,400.1,5.2,20.81,8.7,17,January,1
+750-22-2856,Branche B,Mandalay,Normal,Female,Electronic accessories,36.76,6,9.93,230.49,2019-01-09 21:48:49.729729,16:55,Credit card,220.56,4.5,9.93,8.7,16,January,1
+750-95-3072,Branche A,Yangon,Member,Female,Sports and travel,78.99,4,18.01,333.97,2019-01-09 21:48:49.729729,13:30,Ewallet,315.96,5.7,18.01,6.3,13,January,1
+750-42-9131,Branche B,Mandalay,Normal,Male,Food and beverages,80.37,8,30.86,673.82,2019-01-10 06:21:58.918918,15:26,Credit card,642.96,4.8,30.86,7.3,15,January,1
+750-45-8664,Branche B,Mandalay,Member,Female,Health and beauty,14.35,10,8.61,152.11,2019-01-10 06:21:58.918918,12:16,Ewallet,143.5,6.0,8.61,9.8,12,January,1
+750-80-6432,Branche B,Mandalay,Member,Male,Electronic accessories,89.19,3,12.04,279.61,2019-01-10 06:21:58.918918,11:55,Credit card,267.57,4.5,12.04,4.2,11,January,1
+750-46-2331,Branche A,Yangon,Member,Male,Electronic accessories,66.82,2,6.01,139.65,2019-01-10 10:38:33.513513,15:42,Credit card,133.64,4.5,6.01,5.8,15,January,1
+750-91-7079,Branche C,Naypyitaw,Member,Male,Health and beauty,62.7,8,30.1,531.7,2019-01-10 17:03:25.405405,12:06,Credit card,501.6,6.0,30.1,4.8,12,January,1
+750-82-9166,Branche A,Yangon,Member,Male,Health and beauty,42.63,9,23.02,406.69,2019-01-10 21:20:00.000000,19:43,Ewallet,383.67,6.0,23.02,7.8,19,January,1
+750-75-4577,Branche C,Naypyitaw,Normal,Female,Electronic accessories,58.98,5,13.27,308.17,2019-01-10 21:20:00.000000,16:01,Ewallet,294.9,4.5,13.27,5.7,16,January,1
+750-43-6347,Branche C,Naypyitaw,Normal,Male,Food and beverages,20.72,6,5.97,130.29,2019-01-10 23:28:17.297297,10:44,Credit card,124.32,4.8,5.97,5.7,10,January,1
+750-61-5329,Branche C,Naypyitaw,Member,Male,Fashion accessories,48.38,6,15.09,305.37,2019-01-11 01:36:34.594594,16:11,Ewallet,290.28,5.2,15.09,8.0,16,January,1
+750-79-7928,Branche A,Yangon,Normal,Male,Home and lifestyle,81.3,10,44.72,857.72,2019-01-11 01:36:34.594594,15:47,Credit card,813.0,5.5,44.72,6.9,15,January,1
+750-14-3791,Branche A,Yangon,Normal,Male,Health and beauty,84.66,4,20.32,358.96,2019-01-11 03:44:51.891891,18:18,Ewallet,338.64,6.0,20.32,5.1,18,January,1
+750-20-8836,Branche C,Naypyitaw,Normal,Male,Fashion accessories,25.29,1,1.32,26.61,2019-01-11 03:44:51.891891,12:51,Cash,25.29,5.2,1.32,7.7,12,January,1
+750-57-9866,Branche C,Naypyitaw,Member,Female,Fashion accessories,22.9,4,4.76,96.36,2019-01-11 16:34:35.675675,15:58,Ewallet,91.6,5.2,4.76,9.6,15,January,1
+750-41-9368,Branche B,Mandalay,Member,Female,Electronic accessories,89.6,7,28.22,655.42,2019-01-11 16:34:35.675675,19:58,Credit card,627.2,4.5,28.22,5.7,19,January,1
+750-68-2285,Branche C,Naypyitaw,Normal,Female,Fashion accessories,42.23,6,13.18,266.56,2019-01-11 18:42:52.972972,18:19,Cash,253.38,5.2,13.18,8.9,18,January,1
+750-24-5055,Branche A,Yangon,Normal,Male,Home and lifestyle,43.93,9,21.75,417.12,2019-01-11 18:42:52.972972,15:21,Cash,395.37,5.5,21.75,6.7,15,January,1
+750-38-4090,Branche C,Naypyitaw,Normal,Male,Sports and travel,62.63,6,21.42,397.2,2019-01-12 01:07:44.864864,15:41,Credit card,375.78,5.7,21.42,8.0,15,January,1
+750-81-4238,Branche A,Yangon,Member,Female,Fashion accessories,47.39,5,12.32,249.27,2019-01-12 05:24:19.459459,15:42,Cash,236.95,5.2,12.32,6.9,15,January,1
+750-32-6422,Branche C,Naypyitaw,Member,Male,Electronic accessories,49.78,10,22.4,520.2,2019-01-12 05:24:19.459459,16:37,Credit card,497.8,4.5,22.4,7.8,16,January,1
+750-87-5431,Branche A,Yangon,Member,Female,Health and beauty,83.29,6,29.98,529.72,2019-01-12 05:24:19.459459,13:21,Cash,499.74,6.0,29.98,9.0,13,January,1
+750-54-3088,Branche B,Mandalay,Normal,Male,Fashion accessories,59.81,3,9.33,188.76,2019-01-12 07:32:36.756756,10:10,Cash,179.43,5.2,9.33,5.9,10,January,1
+750-61-2934,Branche A,Yangon,Normal,Female,Electronic accessories,36.27,5,8.16,189.51,2019-01-12 07:32:36.756756,13:52,Cash,181.35,4.5,8.16,8.8,13,January,1
+750-79-2672,Branche B,Mandalay,Member,Male,Sports and travel,82.22,9,42.18,782.16,2019-01-12 16:05:45.945945,11:25,Credit card,739.98,5.7,42.18,7.3,11,January,1
+750-74-3291,Branche A,Yangon,Normal,Female,Fashion accessories,96.38,1,5.01,101.39,2019-01-12 18:14:03.243243,15:27,Cash,96.38,5.2,5.01,8.9,15,January,1
+750-68-7175,Branche A,Yangon,Normal,Male,Food and beverages,49.17,6,14.16,309.18,2019-01-12 18:14:03.243243,12:38,Ewallet,295.02,4.8,14.16,9.3,12,January,1
+750-71-6188,Branche B,Mandalay,Member,Female,Health and beauty,29.86,3,5.37,94.95,2019-01-12 18:14:03.243243,17:34,Ewallet,89.58,6.0,5.37,10.0,17,January,1
+750-96-8182,Branche C,Naypyitaw,Member,Female,Food and beverages,65.54,8,25.17,549.49,2019-01-12 22:30:37.837837,16:00,Credit card,524.32,4.8,25.17,9.4,16,January,1
+750-26-2734,Branche B,Mandalay,Member,Female,Home and lifestyle,90.76,6,29.95,574.51,2019-01-13 00:38:55.135135,18:29,Ewallet,544.56,5.5,29.95,4.3,18,January,1
+750-20-7961,Branche A,Yangon,Member,Female,Electronic accessories,92.35,6,24.93,579.03,2019-01-13 04:55:29.729729,16:35,Cash,554.1,4.5,24.93,5.6,16,January,1
+750-72-7219,Branche B,Mandalay,Normal,Female,Electronic accessories,70.58,9,28.58,663.8,2019-01-13 04:55:29.729729,17:45,Cash,635.22,4.5,28.58,4.7,17,January,1
+750-53-1106,Branche A,Yangon,Normal,Female,Fashion accessories,76.09,9,35.61,720.42,2019-01-13 07:03:47.027027,18:20,Ewallet,684.81,5.2,35.61,4.8,18,January,1
+750-55-1500,Branche B,Mandalay,Normal,Female,Fashion accessories,84.35,5,21.93,443.68,2019-01-13 11:20:21.621621,13:12,Cash,421.75,5.2,21.93,6.0,13,January,1
+750-79-5929,Branche A,Yangon,Member,Female,Home and lifestyle,46.49,8,20.46,392.38,2019-01-13 13:28:38.918918,15:40,Ewallet,371.92,5.5,20.46,7.5,15,January,1
+750-56-7605,Branche A,Yangon,Member,Female,Health and beauty,87.9,9,47.47,838.57,2019-01-13 17:45:13.513513,12:41,Cash,791.1,6.0,47.47,6.3,12,January,1
+750-68-9391,Branche A,Yangon,Normal,Female,Health and beauty,11.16,2,1.34,23.66,2019-01-13 17:45:13.513513,18:38,Credit card,22.32,6.0,1.34,9.1,18,January,1
+750-61-6648,Branche A,Yangon,Member,Female,Electronic accessories,70.45,1,3.17,73.62,2019-01-13 19:53:30.810810,14:44,Cash,70.45,4.5,3.17,8.1,14,January,1
+750-63-4413,Branche A,Yangon,Normal,Female,Food and beverages,26.8,10,12.86,280.86,2019-01-13 22:01:48.108108,12:26,Cash,268.0,4.8,12.86,9.6,12,January,1
+750-88-5929,Branche C,Naypyitaw,Member,Male,Fashion accessories,38.42,5,9.99,202.09,2019-01-13 22:01:48.108108,16:27,Ewallet,192.1,5.2,9.99,6.2,16,January,1
+750-68-9917,Branche A,Yangon,Member,Male,Sports and travel,21.99,8,10.03,185.95,2019-01-14 02:18:22.702702,11:06,Credit card,175.92,5.7,10.03,8.5,11,January,1
+750-81-1402,Branche A,Yangon,Member,Female,Health and beauty,76.74,2,9.21,162.69,2019-01-14 04:26:40.000000,17:52,Cash,153.48,6.0,9.21,9.6,17,January,1
+750-34-8181,Branche C,Naypyitaw,Normal,Female,Home and lifestyle,91.22,7,35.12,673.66,2019-01-14 08:43:14.594594,19:24,Ewallet,638.54,5.5,35.12,5.9,19,January,1
+750-69-8188,Branche C,Naypyitaw,Member,Male,Health and beauty,99.69,3,17.94,317.01,2019-01-14 15:08:06.486486,16:26,Cash,299.07,6.0,17.94,7.4,16,January,1
+750-13-5127,Branche B,Mandalay,Normal,Male,Fashion accessories,50.53,6,15.77,318.95,2019-01-14 15:08:06.486486,19:19,Credit card,303.18,5.2,15.77,5.1,19,January,1
+750-57-6280,Branche C,Naypyitaw,Normal,Female,Home and lifestyle,72.31,5,19.89,381.44,2019-01-14 17:16:23.783783,10:01,Ewallet,361.55,5.5,19.89,7.0,10,January,1
+750-34-2125,Branche B,Mandalay,Member,Female,Fashion accessories,66.83,1,3.48,70.31,2019-01-14 23:41:15.675675,18:00,Cash,66.83,5.2,3.48,6.0,18,January,1
+750-40-8996,Branche C,Naypyitaw,Member,Male,Fashion accessories,97.05,1,5.05,102.1,2019-01-15 01:49:32.972972,15:00,Ewallet,97.05,5.2,5.05,6.0,15,January,1
+750-44-8824,Branche A,Yangon,Normal,Male,Electronic accessories,72.8,4,13.1,304.3,2019-01-15 03:57:50.270270,15:02,Ewallet,291.2,4.5,13.1,8.0,15,January,1
+750-52-2916,Branche C,Naypyitaw,Member,Female,Sports and travel,54.66,1,3.12,57.78,2019-01-15 08:14:24.864864,13:22,Cash,54.66,5.7,3.12,4.7,13,January,1
+750-49-7081,Branche A,Yangon,Normal,Male,Home and lifestyle,47.11,7,18.14,347.91,2019-01-15 10:22:42.162162,12:35,Cash,329.77,5.5,18.14,5.0,12,January,1
+750-52-2395,Branche B,Mandalay,Member,Female,Food and beverages,41.93,10,20.13,439.43,2019-01-15 10:22:42.162162,11:47,Ewallet,419.3,4.8,20.13,4.5,11,January,1
+750-19-6083,Branche C,Naypyitaw,Normal,Female,Electronic accessories,44.35,10,19.96,463.46,2019-01-15 14:39:16.756756,19:59,Ewallet,443.5,4.5,19.96,9.8,19,January,1
+750-70-1871,Branche A,Yangon,Member,Male,Sports and travel,36.62,2,4.17,77.41,2019-01-15 16:47:34.054054,10:31,Ewallet,73.24,5.7,4.17,4.7,10,January,1
+750-64-6291,Branche B,Mandalay,Normal,Male,Food and beverages,37.7,7,12.67,276.57,2019-01-15 16:47:34.054054,12:21,Ewallet,263.9,4.8,12.67,8.8,12,January,1
+750-25-9523,Branche B,Mandalay,Member,Male,Food and beverages,21.11,4,4.05,88.49,2019-01-15 18:55:51.351351,17:08,Credit card,84.44,4.8,4.05,9.9,17,January,1
+750-27-5066,Branche A,Yangon,Normal,Female,Home and lifestyle,94.79,5,26.07,500.02,2019-01-15 18:55:51.351351,13:34,Cash,473.95,5.5,26.07,5.2,13,January,1
+750-14-2764,Branche B,Mandalay,Normal,Male,Food and beverages,56.3,8,21.62,472.02,2019-01-15 23:12:25.945945,16:23,Ewallet,450.4,4.8,21.62,5.7,16,January,1
+750-72-9526,Branche A,Yangon,Member,Male,Health and beauty,77.91,10,46.75,825.85,2019-01-16 03:29:00.540540,12:30,Credit card,779.1,6.0,46.75,5.6,12,January,1
+750-35-8975,Branche B,Mandalay,Normal,Male,Fashion accessories,80.6,2,8.38,169.58,2019-01-16 05:37:17.837837,13:03,Ewallet,161.2,5.2,8.38,4.1,13,January,1
+750-26-7182,Branche B,Mandalay,Member,Female,Food and beverages,32.58,10,15.64,341.44,2019-01-16 07:45:35.135135,15:22,Ewallet,325.8,4.8,15.64,8.3,15,January,1
+750-29-4145,Branche C,Naypyitaw,Normal,Male,Food and beverages,28.87,10,13.86,302.56,2019-01-16 12:02:09.729729,11:17,Credit card,288.7,4.8,13.86,4.8,11,January,1
+750-65-5886,Branche C,Naypyitaw,Member,Male,Home and lifestyle,39.19,10,21.55,413.45,2019-01-16 12:02:09.729729,14:16,Credit card,391.9,5.5,21.55,8.0,14,January,1
+750-45-4055,Branche B,Mandalay,Normal,Female,Home and lifestyle,34.48,4,7.59,145.51,2019-01-16 12:02:09.729729,15:56,Cash,137.92,5.5,7.59,8.8,15,January,1
+750-11-4907,Branche C,Naypyitaw,Normal,Male,Health and beauty,40.36,5,12.11,213.91,2019-01-16 12:02:09.729729,10:25,Cash,201.8,6.0,12.11,8.6,10,January,1
+750-12-4600,Branche B,Mandalay,Member,Female,Sports and travel,52.76,1,3.01,55.77,2019-01-16 14:10:27.027027,12:19,Credit card,52.76,5.7,3.01,8.4,12,January,1
+750-12-1305,Branche C,Naypyitaw,Member,Female,Food and beverages,24.55,7,8.25,180.1,2019-01-16 22:43:36.216216,16:15,Ewallet,171.85,4.8,8.25,9.8,16,January,1
+750-70-6587,Branche C,Naypyitaw,Member,Male,Fashion accessories,63.64,10,33.09,669.49,2019-01-16 22:43:36.216216,13:52,Credit card,636.4,5.2,33.09,8.3,13,January,1
+750-88-4871,Branche C,Naypyitaw,Member,Female,Sports and travel,78.4,3,13.41,248.61,2019-01-16 22:43:36.216216,10:42,Cash,235.2,5.7,13.41,9.0,10,January,1
+750-29-7321,Branche C,Naypyitaw,Normal,Male,Health and beauty,87.18,5,26.15,462.05,2019-01-17 00:51:53.513513,14:03,Ewallet,435.9,6.0,26.15,6.7,14,January,1
+750-74-6891,Branche C,Naypyitaw,Member,Male,Home and lifestyle,59.56,7,22.93,439.85,2019-01-17 03:00:10.810810,16:04,Cash,416.92,5.5,22.93,8.9,16,January,1
+750-59-2999,Branche A,Yangon,Member,Female,Food and beverages,39.51,1,1.9,41.41,2019-01-17 07:16:45.405405,13:24,Cash,39.51,4.8,1.9,9.9,13,January,1
+750-48-7301,Branche B,Mandalay,Member,Male,Health and beauty,30.43,8,14.61,258.05,2019-01-17 07:16:45.405405,11:34,Cash,243.44,6.0,14.61,4.8,11,January,1
+750-37-5425,Branche C,Naypyitaw,Normal,Female,Home and lifestyle,13.2,4,2.9,55.7,2019-01-17 13:41:37.297297,13:18,Credit card,52.8,5.5,2.9,5.1,13,January,1
+750-90-7563,Branche B,Mandalay,Member,Male,Health and beauty,27.09,3,4.88,86.15,2019-01-17 13:41:37.297297,15:18,Ewallet,81.27,6.0,4.88,8.6,15,January,1
+750-50-1791,Branche A,Yangon,Normal,Female,Home and lifestyle,53.5,6,17.66,338.66,2019-01-17 20:06:29.189189,15:15,Credit card,321.0,5.5,17.66,7.4,15,January,1
+750-84-3525,Branche B,Mandalay,Member,Female,Health and beauty,65.92,7,27.69,489.13,2019-01-17 22:14:46.486486,18:59,Cash,461.44,6.0,27.69,5.5,18,January,1
+750-92-5588,Branche B,Mandalay,Normal,Male,Home and lifestyle,48.38,6,15.97,306.25,2019-01-17 22:14:46.486486,14:26,Cash,290.28,5.5,15.97,4.9,14,January,1
+750-28-1434,Branche B,Mandalay,Normal,Female,Sports and travel,26.11,3,4.46,82.79,2019-01-17 22:14:46.486486,17:16,Ewallet,78.33,5.7,4.46,5.6,17,January,1
+750-16-3811,Branche C,Naypyitaw,Member,Male,Fashion accessories,59.96,7,21.83,441.55,2019-01-18 00:23:03.783783,18:48,Ewallet,419.72,5.2,21.83,5.8,18,January,1
+750-64-8960,Branche C,Naypyitaw,Member,Female,Health and beauty,98.04,1,5.88,103.92,2019-01-18 04:39:38.378378,14:17,Ewallet,98.04,6.0,5.88,4.4,14,January,1
+750-45-5754,Branche B,Mandalay,Normal,Female,Sports and travel,28.79,7,11.49,213.02,2019-01-18 06:47:55.675675,12:27,Cash,201.53,5.7,11.49,6.7,12,January,1
+750-71-8215,Branche B,Mandalay,Normal,Female,Health and beauty,33.06,10,19.84,350.44,2019-01-18 08:56:12.972972,10:09,Cash,330.6,6.0,19.84,4.5,10,January,1
+750-65-1709,Branche C,Naypyitaw,Member,Female,Food and beverages,47.8,3,6.88,150.28,2019-01-18 08:56:12.972972,13:09,Cash,143.4,4.8,6.88,4.6,13,January,1
+750-49-1565,Branche A,Yangon,Member,Female,Health and beauty,12.16,8,5.84,103.12,2019-01-18 11:04:30.270270,16:38,Ewallet,97.28,6.0,5.84,6.9,16,January,1
+750-86-9063,Branche B,Mandalay,Member,Female,Health and beauty,28.91,5,8.67,153.22,2019-01-18 17:29:22.162162,15:32,Ewallet,144.55,6.0,8.67,9.0,15,January,1
+750-87-9737,Branche C,Naypyitaw,Normal,Male,Sports and travel,40.83,9,20.95,388.42,2019-01-18 21:45:56.756756,17:39,Cash,367.47,5.7,20.95,8.1,17,January,1
+750-32-4980,Branche B,Mandalay,Normal,Male,Fashion accessories,75.72,5,19.69,398.29,2019-01-18 21:45:56.756756,13:48,Credit card,378.6,5.2,19.69,5.9,13,January,1
+750-80-2787,Branche C,Naypyitaw,Member,Male,Electronic accessories,47.71,7,15.03,349.0,2019-01-19 02:02:31.351351,18:14,Cash,333.97,4.5,15.03,7.3,18,January,1
+750-58-2381,Branche B,Mandalay,Normal,Female,Health and beauty,35.23,1,2.11,37.34,2019-01-19 04:10:48.648648,16:21,Credit card,35.23,6.0,2.11,7.9,16,January,1
+750-25-9955,Branche B,Mandalay,Member,Female,Fashion accessories,27.09,10,14.09,284.99,2019-01-19 04:10:48.648648,16:47,Credit card,270.9,5.2,14.09,6.7,16,January,1
+750-31-4831,Branche B,Mandalay,Member,Male,Electronic accessories,92.02,1,4.14,96.16,2019-01-19 08:27:23.243243,16:26,Cash,92.02,4.5,4.14,8.0,16,January,1
+750-48-6366,Branche A,Yangon,Normal,Male,Electronic accessories,22.36,4,4.02,93.46,2019-01-19 10:35:40.540540,18:00,Credit card,89.44,4.5,4.02,4.9,18,January,1
+750-44-2145,Branche C,Naypyitaw,Normal,Female,Electronic accessories,85.95,10,38.68,898.18,2019-01-19 10:35:40.540540,13:58,Cash,859.5,4.5,38.68,5.3,13,January,1
+750-19-8381,Branche C,Naypyitaw,Normal,Male,Fashion accessories,49.77,10,25.88,523.58,2019-01-19 10:35:40.540540,14:47,Cash,497.7,5.2,25.88,4.0,14,January,1
+750-57-6408,Branche B,Mandalay,Normal,Male,Home and lifestyle,76.55,8,33.68,646.08,2019-01-19 14:52:15.135135,17:05,Credit card,612.4,5.5,33.68,8.4,17,January,1
+750-15-7387,Branche A,Yangon,Normal,Female,Sports and travel,81.44,10,46.42,860.82,2019-01-19 17:00:32.432432,13:11,Ewallet,814.4,5.7,46.42,8.7,13,January,1
+750-83-8933,Branche C,Naypyitaw,Normal,Female,Fashion accessories,14.1,3,2.2,44.5,2019-01-19 17:00:32.432432,11:22,Credit card,42.3,5.2,2.2,4.4,11,January,1
+750-38-9508,Branche A,Yangon,Normal,Male,Home and lifestyle,73.66,7,28.36,543.98,2019-01-19 17:00:32.432432,16:01,Credit card,515.62,5.5,28.36,8.0,16,January,1
+750-47-6322,Branche A,Yangon,Member,Male,Sports and travel,87.98,6,30.09,557.97,2019-01-19 19:08:49.729729,13:16,Cash,527.88,5.7,30.09,6.6,13,January,1
+750-67-3637,Branche A,Yangon,Member,Male,Food and beverages,41.71,9,18.02,393.41,2019-01-20 03:41:58.918918,19:28,Ewallet,375.39,4.8,18.02,7.6,19,January,1
+750-90-2884,Branche B,Mandalay,Member,Female,Fashion accessories,14.05,10,7.31,147.81,2019-01-20 05:50:16.216216,17:50,Credit card,140.5,5.2,7.31,8.4,17,January,1
+750-20-9142,Branche B,Mandalay,Normal,Female,Health and beauty,82.74,10,49.64,877.04,2019-01-20 05:50:16.216216,16:10,Credit card,827.4,6.0,49.64,4.7,16,January,1
+750-65-9035,Branche B,Mandalay,Member,Female,Fashion accessories,58.99,3,9.2,186.17,2019-01-20 14:23:25.405405,18:20,Ewallet,176.97,5.2,9.2,8.0,18,January,1
+750-95-6431,Branche C,Naypyitaw,Member,Male,Electronic accessories,27.67,4,4.98,115.66,2019-01-20 14:23:25.405405,11:29,Ewallet,110.68,4.5,4.98,9.1,11,January,1
+750-76-7026,Branche A,Yangon,Member,Male,Electronic accessories,69.61,9,28.19,654.68,2019-01-20 14:23:25.405405,15:36,Cash,626.49,4.5,28.19,7.5,15,January,1
+750-12-6558,Branche B,Mandalay,Member,Female,Fashion accessories,40.18,5,10.45,211.35,2019-01-20 14:23:25.405405,20:53,Ewallet,200.9,5.2,10.45,6.8,20,January,1
+750-24-1179,Branche A,Yangon,Member,Male,Fashion accessories,46.25,2,4.81,97.31,2019-01-20 14:23:25.405405,11:46,Ewallet,92.5,5.2,4.81,7.4,11,January,1
+750-74-7734,Branche A,Yangon,Member,Female,Sports and travel,84.48,10,48.15,892.95,2019-01-20 16:31:42.702702,13:17,Ewallet,844.8,5.7,48.15,6.5,13,January,1
+750-54-1589,Branche C,Naypyitaw,Normal,Male,Health and beauty,86.45,1,5.19,91.64,2019-01-20 22:56:34.594594,14:05,Ewallet,86.45,6.0,5.19,7.0,14,January,1
+750-19-8414,Branche A,Yangon,Member,Male,Electronic accessories,73.57,6,19.86,461.28,2019-01-21 01:04:51.891891,14:13,Credit card,441.42,4.5,19.86,4.2,14,January,1
+750-55-2701,Branche B,Mandalay,Normal,Female,Sports and travel,14.46,5,4.12,76.42,2019-01-21 03:13:09.189189,16:52,Cash,72.3,5.7,4.12,4.8,16,January,1
+750-66-4057,Branche B,Mandalay,Member,Female,Health and beauty,76.42,8,36.68,648.04,2019-01-21 05:21:26.486486,12:15,Cash,611.36,6.0,36.68,5.5,12,January,1
+750-38-6834,Branche A,Yangon,Member,Female,Home and lifestyle,19.49,2,2.14,41.12,2019-01-21 05:21:26.486486,13:01,Ewallet,38.98,5.5,2.14,8.9,13,January,1
+750-18-9789,Branche B,Mandalay,Member,Male,Fashion accessories,35.5,9,16.61,336.11,2019-01-21 07:29:43.783783,20:25,Credit card,319.5,5.2,16.61,6.7,20,January,1
+750-43-1794,Branche C,Naypyitaw,Normal,Female,Health and beauty,62.44,8,29.97,529.49,2019-01-21 13:54:35.675675,19:39,Ewallet,499.52,6.0,29.97,4.4,19,January,1
+750-92-9080,Branche B,Mandalay,Normal,Male,Food and beverages,44.2,10,21.22,463.22,2019-01-21 16:02:52.972972,12:59,Cash,442.0,4.8,21.22,7.9,12,January,1
+750-21-6149,Branche C,Naypyitaw,Normal,Female,Home and lifestyle,31.81,5,8.75,167.8,2019-01-21 16:02:52.972972,11:00,Credit card,159.05,5.5,8.75,9.5,11,January,1
+750-82-4123,Branche A,Yangon,Member,Male,Sports and travel,61.07,3,10.44,193.65,2019-01-21 18:11:10.270270,13:02,Credit card,183.21,5.7,10.44,8.7,13,January,1
+750-57-7834,Branche C,Naypyitaw,Normal,Female,Fashion accessories,94.1,6,29.36,593.96,2019-01-21 18:11:10.270270,18:25,Credit card,564.6,5.2,29.36,9.6,18,January,1
+750-28-8332,Branche B,Mandalay,Normal,Female,Electronic accessories,49.97,8,17.99,417.75,2019-01-21 18:11:10.270270,16:31,Ewallet,399.76,4.5,17.99,5.8,16,January,1
+750-21-2361,Branche A,Yangon,Member,Female,Health and beauty,18.08,3,3.25,57.49,2019-01-21 18:11:10.270270,12:03,Ewallet,54.24,6.0,3.25,4.2,12,January,1
+750-54-6440,Branche A,Yangon,Normal,Female,Sports and travel,45.67,7,18.22,337.91,2019-01-21 20:19:27.567567,13:10,Credit card,319.69,5.7,18.22,5.7,13,January,1
+750-22-2043,Branche B,Mandalay,Member,Female,Food and beverages,18.7,7,6.28,137.18,2019-01-21 20:19:27.567567,18:52,Credit card,130.9,4.8,6.28,7.4,18,January,1
+750-83-2942,Branche A,Yangon,Member,Female,Food and beverages,12.51,3,1.8,39.33,2019-01-21 20:19:27.567567,12:32,Ewallet,37.53,4.8,1.8,5.9,12,January,1
+750-27-8962,Branche C,Naypyitaw,Member,Male,Fashion accessories,21.41,5,5.57,112.62,2019-01-21 20:19:27.567567,11:20,Credit card,107.05,5.2,5.57,8.1,11,January,1
+750-18-7854,Branche A,Yangon,Member,Male,Electronic accessories,87.37,2,7.86,182.6,2019-01-21 20:19:27.567567,20:10,Ewallet,174.74,4.5,7.86,9.6,20,January,1
+750-40-1981,Branche C,Naypyitaw,Member,Male,Health and beauty,52.46,4,12.59,222.43,2019-01-21 22:27:44.864864,15:34,Ewallet,209.84,6.0,12.59,5.0,15,January,1
+750-15-4414,Branche B,Mandalay,Member,Female,Health and beauty,44.49,5,13.35,235.8,2019-01-22 07:00:54.054054,19:30,Cash,222.45,6.0,13.35,6.9,19,January,1
+750-60-2550,Branche C,Naypyitaw,Normal,Female,Food and beverages,45.63,5,10.95,239.1,2019-01-22 09:09:11.351351,18:29,Ewallet,228.15,4.8,10.95,8.1,18,January,1
+750-85-8670,Branche B,Mandalay,Normal,Male,Health and beauty,42.2,5,12.66,223.66,2019-01-22 09:09:11.351351,18:57,Cash,211.0,6.0,12.66,9.0,18,January,1
+750-38-7268,Branche B,Mandalay,Normal,Female,Health and beauty,83.24,2,9.99,176.47,2019-01-22 13:25:45.945945,18:06,Ewallet,166.48,6.0,9.99,9.5,18,January,1
+750-97-6327,Branche A,Yangon,Member,Male,Sports and travel,46.66,6,15.96,295.92,2019-01-22 13:25:45.945945,17:26,Ewallet,279.96,5.7,15.96,9.3,17,January,1
+750-16-1985,Branche B,Mandalay,Normal,Male,Home and lifestyle,72.04,10,39.62,760.02,2019-01-22 15:34:03.243243,20:26,Credit card,720.4,5.5,39.62,9.3,20,January,1
+750-94-8399,Branche B,Mandalay,Member,Male,Electronic accessories,45.55,2,4.1,95.2,2019-01-22 15:34:03.243243,14:36,Ewallet,91.1,4.5,4.1,4.9,14,January,1
+750-29-5130,Branche A,Yangon,Normal,Female,Health and beauty,60.75,5,18.22,321.97,2019-01-22 17:42:20.540540,16:05,Cash,303.75,6.0,18.22,6.9,16,January,1
+750-43-8696,Branche A,Yangon,Normal,Female,Food and beverages,72.73,7,24.44,533.55,2019-01-22 17:42:20.540540,19:10,Cash,509.11,4.8,24.44,9.2,19,January,1
+750-26-3024,Branche B,Mandalay,Normal,Male,Health and beauty,22.17,1,1.33,23.5,2019-01-23 02:15:29.729729,14:53,Cash,22.17,6.0,1.33,4.4,14,January,1
+750-37-7030,Branche B,Mandalay,Normal,Male,Health and beauty,84.94,8,40.77,720.29,2019-01-23 02:15:29.729729,12:47,Credit card,679.52,6.0,40.77,7.3,12,January,1
+750-45-9530,Branche B,Mandalay,Member,Female,Electronic accessories,32.23,10,14.5,336.8,2019-01-23 02:15:29.729729,14:55,Credit card,322.3,4.5,14.5,5.3,14,January,1
+750-43-6882,Branche A,Yangon,Normal,Female,Health and beauty,84.84,3,15.27,269.79,2019-01-23 04:23:47.027027,13:52,Credit card,254.52,6.0,15.27,4.4,13,January,1
+750-32-9556,Branche A,Yangon,Normal,Female,Food and beverages,10.54,5,2.53,55.23,2019-01-23 06:32:04.324324,15:11,Cash,52.7,4.8,2.53,9.0,15,January,1
+750-64-4081,Branche B,Mandalay,Member,Male,Electronic accessories,27.7,1,1.25,28.95,2019-01-23 08:40:21.621621,15:08,Cash,27.7,4.5,1.25,9.4,15,January,1
+750-23-1813,Branche C,Naypyitaw,Member,Male,Food and beverages,35.58,7,11.95,261.01,2019-01-23 10:48:38.918918,19:45,Ewallet,249.06,4.8,11.95,8.9,19,January,1
+750-45-5511,Branche A,Yangon,Member,Male,Home and lifestyle,14.93,2,1.64,31.5,2019-01-23 10:48:38.918918,19:01,Ewallet,29.86,5.5,1.64,9.3,19,January,1
+750-67-4154,Branche B,Mandalay,Normal,Male,Sports and travel,36.05,3,6.16,114.31,2019-01-23 10:48:38.918918,15:32,Cash,108.15,5.7,6.16,7.4,15,January,1
+750-50-1058,Branche C,Naypyitaw,Normal,Female,Health and beauty,88.57,8,42.51,751.07,2019-01-23 12:56:56.216216,16:47,Credit card,708.56,6.0,42.51,9.2,16,January,1
+750-11-6922,Branche C,Naypyitaw,Normal,Female,Fashion accessories,17.21,7,6.26,126.73,2019-01-23 15:05:13.513513,15:07,Ewallet,120.47,5.2,6.26,8.6,15,January,1
+750-74-6698,Branche A,Yangon,Normal,Male,Home and lifestyle,74.09,7,28.52,547.15,2019-01-23 17:13:30.810810,12:48,Credit card,518.63,5.5,28.52,8.9,12,January,1
+750-54-7850,Branche B,Mandalay,Member,Male,Sports and travel,27.59,7,11.01,204.14,2019-01-23 17:13:30.810810,10:11,Credit card,193.13,5.7,11.01,5.0,10,January,1
+750-59-6902,Branche B,Mandalay,Member,Male,Home and lifestyle,51.22,4,11.27,216.15,2019-01-23 21:30:05.405405,15:52,Credit card,204.88,5.5,11.27,4.0,15,January,1
+750-33-5899,Branche C,Naypyitaw,Member,Female,Electronic accessories,56.67,10,25.5,592.2,2019-01-23 23:38:22.702702,12:39,Cash,566.7,4.5,25.5,5.7,12,January,1
+750-95-3372,Branche A,Yangon,Member,Female,Fashion accessories,28.14,5,7.32,148.02,2019-01-24 01:46:40.000000,19:31,Credit card,140.7,5.2,7.32,7.2,19,January,1
+750-34-8970,Branche A,Yangon,Normal,Male,Fashion accessories,77.66,9,36.34,735.28,2019-01-24 06:03:14.594594,15:37,Cash,698.94,5.2,36.34,7.1,15,January,1
+750-28-9024,Branche C,Naypyitaw,Normal,Male,Home and lifestyle,27.88,9,13.8,264.72,2019-01-24 08:11:31.891891,11:14,Cash,250.92,5.5,13.8,9.8,11,January,1
+750-35-7194,Branche A,Yangon,Normal,Female,Food and beverages,93.02,6,26.79,584.91,2019-01-24 10:19:49.189189,13:06,Ewallet,558.12,4.8,26.79,7.8,13,January,1
+750-48-4312,Branche A,Yangon,Member,Female,Food and beverages,27.66,5,6.64,144.94,2019-01-24 10:19:49.189189,19:25,Ewallet,138.3,4.8,6.64,6.5,19,January,1
+750-43-7556,Branche A,Yangon,Normal,Female,Health and beauty,82.79,8,39.74,702.06,2019-01-24 12:28:06.486486,10:04,Credit card,662.32,6.0,39.74,7.5,10,January,1
+750-54-4881,Branche A,Yangon,Member,Male,Sports and travel,28.38,5,8.09,149.99,2019-01-24 12:28:06.486486,19:05,Ewallet,141.9,5.7,8.09,9.6,19,January,1
+750-34-9522,Branche B,Mandalay,Normal,Female,Food and beverages,75.16,8,28.86,630.14,2019-01-24 14:36:23.783783,13:48,Credit card,601.28,4.8,28.86,6.4,13,January,1
+750-39-7457,Branche A,Yangon,Member,Female,Health and beauty,29.47,8,14.15,249.91,2019-01-24 14:36:23.783783,11:20,Ewallet,235.76,6.0,14.15,8.0,11,January,1
+750-45-8343,Branche B,Mandalay,Normal,Female,Electronic accessories,38.23,7,12.04,279.65,2019-01-24 14:36:23.783783,20:36,Cash,267.61,4.5,12.04,7.2,20,January,1
+750-48-5443,Branche C,Naypyitaw,Normal,Female,Sports and travel,40.69,2,4.64,86.02,2019-01-24 16:44:41.081081,17:03,Credit card,81.38,5.7,4.64,7.2,17,January,1
+750-45-5468,Branche B,Mandalay,Normal,Male,Health and beauty,94.13,4,22.59,399.11,2019-01-24 18:52:58.378378,17:11,Credit card,376.52,6.0,22.59,8.1,17,January,1
+750-67-1085,Branche A,Yangon,Normal,Female,Sports and travel,82.08,6,28.07,520.55,2019-01-24 18:52:58.378378,19:15,Cash,492.48,5.7,28.07,8.7,19,January,1
+750-36-3479,Branche C,Naypyitaw,Normal,Male,Health and beauty,18.73,5,5.62,99.27,2019-01-24 21:01:15.675675,15:11,Cash,93.65,6.0,5.62,9.3,15,January,1
+750-10-1429,Branche B,Mandalay,Member,Male,Food and beverages,31.67,6,9.12,199.14,2019-01-25 01:17:50.270270,18:01,Cash,190.02,4.8,9.12,8.4,18,January,1
+750-64-2844,Branche C,Naypyitaw,Normal,Male,Food and beverages,44.99,2,4.32,94.3,2019-01-25 01:17:50.270270,14:49,Cash,89.98,4.8,4.32,5.0,14,January,1
+750-38-8279,Branche B,Mandalay,Normal,Male,Electronic accessories,56.77,4,10.22,237.3,2019-01-25 05:34:24.864864,16:38,Cash,227.08,4.5,10.22,6.1,16,January,1
+750-58-8815,Branche A,Yangon,Member,Male,Food and beverages,67.13,4,12.89,281.41,2019-01-25 05:34:24.864864,14:27,Cash,268.52,4.8,12.89,9.6,14,January,1
+750-88-1578,Branche C,Naypyitaw,Normal,Female,Sports and travel,37.93,9,19.46,360.83,2019-01-25 05:34:24.864864,12:12,Credit card,341.37,5.7,19.46,8.9,12,January,1
+750-70-5076,Branche A,Yangon,Normal,Female,Electronic accessories,97.82,7,30.81,715.55,2019-01-25 07:42:42.162162,17:43,Credit card,684.74,4.5,30.81,9.9,17,January,1
+750-10-7457,Branche A,Yangon,Normal,Female,Home and lifestyle,95.43,6,31.49,604.07,2019-01-25 11:59:16.756756,12:11,Ewallet,572.58,5.5,31.49,4.9,12,January,1
+750-19-3628,Branche C,Naypyitaw,Member,Female,Home and lifestyle,71.12,4,15.65,300.13,2019-01-25 16:15:51.351351,16:41,Credit card,284.48,5.5,15.65,9.1,16,January,1
+750-27-7584,Branche C,Naypyitaw,Normal,Male,Fashion accessories,70.79,5,18.41,372.36,2019-01-25 18:24:08.648648,14:52,Ewallet,353.95,5.2,18.41,8.6,14,January,1
+750-11-5946,Branche C,Naypyitaw,Member,Female,Sports and travel,63.95,1,3.65,67.6,2019-01-25 20:32:25.945945,12:09,Ewallet,63.95,5.7,3.65,5.1,12,January,1
+750-80-7997,Branche A,Yangon,Normal,Male,Health and beauty,42.44,3,7.64,134.96,2019-01-25 22:40:43.243243,13:14,Credit card,127.32,6.0,7.64,10.0,13,January,1
+750-87-2438,Branche B,Mandalay,Member,Female,Sports and travel,72.65,4,16.56,307.16,2019-01-26 00:49:00.540540,11:11,Cash,290.6,5.7,16.56,8.5,11,January,1
+750-88-4231,Branche C,Naypyitaw,Normal,Male,Sports and travel,39.71,6,13.58,251.84,2019-01-26 00:49:00.540540,15:49,Cash,238.26,5.7,13.58,7.3,15,January,1
+750-45-7238,Branche C,Naypyitaw,Normal,Female,Health and beauty,97.24,4,23.34,412.3,2019-01-26 05:05:35.135135,17:24,Cash,388.96,6.0,23.34,9.4,17,January,1
+750-84-3517,Branche C,Naypyitaw,Normal,Male,Home and lifestyle,37.22,3,6.14,117.8,2019-01-26 22:11:53.513513,13:49,Cash,111.66,5.5,6.14,5.7,13,January,1
+750-86-4613,Branche C,Naypyitaw,Normal,Male,Electronic accessories,61.21,5,13.77,319.82,2019-01-27 00:20:10.810810,13:18,Credit card,306.05,4.5,13.77,8.8,13,January,1
+750-53-6274,Branche A,Yangon,Member,Male,Food and beverages,91.86,1,4.41,96.27,2019-01-27 00:20:10.810810,10:55,Cash,91.86,4.8,4.41,8.2,10,January,1
+750-68-7211,Branche C,Naypyitaw,Normal,Female,Sports and travel,85.79,2,9.78,181.36,2019-01-27 00:20:10.810810,12:16,Credit card,171.58,5.7,9.78,7.0,12,January,1
+750-89-1362,Branche A,Yangon,Normal,Female,Sports and travel,62.7,5,17.87,331.37,2019-01-27 06:45:02.702702,17:15,Ewallet,313.5,5.7,17.87,9.1,17,January,1
+750-88-8340,Branche A,Yangon,Member,Female,Electronic accessories,18.55,3,2.5,58.15,2019-01-27 06:45:02.702702,16:01,Cash,55.65,4.5,2.5,6.7,16,January,1
+750-96-7787,Branche A,Yangon,Normal,Male,Fashion accessories,31.13,5,8.09,163.74,2019-01-27 08:53:20.000000,18:02,Cash,155.65,5.2,8.09,5.8,18,January,1
+750-83-5917,Branche C,Naypyitaw,Member,Female,Electronic accessories,10.38,4,1.87,43.39,2019-01-27 08:53:20.000000,12:04,Ewallet,41.52,4.5,1.87,6.4,12,January,1
+750-45-6025,Branche B,Mandalay,Member,Female,Fashion accessories,59.4,4,12.36,249.96,2019-01-27 11:01:37.297297,13:59,Ewallet,237.6,5.2,12.36,9.2,13,January,1
+750-57-9323,Branche C,Naypyitaw,Member,Female,Sports and travel,19.89,1,1.13,21.02,2019-01-27 11:01:37.297297,17:53,Cash,19.89,5.7,1.13,9.3,17,January,1
+750-65-6255,Branche A,Yangon,Normal,Male,Home and lifestyle,99.06,9,49.03,940.57,2019-01-27 13:09:54.594594,12:23,Ewallet,891.54,5.5,49.03,6.1,12,January,1
+750-46-6773,Branche C,Naypyitaw,Member,Female,Electronic accessories,69.35,10,31.21,724.71,2019-01-27 19:34:46.486486,18:35,Ewallet,693.5,4.5,31.21,8.9,18,January,1
+750-46-7266,Branche C,Naypyitaw,Member,Male,Sports and travel,46.13,3,7.89,146.28,2019-01-27 21:43:03.783783,14:29,Ewallet,138.39,5.7,7.89,9.6,14,January,1
+750-45-6623,Branche B,Mandalay,Normal,Female,Health and beauty,23.85,3,4.29,75.84,2019-01-27 21:43:03.783783,20:15,Ewallet,71.55,6.0,4.29,7.1,20,January,1
+750-36-4266,Branche A,Yangon,Member,Female,Home and lifestyle,97.96,3,16.16,310.04,2019-01-27 23:51:21.081081,17:59,Credit card,293.88,5.5,16.16,4.1,17,January,1
+750-84-5482,Branche B,Mandalay,Member,Female,Fashion accessories,55.3,9,25.88,523.58,2019-01-28 04:07:55.675675,18:49,Ewallet,497.7,5.2,25.88,6.2,18,January,1
+750-91-8282,Branche C,Naypyitaw,Member,Female,Fashion accessories,27.61,5,7.18,145.23,2019-01-28 06:16:12.972972,17:45,Cash,138.05,5.2,7.18,8.2,17,January,1
+750-55-9537,Branche B,Mandalay,Normal,Male,Food and beverages,42.09,4,8.08,176.44,2019-01-28 06:16:12.972972,15:41,Cash,168.36,4.8,8.08,9.2,15,January,1
+750-93-9283,Branche C,Naypyitaw,Normal,Female,Sports and travel,16.08,3,2.75,50.99,2019-01-28 06:16:12.972972,15:21,Cash,48.24,5.7,2.75,9.7,15,January,1
+750-78-8336,Branche B,Mandalay,Member,Male,Fashion accessories,20.36,6,6.35,128.51,2019-01-28 06:16:12.972972,14:12,Ewallet,122.16,5.2,6.35,7.7,14,January,1
+750-72-8727,Branche C,Naypyitaw,Normal,Male,Fashion accessories,60.06,2,6.25,126.37,2019-01-28 08:24:30.270270,16:21,Cash,120.12,5.2,6.25,8.8,16,January,1
+750-18-1704,Branche B,Mandalay,Member,Male,Home and lifestyle,56.23,4,12.37,237.29,2019-01-28 08:24:30.270270,13:17,Credit card,224.92,5.5,12.37,6.7,13,January,1
+750-15-8234,Branche C,Naypyitaw,Normal,Male,Fashion accessories,43.49,5,11.31,228.76,2019-01-28 10:32:47.567567,11:01,Cash,217.45,5.2,11.31,7.0,11,January,1
+750-39-5215,Branche A,Yangon,Normal,Male,Food and beverages,96.22,2,9.24,201.68,2019-01-28 14:49:22.162162,12:03,Ewallet,192.44,4.8,9.24,8.6,12,January,1
+750-14-1703,Branche A,Yangon,Normal,Female,Food and beverages,73.84,9,31.9,696.46,2019-01-28 19:05:56.756756,19:36,Cash,664.56,4.8,31.9,6.6,19,January,1
+750-15-4190,Branche A,Yangon,Member,Male,Food and beverages,72.21,5,17.33,378.38,2019-01-29 01:30:48.648648,11:39,Cash,361.05,4.8,17.33,10.0,11,January,1
+750-46-1903,Branche A,Yangon,Member,Male,Sports and travel,89.53,8,40.83,757.07,2019-01-29 03:39:05.945945,14:13,Cash,716.24,5.7,40.83,7.4,14,January,1
+750-63-1912,Branche C,Naypyitaw,Member,Female,Home and lifestyle,92.55,8,40.72,781.12,2019-01-29 03:39:05.945945,17:55,Cash,740.4,5.5,40.72,9.1,17,January,1
+750-35-9875,Branche B,Mandalay,Normal,Male,Fashion accessories,26.84,5,6.98,141.18,2019-01-29 05:47:23.243243,12:25,Credit card,134.2,5.2,6.98,7.6,12,January,1
+750-17-4515,Branche A,Yangon,Member,Male,Sports and travel,22.11,2,2.52,46.74,2019-01-29 05:47:23.243243,12:25,Ewallet,44.22,5.7,2.52,6.3,12,January,1
+750-39-3567,Branche C,Naypyitaw,Normal,Male,Fashion accessories,40.79,9,19.09,386.2,2019-01-29 05:47:23.243243,15:42,Cash,367.11,5.2,19.09,5.6,15,January,1
+750-10-9045,Branche B,Mandalay,Member,Male,Fashion accessories,48.75,1,2.53,51.28,2019-01-29 05:47:23.243243,11:41,Credit card,48.75,5.2,2.53,9.8,11,January,1
+750-39-1793,Branche A,Yangon,Normal,Female,Health and beauty,34.22,4,8.21,145.09,2019-01-29 07:55:40.540540,13:45,Cash,136.88,6.0,8.21,9.1,13,January,1
+750-88-9644,Branche C,Naypyitaw,Normal,Male,Home and lifestyle,66.29,2,7.29,139.87,2019-01-29 07:55:40.540540,15:11,Cash,132.58,5.5,7.29,6.4,15,January,1
+750-11-6825,Branche B,Mandalay,Normal,Male,Food and beverages,99.73,7,33.51,731.62,2019-01-29 07:55:40.540540,15:53,Ewallet,698.11,4.8,33.51,8.0,15,January,1
+750-13-6386,Branche B,Mandalay,Normal,Female,Home and lifestyle,75.59,5,20.79,398.74,2019-01-29 10:03:57.837837,11:10,Ewallet,377.95,5.5,20.79,8.6,11,January,1
+750-90-4445,Branche B,Mandalay,Normal,Male,Health and beauty,45.38,3,8.17,144.31,2019-01-29 10:03:57.837837,12:47,Credit card,136.14,6.0,8.17,8.5,12,January,1
+750-98-3975,Branche A,Yangon,Member,Female,Electronic accessories,92.73,6,25.04,581.42,2019-01-29 14:20:32.432432,16:49,Cash,556.38,4.5,25.04,9.1,16,January,1
+750-28-8895,Branche A,Yangon,Member,Male,Sports and travel,55.5,10,31.64,586.64,2019-01-29 18:37:07.027027,14:34,Cash,555.0,5.7,31.64,9.4,14,January,1
+750-13-2774,Branche B,Mandalay,Normal,Female,Sports and travel,78.22,3,13.38,248.04,2019-01-29 18:37:07.027027,14:40,Ewallet,234.66,5.7,13.38,7.1,14,January,1
+750-81-7813,Branche A,Yangon,Member,Female,Fashion accessories,63.48,4,13.2,267.12,2019-01-29 20:45:24.324324,18:58,Credit card,253.92,5.2,13.2,7.5,18,January,1
+750-63-6734,Branche C,Naypyitaw,Normal,Male,Sports and travel,55.05,6,18.83,349.13,2019-01-29 22:53:41.621621,16:44,Cash,330.3,5.7,18.83,8.4,16,January,1
+750-18-2332,Branche A,Yangon,Member,Male,Fashion accessories,69.7,2,7.25,146.65,2019-01-30 01:01:58.918918,14:59,Credit card,139.4,5.2,7.25,4.8,14,January,1
+750-57-6568,Branche A,Yangon,Normal,Male,Food and beverages,90.77,9,39.21,856.14,2019-01-30 07:26:50.810810,14:24,Ewallet,816.93,4.8,39.21,9.6,14,January,1
+750-95-5703,Branche A,Yangon,Normal,Female,Fashion accessories,95.12,8,39.57,800.53,2019-01-30 09:35:08.108108,14:56,Cash,760.96,5.2,39.57,6.0,14,January,1
+750-94-1435,Branche A,Yangon,Normal,Female,Fashion accessories,25.15,10,13.08,264.58,2019-01-30 11:43:25.405405,16:18,Ewallet,251.5,5.2,13.08,7.9,16,January,1
+750-94-2459,Branche C,Naypyitaw,Member,Male,Home and lifestyle,69.37,3,11.45,219.56,2019-01-30 13:51:42.702702,18:29,Credit card,208.11,5.5,11.45,5.6,18,January,1
+750-60-5091,Branche C,Naypyitaw,Normal,Female,Electronic accessories,75.53,3,10.2,236.79,2019-01-30 16:00:00.000000,18:35,Ewallet,226.59,4.5,10.2,7.1,18,January,1
+750-88-4238,Branche B,Mandalay,Normal,Female,Health and beauty,40.08,1,2.4,42.48,2019-01-30 20:16:34.594594,14:10,Ewallet,40.08,6.0,2.4,4.6,14,January,1
+750-14-4696,Branche A,Yangon,Member,Female,Health and beauty,55.95,3,10.07,177.92,2019-01-30 20:16:34.594594,16:52,Credit card,167.85,6.0,10.07,4.8,16,January,1
+750-81-3186,Branche C,Naypyitaw,Normal,Male,Food and beverages,89.49,5,21.48,468.93,2019-01-31 02:41:26.486486,18:02,Ewallet,447.45,4.8,21.48,4.0,18,January,1
+750-46-3060,Branche A,Yangon,Normal,Male,Fashion accessories,75.64,4,15.73,318.29,2019-01-31 04:49:43.783783,15:09,Credit card,302.56,5.2,15.73,5.1,15,January,1
+750-30-9694,Branche B,Mandalay,Member,Male,Home and lifestyle,91.85,3,15.16,290.71,2019-01-31 06:58:01.081081,13:46,Credit card,275.55,5.5,15.16,4.6,13,January,1
+750-64-3471,Branche C,Naypyitaw,Normal,Male,Electronic accessories,99.62,5,22.41,520.51,2019-01-31 09:06:18.378378,15:59,Ewallet,498.1,4.5,22.41,5.5,15,January,1
+750-81-9383,Branche A,Yangon,Normal,Female,Sports and travel,38.16,10,21.75,403.35,2019-01-31 13:22:52.972972,15:23,Ewallet,381.6,5.7,21.75,4.4,15,January,1
+750-10-5959,Branche B,Mandalay,Member,Male,Food and beverages,59.4,2,5.7,124.5,2019-01-31 15:31:10.270270,16:47,Ewallet,118.8,4.8,5.7,7.3,16,January,1
+750-40-3438,Branche A,Yangon,Member,Male,Electronic accessories,27.28,3,3.68,85.52,2019-01-31 17:39:27.567567,13:25,Credit card,81.84,4.5,3.68,8.4,13,January,1
+750-86-8008,Branche C,Naypyitaw,Member,Female,Sports and travel,48.62,6,16.63,308.35,2019-01-31 21:56:02.162162,12:17,Cash,291.72,5.7,16.63,7.1,12,January,1
+750-20-8493,Branche B,Mandalay,Member,Female,Electronic accessories,36.67,10,16.5,383.2,2019-02-01 00:04:19.459459,13:53,Credit card,366.7,4.5,16.5,6.6,13,February,2
+750-86-7106,Branche A,Yangon,Normal,Male,Home and lifestyle,36.22,4,7.97,152.85,2019-02-01 00:04:19.459459,18:48,Ewallet,144.88,5.5,7.97,7.4,18,February,2
+750-36-2051,Branche B,Mandalay,Normal,Male,Sports and travel,94.56,7,37.73,699.65,2019-02-01 04:20:54.054054,11:19,Credit card,661.92,5.7,37.73,9.5,11,February,2
+750-35-6298,Branche B,Mandalay,Member,Male,Sports and travel,11.23,10,6.4,118.7,2019-02-01 08:37:28.648648,15:46,Credit card,112.3,5.7,6.4,5.4,15,February,2
+750-53-4307,Branche A,Yangon,Normal,Female,Fashion accessories,83.82,7,30.51,617.25,2019-02-01 10:45:45.945945,14:47,Credit card,586.74,5.2,30.51,9.1,14,February,2
+750-17-5407,Branche A,Yangon,Member,Male,Health and beauty,55.4,5,16.62,293.62,2019-02-01 10:45:45.945945,19:05,Ewallet,277.0,6.0,16.62,5.4,19,February,2
+750-70-9702,Branche A,Yangon,Member,Female,Home and lifestyle,56.47,3,9.32,178.73,2019-02-01 15:02:20.540540,13:31,Credit card,169.41,5.5,9.32,7.1,13,February,2
+750-60-3688,Branche B,Mandalay,Normal,Male,Food and beverages,13.53,9,5.84,127.61,2019-02-01 17:10:37.837837,12:37,Cash,121.77,4.8,5.84,4.3,12,February,2
+750-98-2548,Branche A,Yangon,Normal,Female,Health and beauty,44.01,5,13.2,233.25,2019-02-01 21:27:12.432432,16:53,Cash,220.05,6.0,13.2,4.4,16,February,2
+750-17-8008,Branche A,Yangon,Member,Male,Fashion accessories,19.61,10,10.2,206.3,2019-02-01 23:35:29.729729,10:13,Ewallet,196.1,5.2,10.2,5.4,10,February,2
+750-81-7060,Branche C,Naypyitaw,Normal,Male,Fashion accessories,63.94,3,9.97,201.79,2019-02-02 01:43:47.027027,17:43,Ewallet,191.82,5.2,9.97,6.7,17,February,2
+750-38-4052,Branche C,Naypyitaw,Member,Female,Electronic accessories,70.34,4,12.66,294.02,2019-02-02 03:52:04.324324,14:48,Credit card,281.36,4.5,12.66,5.9,14,February,2
+750-67-1732,Branche B,Mandalay,Normal,Female,Fashion accessories,36.47,6,11.38,230.2,2019-02-02 08:08:38.918918,14:31,Ewallet,218.82,5.2,11.38,4.7,14,February,2
+750-90-1721,Branche C,Naypyitaw,Member,Male,Sports and travel,55.0,2,6.27,116.27,2019-02-02 08:08:38.918918,12:35,Ewallet,110.0,5.7,6.27,7.1,12,February,2
+750-93-5507,Branche C,Naypyitaw,Member,Male,Health and beauty,15.02,1,0.9,15.92,2019-02-02 10:16:56.216216,13:49,Credit card,15.02,6.0,0.9,4.9,13,February,2
+750-30-4343,Branche A,Yangon,Normal,Female,Food and beverages,23.14,6,6.66,145.5,2019-02-02 12:25:13.513513,17:05,Credit card,138.84,4.8,6.66,6.1,17,February,2
+750-19-2110,Branche C,Naypyitaw,Member,Female,Fashion accessories,32.37,2,3.37,68.11,2019-02-02 12:25:13.513513,13:22,Ewallet,64.74,5.2,3.37,6.3,13,February,2
+750-90-1533,Branche A,Yangon,Member,Male,Electronic accessories,30.95,1,1.39,32.34,2019-02-02 14:33:30.810810,15:05,Credit card,30.95,4.5,1.39,7.0,15,February,2
+750-12-3606,Branche B,Mandalay,Normal,Female,Home and lifestyle,78.73,4,17.32,332.24,2019-02-02 14:33:30.810810,18:22,Cash,314.92,5.5,17.32,8.5,18,February,2
+750-13-1925,Branche C,Naypyitaw,Normal,Male,Fashion accessories,67.4,5,17.52,354.52,2019-02-02 16:41:48.108108,14:36,Credit card,337.0,5.2,17.52,8.3,14,February,2
+750-63-7661,Branche A,Yangon,Member,Male,Electronic accessories,57.87,2,5.21,120.95,2019-02-02 16:41:48.108108,11:27,Ewallet,115.74,4.5,5.21,7.6,11,February,2
+750-50-2507,Branche A,Yangon,Normal,Male,Home and lifestyle,31.04,4,6.83,130.99,2019-02-02 20:58:22.702702,11:52,Cash,124.16,5.5,6.83,7.1,11,February,2
+750-39-9437,Branche B,Mandalay,Member,Male,Health and beauty,42.15,6,15.17,268.07,2019-02-03 03:23:14.594594,11:05,Cash,252.9,6.0,15.17,5.9,11,February,2
+750-72-2076,Branche B,Mandalay,Member,Male,Health and beauty,77.37,1,4.64,82.01,2019-02-03 03:23:14.594594,17:26,Ewallet,77.37,6.0,4.64,5.1,17,February,2
+750-36-5722,Branche A,Yangon,Normal,Male,Fashion accessories,87.53,2,9.1,184.16,2019-02-03 09:48:06.486486,14:01,Cash,175.06,5.2,9.1,7.9,14,February,2
+750-69-6886,Branche A,Yangon,Normal,Male,Health and beauty,77.24,4,18.54,327.5,2019-02-03 11:56:23.783783,11:02,Credit card,308.96,6.0,18.54,6.6,11,February,2
+750-86-8443,Branche C,Naypyitaw,Member,Male,Home and lifestyle,41.39,1,2.28,43.67,2019-02-03 14:04:41.081081,11:26,Cash,41.39,5.5,2.28,5.4,11,February,2
+750-17-3258,Branche A,Yangon,Normal,Female,Food and beverages,28.37,7,9.53,208.12,2019-02-03 14:04:41.081081,16:24,Ewallet,198.59,4.8,9.53,6.9,16,February,2
+750-36-4022,Branche B,Mandalay,Normal,Female,Sports and travel,95.41,7,38.07,705.94,2019-02-03 20:29:32.972972,13:04,Ewallet,667.87,5.7,38.07,6.1,13,February,2
+750-27-9559,Branche B,Mandalay,Member,Male,Electronic accessories,15.58,1,0.7,16.28,2019-02-03 20:29:32.972972,16:56,Credit card,15.58,4.5,0.7,9.4,16,February,2
+750-67-5289,Branche A,Yangon,Member,Female,Food and beverages,39.73,10,19.07,416.37,2019-02-03 20:29:32.972972,11:07,Ewallet,397.3,4.8,19.07,8.8,11,February,2
+750-89-6415,Branche B,Mandalay,Normal,Male,Health and beauty,66.92,8,32.12,567.48,2019-02-03 20:29:32.972972,18:11,Credit card,535.36,6.0,32.12,4.6,18,February,2
+750-47-1244,Branche B,Mandalay,Member,Female,Health and beauty,69.86,2,8.38,148.1,2019-02-03 22:37:50.270270,17:39,Cash,139.72,6.0,8.38,6.1,17,February,2
+750-86-1252,Branche B,Mandalay,Member,Male,Food and beverages,76.41,4,14.67,320.31,2019-02-04 11:27:34.054054,15:54,Ewallet,305.64,4.8,14.67,8.3,15,February,2
+750-49-9573,Branche B,Mandalay,Normal,Male,Sports and travel,93.35,2,10.64,197.34,2019-02-04 15:44:08.648648,11:16,Credit card,186.7,5.7,10.64,5.9,11,February,2
+750-60-4075,Branche C,Naypyitaw,Normal,Female,Electronic accessories,86.6,10,38.97,904.97,2019-02-04 17:52:25.945945,13:24,Ewallet,866.0,4.5,38.97,7.3,13,February,2
+750-91-7665,Branche C,Naypyitaw,Normal,Female,Sports and travel,68.39,5,19.49,361.44,2019-02-04 22:09:00.540540,19:09,Cash,341.95,5.7,19.49,4.8,19,February,2
+750-88-4767,Branche C,Naypyitaw,Member,Female,Health and beauty,56.06,10,33.64,594.24,2019-02-05 00:17:17.837837,11:15,Cash,560.6,6.0,33.64,6.2,11,February,2
+750-37-3834,Branche B,Mandalay,Member,Female,Health and beauty,31.32,10,18.79,331.99,2019-02-05 00:17:17.837837,13:45,Ewallet,313.2,6.0,18.79,8.9,13,February,2
+750-59-3586,Branche A,Yangon,Member,Female,Electronic accessories,90.81,1,4.09,94.9,2019-02-05 02:25:35.135135,14:56,Ewallet,90.81,4.5,4.09,9.1,14,February,2
+750-14-5968,Branche A,Yangon,Member,Male,Food and beverages,17.26,6,4.97,108.53,2019-02-05 04:33:52.432432,13:36,Cash,103.56,4.8,4.97,5.5,13,February,2
+750-22-3343,Branche A,Yangon,Normal,Male,Fashion accessories,87.95,1,4.57,92.52,2019-02-05 06:42:09.729729,18:35,Cash,87.95,5.2,4.57,8.9,18,February,2
+750-81-5001,Branche A,Yangon,Normal,Male,Fashion accessories,85.28,4,17.74,358.86,2019-02-05 08:50:27.027027,16:13,Cash,341.12,5.2,17.74,4.9,16,February,2
+750-68-6046,Branche B,Mandalay,Normal,Male,Fashion accessories,50.04,9,23.42,473.78,2019-02-05 10:58:44.324324,19:56,Ewallet,450.36,5.2,23.42,4.6,19,February,2
+750-61-1559,Branche B,Mandalay,Member,Male,Fashion accessories,42.28,5,10.99,222.39,2019-02-05 13:07:01.621621,12:02,Credit card,211.4,5.2,10.99,5.4,12,February,2
+750-20-2653,Branche A,Yangon,Normal,Male,Electronic accessories,36.99,1,1.66,38.65,2019-02-05 15:15:18.918918,11:07,Cash,36.99,4.5,1.66,4.3,11,February,2
+750-40-9759,Branche C,Naypyitaw,Member,Male,Home and lifestyle,39.12,2,4.3,82.54,2019-02-05 15:15:18.918918,10:25,Credit card,78.24,5.5,4.3,8.6,10,February,2
+750-48-9431,Branche B,Mandalay,Member,Male,Electronic accessories,64.54,9,26.14,607.0,2019-02-05 17:23:36.216216,17:15,Ewallet,580.86,4.5,26.14,4.6,17,February,2
+750-89-2171,Branche C,Naypyitaw,Member,Female,Health and beauty,79.8,4,19.15,338.35,2019-02-05 19:31:53.513513,14:23,Ewallet,319.2,6.0,19.15,6.8,14,February,2
+750-48-7866,Branche C,Naypyitaw,Member,Female,Food and beverages,16.14,1,0.77,16.91,2019-02-05 19:31:53.513513,12:00,Ewallet,16.14,4.8,0.77,9.7,12,February,2
+750-28-4232,Branche A,Yangon,Member,Male,Fashion accessories,58.7,4,12.21,247.01,2019-02-05 19:31:53.513513,10:48,Ewallet,234.8,5.2,12.21,7.0,10,February,2
+750-39-8777,Branche A,Yangon,Member,Male,Home and lifestyle,43.22,2,4.75,91.19,2019-02-06 04:05:02.702702,15:22,Ewallet,86.44,5.5,4.75,9.8,15,February,2
+750-28-6856,Branche A,Yangon,Member,Female,Food and beverages,10.96,2,1.05,22.97,2019-02-06 08:21:37.297297,16:09,Cash,21.92,4.8,1.05,4.6,16,February,2
+750-54-4925,Branche C,Naypyitaw,Normal,Female,Home and lifestyle,23.63,7,9.1,174.51,2019-02-06 08:21:37.297297,19:33,Cash,165.41,5.5,9.1,5.6,19,February,2
+750-44-6028,Branche B,Mandalay,Normal,Male,Fashion accessories,83.08,5,21.6,437.0,2019-02-06 10:29:54.594594,18:25,Ewallet,415.4,5.2,21.6,7.0,18,February,2
+750-47-3978,Branche B,Mandalay,Member,Female,Sports and travel,68.1,6,23.29,431.89,2019-02-06 10:29:54.594594,19:53,Cash,408.6,5.7,23.29,8.4,19,February,2
+750-56-1301,Branche C,Naypyitaw,Member,Female,Health and beauty,96.1,9,51.89,916.79,2019-02-06 12:38:11.891891,15:36,Ewallet,864.9,6.0,51.89,5.5,15,February,2
+750-11-8874,Branche C,Naypyitaw,Member,Female,Sports and travel,10.02,9,5.14,95.32,2019-02-06 12:38:11.891891,14:09,Ewallet,90.18,5.7,5.14,5.0,14,February,2
+750-41-2593,Branche A,Yangon,Normal,Female,Electronic accessories,94.69,4,17.04,395.8,2019-02-06 14:46:29.189189,13:52,Ewallet,378.76,4.5,17.04,5.7,13,February,2
+750-65-2301,Branche A,Yangon,Member,Male,Electronic accessories,58.63,5,13.19,306.34,2019-02-06 16:54:46.486486,14:38,Ewallet,293.15,4.5,13.19,7.3,14,February,2
+750-74-1343,Branche A,Yangon,Member,Male,Fashion accessories,21.9,4,4.56,92.16,2019-02-06 16:54:46.486486,15:36,Cash,87.6,5.2,4.56,7.3,15,February,2
+750-13-4076,Branche B,Mandalay,Normal,Male,Health and beauty,32.5,1,1.95,34.45,2019-02-06 19:03:03.783783,16:28,Ewallet,32.5,6.0,1.95,9.0,16,February,2
+750-35-7618,Branche B,Mandalay,Member,Male,Health and beauty,77.96,10,46.78,826.38,2019-02-06 23:19:38.378378,13:47,Credit card,779.6,6.0,46.78,7.1,13,February,2
+750-15-2099,Branche B,Mandalay,Member,Male,Electronic accessories,95.83,4,17.25,400.57,2019-02-06 23:19:38.378378,18:44,Credit card,383.32,4.5,17.25,8.8,18,February,2
+750-82-8180,Branche B,Mandalay,Normal,Male,Sports and travel,53.94,9,27.67,513.13,2019-02-06 23:19:38.378378,19:31,Cash,485.46,5.7,27.67,6.0,19,February,2
+750-12-9722,Branche B,Mandalay,Member,Female,Food and beverages,91.83,4,17.63,384.95,2019-02-07 01:27:55.675675,15:48,Cash,367.32,4.8,17.63,8.2,15,February,2
+750-52-2790,Branche B,Mandalay,Member,Male,Home and lifestyle,14.61,2,1.61,30.83,2019-02-07 07:52:47.567567,17:43,Cash,29.22,5.5,1.61,7.8,17,February,2
+750-91-2659,Branche C,Naypyitaw,Member,Male,Food and beverages,16.4,7,5.51,120.31,2019-02-07 14:17:39.459459,19:44,Credit card,114.8,4.8,5.51,4.5,19,February,2
+750-23-9792,Branche B,Mandalay,Normal,Male,Sports and travel,42.13,5,12.01,222.66,2019-02-07 16:25:56.756756,17:56,Ewallet,210.65,5.7,12.01,7.4,17,February,2
+750-76-5664,Branche C,Naypyitaw,Member,Female,Sports and travel,98.12,10,55.93,1037.13,2019-02-07 18:34:14.054054,17:52,Cash,981.2,5.7,55.93,6.2,17,February,2
+750-87-3105,Branche B,Mandalay,Normal,Male,Health and beauty,46.7,6,16.81,297.01,2019-02-07 22:50:48.648648,10:04,Ewallet,280.2,6.0,16.81,6.7,10,February,2
+750-41-4195,Branche B,Mandalay,Member,Male,Food and beverages,62.06,10,29.79,650.39,2019-02-08 00:59:05.945945,13:50,Ewallet,620.6,4.8,29.79,9.3,13,February,2
+750-50-1619,Branche A,Yangon,Member,Male,Health and beauty,16.6,6,5.98,105.58,2019-02-08 03:07:23.243243,13:52,Credit card,99.6,6.0,5.98,8.2,13,February,2
+750-80-6088,Branche B,Mandalay,Normal,Male,Health and beauty,91.72,1,5.5,97.22,2019-02-08 03:07:23.243243,14:56,Cash,91.72,6.0,5.5,4.1,14,February,2
+750-56-8758,Branche A,Yangon,Member,Female,Home and lifestyle,17.31,10,9.52,182.62,2019-02-08 07:23:57.837837,14:04,Credit card,173.1,5.5,9.52,4.6,14,February,2
+750-73-9877,Branche C,Naypyitaw,Normal,Male,Fashion accessories,57.29,9,26.81,542.42,2019-02-08 09:32:15.135135,19:55,Credit card,515.61,5.2,26.81,6.9,19,February,2
+750-87-6465,Branche B,Mandalay,Normal,Female,Electronic accessories,84.37,6,22.78,529.0,2019-02-08 11:40:32.432432,12:30,Credit card,506.22,4.5,22.78,5.3,12,February,2
+750-98-1473,Branche A,Yangon,Member,Female,Food and beverages,14.43,6,4.16,90.74,2019-02-08 15:57:07.027027,18:46,Credit card,86.58,4.8,4.16,7.3,18,February,2
+750-74-6700,Branche A,Yangon,Normal,Female,Electronic accessories,75.78,2,6.82,158.38,2019-02-08 15:57:07.027027,12:19,Cash,151.56,4.5,6.82,4.6,12,February,2
+750-97-9275,Branche A,Yangon,Member,Female,Electronic accessories,83.81,6,22.63,525.49,2019-02-08 18:05:24.324324,19:30,Cash,502.86,4.5,22.63,6.1,19,February,2
+750-85-7156,Branche B,Mandalay,Member,Male,Home and lifestyle,52.76,9,26.12,500.96,2019-02-08 22:21:58.918918,18:14,Cash,474.84,5.5,26.12,8.4,18,February,2
+750-46-6190,Branche A,Yangon,Normal,Female,Sports and travel,42.5,5,12.11,224.61,2019-02-08 22:21:58.918918,15:37,Credit card,212.5,5.7,12.11,7.6,15,February,2
+750-23-8240,Branche B,Mandalay,Normal,Male,Health and beauty,54.07,9,29.2,515.83,2019-02-08 22:21:58.918918,10:01,Ewallet,486.63,6.0,29.2,5.9,10,February,2
+750-32-3613,Branche B,Mandalay,Normal,Female,Food and beverages,98.43,4,18.9,412.62,2019-02-09 00:30:16.216216,14:07,Credit card,393.72,4.8,18.9,5.9,14,February,2
+750-89-4763,Branche A,Yangon,Member,Male,Electronic accessories,90.09,10,40.54,941.44,2019-02-09 00:30:16.216216,19:36,Credit card,900.9,4.5,40.54,4.4,19,February,2
+750-46-6285,Branche B,Mandalay,Member,Female,Home and lifestyle,45.64,7,17.57,337.05,2019-02-09 02:38:33.513513,10:25,Cash,319.48,5.5,17.57,5.7,10,February,2
+750-47-3742,Branche A,Yangon,Normal,Female,Home and lifestyle,19.95,2,2.19,42.09,2019-02-09 02:38:33.513513,16:28,Cash,39.9,5.5,2.19,7.4,16,February,2
+750-77-8222,Branche B,Mandalay,Member,Male,Fashion accessories,81.98,7,29.84,603.7,2019-02-09 02:38:33.513513,10:25,Ewallet,573.86,5.2,29.84,5.0,10,February,2
+750-22-3755,Branche C,Naypyitaw,Normal,Female,Home and lifestyle,82.49,8,36.3,696.22,2019-02-09 04:46:50.810810,10:35,Ewallet,659.92,5.5,36.3,5.6,10,February,2
+750-47-7655,Branche A,Yangon,Normal,Male,Home and lifestyle,47.57,8,20.93,401.49,2019-02-09 09:03:25.405405,17:34,Cash,380.56,5.5,20.93,7.0,17,February,2
+750-25-8556,Branche B,Mandalay,Normal,Male,Food and beverages,72.25,4,13.87,302.87,2019-02-09 09:03:25.405405,18:03,Ewallet,289.0,4.8,13.87,4.1,18,February,2
+750-16-2281,Branche C,Naypyitaw,Member,Female,Fashion accessories,92.86,5,24.14,488.44,2019-02-09 09:03:25.405405,20:57,Cash,464.3,5.2,24.14,8.9,20,February,2
+750-39-9656,Branche B,Mandalay,Member,Male,Fashion accessories,60.78,2,6.32,127.88,2019-02-09 11:11:42.702702,18:55,Ewallet,121.56,5.2,6.32,7.1,18,February,2
+750-93-2913,Branche A,Yangon,Normal,Male,Electronic accessories,33.27,1,1.5,34.77,2019-02-09 13:20:00.000000,12:47,Credit card,33.27,4.5,1.5,8.3,12,February,2
+750-74-4534,Branche A,Yangon,Member,Male,Electronic accessories,49.59,2,4.46,103.64,2019-02-09 13:20:00.000000,14:26,Ewallet,99.18,4.5,4.46,9.8,14,February,2
+750-92-6082,Branche C,Naypyitaw,Normal,Female,Sports and travel,95.69,7,38.18,708.01,2019-02-09 15:28:17.297297,16:07,Cash,669.83,5.7,38.18,7.7,16,February,2
+750-58-7513,Branche A,Yangon,Member,Female,Sports and travel,56.16,10,32.01,593.61,2019-02-09 15:28:17.297297,13:46,Cash,561.6,5.7,32.01,8.4,13,February,2
+750-36-4116,Branche A,Yangon,Member,Female,Home and lifestyle,40.77,8,17.94,344.1,2019-02-09 17:36:34.594594,18:17,Ewallet,326.16,5.5,17.94,6.9,18,February,2
+750-26-8518,Branche A,Yangon,Member,Female,Fashion accessories,32.7,10,17.0,344.0,2019-02-09 17:36:34.594594,13:31,Credit card,327.0,5.2,17.0,4.8,13,February,2
+750-56-1625,Branche B,Mandalay,Normal,Female,Food and beverages,92.59,6,26.67,582.21,2019-02-09 19:44:51.891891,16:59,Ewallet,555.54,4.8,26.67,6.2,16,February,2
+750-43-4657,Branche B,Mandalay,Member,Female,Fashion accessories,37.58,6,11.72,237.2,2019-02-09 21:53:09.189189,14:07,Credit card,225.48,5.2,11.72,7.8,14,February,2
+750-52-1014,Branche A,Yangon,Member,Female,Fashion accessories,24.7,10,12.84,259.84,2019-02-10 00:01:26.486486,14:32,Cash,247.0,5.2,12.84,9.5,14,February,2
+750-37-5561,Branche A,Yangon,Member,Female,Electronic accessories,13.61,1,0.61,14.22,2019-02-10 08:34:35.675675,14:03,Cash,13.61,4.5,0.61,5.4,14,February,2
+750-75-5734,Branche B,Mandalay,Member,Male,Home and lifestyle,43.73,5,12.03,230.68,2019-02-10 08:34:35.675675,11:32,Ewallet,218.65,5.5,12.03,8.1,11,February,2
+750-23-4358,Branche B,Mandalay,Normal,Female,Electronic accessories,51.48,6,13.9,322.78,2019-02-10 10:42:52.972972,14:44,Ewallet,308.88,4.5,13.9,8.2,14,February,2
+750-18-2636,Branche C,Naypyitaw,Normal,Male,Electronic accessories,94.73,2,8.53,197.99,2019-02-10 12:51:10.270270,17:11,Cash,189.46,4.5,8.53,6.6,17,February,2
+750-92-2107,Branche B,Mandalay,Member,Female,Fashion accessories,70.2,6,21.9,443.1,2019-02-10 12:51:10.270270,16:58,Ewallet,421.2,5.2,21.9,9.8,16,February,2
+750-90-4730,Branche C,Naypyitaw,Normal,Male,Electronic accessories,49.87,7,15.71,364.8,2019-02-10 14:59:27.567567,11:38,Cash,349.09,4.5,15.71,8.1,11,February,2
+750-31-1527,Branche A,Yangon,Member,Female,Health and beauty,28.54,2,3.42,60.5,2019-02-10 21:24:19.459459,13:29,Credit card,57.08,6.0,3.42,6.3,13,February,2
+750-86-1932,Branche B,Mandalay,Normal,Male,Home and lifestyle,46.97,6,15.5,297.32,2019-02-11 03:49:11.351351,13:37,Cash,281.82,5.5,15.5,4.8,13,February,2
+750-24-6739,Branche B,Mandalay,Member,Female,Fashion accessories,64.39,5,16.74,338.69,2019-02-11 03:49:11.351351,16:44,Cash,321.95,5.2,16.74,5.0,16,February,2
+750-25-1991,Branche C,Naypyitaw,Member,Male,Sports and travel,43.96,7,17.54,325.26,2019-02-11 05:57:28.648648,13:35,Cash,307.72,5.7,17.54,9.5,13,February,2
+750-33-3333,Branche A,Yangon,Normal,Female,Home and lifestyle,14.91,7,5.74,110.11,2019-02-11 05:57:28.648648,11:59,Ewallet,104.37,5.5,5.74,10.0,11,February,2
+750-55-2096,Branche A,Yangon,Member,Male,Health and beauty,87.15,9,47.06,831.41,2019-02-11 05:57:28.648648,11:50,Ewallet,784.35,6.0,47.06,4.1,11,February,2
+750-15-5860,Branche B,Mandalay,Normal,Male,Food and beverages,40.43,9,17.47,381.34,2019-02-11 05:57:28.648648,16:24,Cash,363.87,4.8,17.47,4.5,16,February,2
+750-90-4206,Branche A,Yangon,Member,Female,Fashion accessories,14.25,2,1.48,29.98,2019-02-11 08:05:45.945945,13:37,Ewallet,28.5,5.2,1.48,9.7,13,February,2
+750-77-9455,Branche A,Yangon,Member,Male,Sports and travel,59.55,8,27.15,503.55,2019-02-11 10:14:03.243243,12:02,Cash,476.4,5.7,27.15,4.6,12,February,2
+750-12-6309,Branche B,Mandalay,Normal,Male,Home and lifestyle,22.6,4,4.97,95.37,2019-02-11 10:14:03.243243,20:41,Ewallet,90.4,5.5,4.97,5.5,20,February,2
+750-31-9052,Branche B,Mandalay,Normal,Male,Food and beverages,90.61,3,13.05,284.88,2019-02-11 12:22:20.540540,18:43,Cash,271.83,4.8,13.05,6.4,18,February,2
+750-22-8635,Branche A,Yangon,Member,Male,Home and lifestyle,38.34,10,21.09,404.49,2019-02-11 12:22:20.540540,15:13,Credit card,383.4,5.5,21.09,4.3,15,February,2
+750-76-2309,Branche A,Yangon,Normal,Female,Electronic accessories,13.63,7,4.29,99.7,2019-02-11 14:30:37.837837,15:43,Cash,95.41,4.5,4.29,4.2,15,February,2
+750-60-6429,Branche A,Yangon,Normal,Female,Home and lifestyle,38.38,1,2.11,40.49,2019-02-11 14:30:37.837837,13:53,Ewallet,38.38,5.5,2.11,8.5,13,February,2
+750-32-2082,Branche C,Naypyitaw,Member,Male,Sports and travel,99.33,5,28.31,524.96,2019-02-11 18:47:12.432432,15:02,Credit card,496.65,5.7,28.31,6.9,15,February,2
+750-21-2617,Branche C,Naypyitaw,Member,Male,Electronic accessories,94.23,7,29.68,689.29,2019-02-11 20:55:29.729729,16:49,Cash,659.61,4.5,29.68,4.2,16,February,2
+750-75-4871,Branche B,Mandalay,Member,Male,Sports and travel,27.11,6,9.27,171.93,2019-02-11 23:03:47.027027,14:32,Cash,162.66,5.7,9.27,9.7,14,February,2
+750-55-3478,Branche A,Yangon,Normal,Male,Fashion accessories,12.03,2,1.25,25.31,2019-02-12 01:12:04.324324,15:01,Ewallet,24.06,5.2,1.25,9.6,15,February,2
+750-38-6631,Branche C,Naypyitaw,Member,Male,Electronic accessories,41.1,1,1.85,42.95,2019-02-12 01:12:04.324324,15:19,Cash,41.1,4.5,1.85,5.2,15,February,2
+750-65-6468,Branche A,Yangon,Normal,Male,Home and lifestyle,17.25,2,1.9,36.4,2019-02-12 03:20:21.621621,11:57,Cash,34.5,5.5,1.9,5.8,11,February,2
+750-34-2331,Branche B,Mandalay,Normal,Female,Electronic accessories,82.89,7,26.11,606.34,2019-02-12 03:20:21.621621,13:26,Credit card,580.23,4.5,26.11,8.8,13,February,2
+750-56-7118,Branche B,Mandalay,Normal,Female,Fashion accessories,55.01,2,5.72,115.74,2019-02-12 07:36:56.216216,14:15,Credit card,110.02,5.2,5.72,5.2,14,February,2
+750-82-7004,Branche A,Yangon,Normal,Male,Fashion accessories,14.6,10,7.59,153.59,2019-02-12 11:53:30.810810,12:42,Cash,146.0,5.2,7.59,8.6,12,February,2
+750-65-2354,Branche B,Mandalay,Member,Female,Health and beauty,45.3,9,24.46,432.16,2019-02-12 16:10:05.405405,19:47,Ewallet,407.7,6.0,24.46,9.0,19,February,2
+750-20-9983,Branche B,Mandalay,Normal,Female,Food and beverages,74.99,8,28.8,628.72,2019-02-12 18:18:22.702702,17:46,Ewallet,599.92,4.8,28.8,5.8,17,February,2
+750-45-8176,Branche B,Mandalay,Member,Female,Health and beauty,32.77,9,17.7,312.63,2019-02-12 18:18:22.702702,15:24,Ewallet,294.93,6.0,17.7,9.1,15,February,2
+750-21-4517,Branche B,Mandalay,Normal,Female,Food and beverages,48.95,3,7.05,153.9,2019-02-12 18:18:22.702702,16:44,Cash,146.85,4.8,7.05,6.0,16,February,2
+750-35-4646,Branche C,Naypyitaw,Normal,Female,Home and lifestyle,26.28,7,10.12,194.08,2019-02-12 20:26:40.000000,18:16,Credit card,183.96,5.5,10.12,9.1,18,February,2
+750-97-1071,Branche B,Mandalay,Member,Male,Food and beverages,67.69,8,25.99,567.51,2019-02-12 22:34:57.297297,17:23,Cash,541.52,4.8,25.99,9.4,17,February,2
+750-47-3091,Branche A,Yangon,Normal,Male,Fashion accessories,85.52,5,22.24,449.84,2019-02-13 00:43:14.594594,14:50,Credit card,427.6,5.2,22.24,7.7,14,February,2
+750-48-4084,Branche A,Yangon,Member,Male,Fashion accessories,78.6,3,12.26,248.06,2019-02-13 02:51:31.891891,15:06,Credit card,235.8,5.2,12.26,6.0,15,February,2
+750-25-4055,Branche B,Mandalay,Normal,Female,Home and lifestyle,33.1,8,14.56,279.36,2019-02-13 04:59:49.189189,13:23,Credit card,264.8,5.5,14.56,4.6,13,February,2
+750-93-2286,Branche B,Mandalay,Normal,Female,Electronic accessories,56.92,2,5.12,118.96,2019-02-13 13:32:58.378378,14:17,Cash,113.84,4.5,5.12,7.2,14,February,2
+750-34-9244,Branche A,Yangon,Normal,Male,Sports and travel,16.35,8,7.46,138.26,2019-02-13 15:41:15.675675,12:39,Ewallet,130.8,5.7,7.46,8.4,12,February,2
+750-56-8392,Branche C,Naypyitaw,Normal,Male,Home and lifestyle,39.42,9,19.51,374.29,2019-02-13 15:41:15.675675,16:46,Ewallet,354.78,5.5,19.51,9.3,16,February,2
+750-68-3324,Branche C,Naypyitaw,Member,Female,Sports and travel,96.71,10,55.12,1022.22,2019-02-13 15:41:15.675675,13:51,Ewallet,967.1,5.7,55.12,4.5,13,February,2
+750-55-7227,Branche B,Mandalay,Member,Female,Electronic accessories,33.5,1,1.51,35.01,2019-02-13 17:49:32.972972,14:38,Cash,33.5,4.5,1.51,9.9,14,February,2
+750-11-3291,Branche C,Naypyitaw,Member,Female,Fashion accessories,90.16,9,42.19,853.63,2019-02-13 22:06:07.567567,17:32,Ewallet,811.44,5.2,42.19,6.0,17,February,2
+750-47-7565,Branche C,Naypyitaw,Normal,Male,Food and beverages,63.87,5,15.33,334.68,2019-02-13 22:06:07.567567,16:03,Credit card,319.35,4.8,15.33,8.2,16,February,2
+750-75-1879,Branche B,Mandalay,Member,Male,Home and lifestyle,41.78,4,9.19,176.31,2019-02-14 04:30:59.459459,18:41,Ewallet,167.12,5.5,9.19,8.1,18,February,2
+750-15-1026,Branche C,Naypyitaw,Normal,Female,Food and beverages,82.37,7,27.68,604.27,2019-02-14 06:39:16.756756,17:33,Cash,576.59,4.8,27.68,9.8,17,February,2
+750-87-3817,Branche A,Yangon,Normal,Male,Electronic accessories,17.9,8,6.44,149.64,2019-02-14 08:47:34.054054,13:26,Ewallet,143.2,4.5,6.44,8.3,13,February,2
+750-16-8401,Branche B,Mandalay,Member,Female,Health and beauty,61.48,3,11.07,195.51,2019-02-14 08:47:34.054054,14:46,Credit card,184.44,6.0,11.07,7.7,14,February,2
+750-19-2757,Branche A,Yangon,Member,Male,Food and beverages,16.91,7,5.68,124.05,2019-02-14 13:04:08.648648,12:58,Cash,118.37,4.8,5.68,6.7,12,February,2
+750-59-2508,Branche C,Naypyitaw,Member,Female,Electronic accessories,95.13,7,29.97,695.88,2019-02-14 15:12:25.945945,12:35,Ewallet,665.91,4.5,29.97,6.9,12,February,2
+750-25-7690,Branche C,Naypyitaw,Normal,Male,Food and beverages,73.16,9,31.61,690.05,2019-02-14 15:12:25.945945,19:18,Ewallet,658.44,4.8,31.61,8.2,19,February,2
+750-17-3861,Branche C,Naypyitaw,Member,Male,Electronic accessories,80.22,3,10.83,251.49,2019-02-14 15:12:25.945945,18:13,Ewallet,240.66,4.5,10.83,5.5,18,February,2
+750-77-8970,Branche C,Naypyitaw,Member,Male,Food and beverages,20.84,10,10.0,218.4,2019-02-14 15:12:25.945945,10:37,Credit card,208.4,4.8,10.0,4.1,10,February,2
+750-68-9167,Branche C,Naypyitaw,Normal,Female,Electronic accessories,11.81,2,1.06,24.68,2019-02-14 15:12:25.945945,13:00,Ewallet,23.62,4.5,1.06,5.9,13,February,2
+750-38-3049,Branche C,Naypyitaw,Member,Male,Health and beauty,52.97,2,6.36,112.3,2019-02-14 17:20:43.243243,11:31,Ewallet,105.94,6.0,6.36,7.5,11,February,2
+750-65-2126,Branche A,Yangon,Normal,Female,Fashion accessories,33.38,5,8.68,175.58,2019-02-14 17:20:43.243243,12:13,Ewallet,166.9,5.2,8.68,7.6,12,February,2
+750-89-1974,Branche A,Yangon,Normal,Female,Electronic accessories,46.24,10,20.81,483.21,2019-02-14 17:20:43.243243,19:12,Credit card,462.4,4.5,20.81,8.3,19,February,2
+750-18-3126,Branche B,Mandalay,Member,Female,Sports and travel,61.33,8,27.97,518.61,2019-02-14 17:20:43.243243,16:47,Credit card,490.64,5.7,27.97,6.6,16,February,2
+750-28-6949,Branche B,Mandalay,Member,Male,Home and lifestyle,70.23,4,15.45,296.37,2019-02-14 21:37:17.837837,13:56,Ewallet,280.92,5.5,15.45,4.1,13,February,2
+750-70-5367,Branche A,Yangon,Member,Male,Home and lifestyle,19.81,6,6.54,125.4,2019-02-15 01:53:52.432432,18:33,Ewallet,118.86,5.5,6.54,7.0,18,February,2
+750-86-5040,Branche C,Naypyitaw,Normal,Male,Fashion accessories,25.46,9,11.92,241.06,2019-02-15 04:02:09.729729,15:43,Cash,229.14,5.2,11.92,6.9,15,February,2
+750-48-5145,Branche A,Yangon,Member,Male,Health and beauty,66.09,4,15.86,280.22,2019-02-15 04:02:09.729729,19:59,Ewallet,264.36,6.0,15.86,7.5,19,February,2
+750-79-7190,Branche A,Yangon,Member,Female,Health and beauty,71.55,3,12.88,227.53,2019-02-15 06:10:27.027027,18:40,Cash,214.65,6.0,12.88,8.8,18,February,2
+750-37-6142,Branche C,Naypyitaw,Member,Male,Health and beauty,13.97,9,7.54,133.27,2019-02-15 08:18:44.324324,12:12,Credit card,125.73,6.0,7.54,5.9,12,February,2
+750-28-8983,Branche A,Yangon,Normal,Female,Home and lifestyle,89.87,5,24.71,474.06,2019-02-15 14:43:36.216216,13:35,Ewallet,449.35,5.5,24.71,4.9,13,February,2
+750-94-2590,Branche B,Mandalay,Normal,Male,Fashion accessories,30.22,6,9.43,190.75,2019-02-15 16:51:53.513513,13:42,Cash,181.32,5.2,9.43,9.7,13,February,2
+750-12-6054,Branche C,Naypyitaw,Normal,Male,Electronic accessories,89.16,7,28.09,652.21,2019-02-15 16:51:53.513513,11:43,Cash,624.12,4.5,28.09,8.2,11,February,2
+750-89-7617,Branche C,Naypyitaw,Normal,Female,Food and beverages,72.02,9,31.11,679.29,2019-02-15 19:00:10.810810,14:01,Ewallet,648.18,4.8,31.11,7.6,14,February,2
+750-91-1845,Branche C,Naypyitaw,Member,Male,Food and beverages,38.13,6,10.98,239.76,2019-02-15 21:08:28.108108,16:20,Cash,228.78,4.8,10.98,6.1,16,February,2
+750-86-1659,Branche B,Mandalay,Member,Female,Health and beauty,77.69,10,46.61,823.51,2019-02-15 23:16:45.405405,12:25,Cash,776.9,6.0,46.61,4.3,12,February,2
+750-25-3030,Branche C,Naypyitaw,Normal,Male,Fashion accessories,72.74,5,18.91,382.61,2019-02-15 23:16:45.405405,20:40,Credit card,363.7,5.2,18.91,4.8,20,February,2
+750-11-1455,Branche C,Naypyitaw,Member,Male,Fashion accessories,24.06,7,8.76,177.18,2019-02-16 03:33:20.000000,10:37,Ewallet,168.42,5.2,8.76,7.8,10,February,2
+750-36-6154,Branche B,Mandalay,Member,Female,Food and beverages,28.37,10,13.62,297.32,2019-02-16 05:41:37.297297,16:35,Credit card,283.7,4.8,13.62,6.8,16,February,2
+750-66-6973,Branche A,Yangon,Normal,Female,Sports and travel,61.49,4,14.02,259.98,2019-02-16 09:58:11.891891,14:49,Ewallet,245.96,5.7,14.02,9.4,14,February,2
+750-39-3175,Branche A,Yangon,Normal,Female,Health and beauty,79.77,4,19.14,338.22,2019-02-16 16:23:03.783783,13:23,Ewallet,319.08,6.0,19.14,5.1,13,February,2
+750-25-9552,Branche A,Yangon,Member,Female,Fashion accessories,92.66,3,14.45,292.43,2019-02-16 16:23:03.783783,12:57,Credit card,277.98,5.2,14.45,4.3,12,February,2
+750-26-8881,Branche C,Naypyitaw,Normal,Female,Electronic accessories,89.14,1,4.01,93.15,2019-02-16 18:31:21.081081,15:22,Credit card,89.14,4.5,4.01,4.2,15,February,2
+750-15-6278,Branche A,Yangon,Member,Female,Sports and travel,15.27,2,1.74,32.28,2019-02-16 20:39:38.378378,19:47,Cash,30.54,5.7,1.74,9.0,19,February,2
+750-60-4722,Branche A,Yangon,Member,Male,Home and lifestyle,21.76,8,9.57,183.65,2019-02-16 22:47:55.675675,17:39,Cash,174.08,5.5,9.57,4.5,17,February,2
+750-91-1498,Branche A,Yangon,Normal,Male,Home and lifestyle,75.28,6,24.84,476.52,2019-02-16 22:47:55.675675,13:09,Credit card,451.68,5.5,24.84,9.5,13,February,2
+750-85-4324,Branche A,Yangon,Member,Female,Food and beverages,27.93,6,8.04,175.62,2019-02-17 00:56:12.972972,11:23,Credit card,167.58,4.8,8.04,5.3,11,February,2
+750-29-4371,Branche C,Naypyitaw,Member,Female,Food and beverages,32.37,1,1.55,33.92,2019-02-17 00:56:12.972972,20:38,Credit card,32.37,4.8,1.55,8.7,20,February,2
+750-15-9983,Branche B,Mandalay,Normal,Male,Food and beverages,25.72,3,3.7,80.86,2019-02-17 03:04:30.270270,12:56,Cash,77.16,4.8,3.7,6.6,12,February,2
+750-62-9653,Branche B,Mandalay,Normal,Male,Electronic accessories,17.75,3,2.4,55.65,2019-02-17 05:12:47.567567,16:39,Cash,53.25,4.5,2.4,5.9,16,February,2
+750-94-4606,Branche C,Naypyitaw,Member,Male,Home and lifestyle,99.8,5,27.44,526.44,2019-02-17 09:29:22.162162,15:06,Credit card,499.0,5.5,27.44,8.2,15,February,2
+750-47-5053,Branche A,Yangon,Member,Male,Electronic accessories,52.09,3,7.03,163.3,2019-02-17 09:29:22.162162,11:30,Credit card,156.27,4.5,7.03,5.1,11,February,2
+750-25-6828,Branche B,Mandalay,Normal,Female,Food and beverages,61.94,9,26.76,584.22,2019-02-17 09:29:22.162162,14:28,Ewallet,557.46,4.8,26.76,7.3,14,February,2
+750-68-8408,Branche A,Yangon,Normal,Male,Home and lifestyle,55.51,1,3.05,58.56,2019-02-17 15:54:14.054054,12:08,Ewallet,55.51,5.5,3.05,9.3,12,February,2
+750-63-3996,Branche C,Naypyitaw,Member,Female,Home and lifestyle,36.82,10,20.25,388.45,2019-02-17 18:02:31.351351,12:02,Ewallet,368.2,5.5,20.25,8.0,12,February,2
+750-84-9950,Branche A,Yangon,Member,Female,Sports and travel,17.14,2,1.95,36.23,2019-02-17 20:10:48.648648,13:42,Ewallet,34.28,5.7,1.95,6.4,13,February,2
+750-50-7820,Branche B,Mandalay,Normal,Female,Food and beverages,91.48,2,8.78,191.74,2019-02-18 00:27:23.243243,14:12,Ewallet,182.96,4.8,8.78,5.5,14,February,2
+750-85-4736,Branche C,Naypyitaw,Normal,Male,Electronic accessories,46.76,5,10.52,244.32,2019-02-18 02:35:40.540540,18:36,Cash,233.8,4.5,10.52,8.8,18,February,2
+750-44-8526,Branche B,Mandalay,Member,Female,Sports and travel,58.71,8,26.77,496.45,2019-02-18 02:35:40.540540,18:34,Cash,469.68,5.7,26.77,5.7,18,February,2
+750-37-9660,Branche C,Naypyitaw,Normal,Female,Electronic accessories,51.96,5,11.69,271.49,2019-02-18 06:52:15.135135,10:22,Ewallet,259.8,4.5,11.69,6.4,10,February,2
+750-47-9801,Branche A,Yangon,Normal,Male,Electronic accessories,41.93,9,16.98,394.35,2019-02-18 06:52:15.135135,18:08,Cash,377.37,4.5,16.98,6.4,18,February,2
+750-92-9701,Branche B,Mandalay,Member,Female,Electronic accessories,75.58,1,3.4,78.98,2019-02-18 09:00:32.432432,18:17,Ewallet,75.58,4.5,3.4,4.7,18,February,2
+750-80-2711,Branche B,Mandalay,Member,Male,Home and lifestyle,56.63,1,3.11,59.74,2019-02-18 11:08:49.729729,13:25,Cash,56.63,5.5,3.11,6.4,13,February,2
+750-59-6143,Branche A,Yangon,Normal,Male,Food and beverages,72.1,4,13.84,302.24,2019-02-18 13:17:07.027027,12:11,Ewallet,288.4,4.8,13.84,4.7,12,February,2
+750-60-3094,Branche C,Naypyitaw,Normal,Male,Sports and travel,62.61,6,21.41,397.07,2019-02-18 15:25:24.324324,14:11,Credit card,375.66,5.7,21.41,4.2,14,February,2
+750-33-3899,Branche B,Mandalay,Normal,Male,Fashion accessories,64.08,1,3.33,67.41,2019-02-18 15:25:24.324324,19:42,Credit card,64.08,5.2,3.33,4.5,19,February,2
+750-15-9382,Branche B,Mandalay,Normal,Male,Home and lifestyle,78.72,1,4.33,83.05,2019-02-18 15:25:24.324324,14:45,Cash,78.72,5.5,4.33,7.8,14,February,2
+750-86-5381,Branche C,Naypyitaw,Normal,Male,Health and beauty,64.88,3,11.68,206.32,2019-02-18 15:25:24.324324,13:03,Cash,194.64,6.0,11.68,9.1,13,February,2
+750-23-7337,Branche B,Mandalay,Normal,Female,Fashion accessories,57.11,2,5.94,120.16,2019-02-18 21:50:16.216216,14:15,Ewallet,114.22,5.2,5.94,9.5,14,February,2
+750-28-2620,Branche A,Yangon,Member,Female,Health and beauty,80.5,3,14.49,255.99,2019-02-19 04:15:08.108108,12:57,Ewallet,241.5,6.0,14.49,4.6,12,February,2
+750-88-3303,Branche A,Yangon,Member,Female,Fashion accessories,41.49,4,8.63,174.59,2019-02-19 04:15:08.108108,19:00,Ewallet,165.96,5.2,8.63,9.5,19,February,2
+750-85-5314,Branche B,Mandalay,Normal,Female,Sports and travel,19.31,6,6.6,122.46,2019-02-19 08:31:42.702702,11:59,Ewallet,115.86,5.7,6.6,7.9,11,February,2
+750-49-1183,Branche B,Mandalay,Member,Female,Fashion accessories,70.8,3,11.04,223.44,2019-02-19 19:13:09.189189,13:35,Credit card,212.4,5.2,11.04,5.9,13,February,2
+750-83-5052,Branche C,Naypyitaw,Normal,Female,Fashion accessories,45.27,10,23.54,476.24,2019-02-19 19:13:09.189189,15:09,Credit card,452.7,5.2,23.54,7.5,15,February,2
+750-38-4902,Branche B,Mandalay,Normal,Female,Fashion accessories,23.2,9,10.86,219.66,2019-02-19 19:13:09.189189,14:57,Cash,208.8,5.2,10.86,8.3,14,February,2
+750-75-2620,Branche B,Mandalay,Member,Female,Home and lifestyle,61.93,2,6.81,130.67,2019-02-19 21:21:26.486486,15:04,Credit card,123.86,5.5,6.81,6.8,15,February,2
+750-34-6265,Branche A,Yangon,Normal,Female,Sports and travel,22.83,10,13.01,241.31,2019-02-19 21:21:26.486486,15:44,Credit card,228.3,5.7,13.01,4.6,15,February,2
+750-24-4825,Branche C,Naypyitaw,Normal,Male,Fashion accessories,21.15,5,5.5,111.25,2019-02-20 01:38:01.081081,17:00,Cash,105.75,5.2,5.5,5.6,17,February,2
+750-46-7342,Branche A,Yangon,Member,Male,Health and beauty,61.92,6,22.29,393.81,2019-02-20 08:02:52.972972,13:52,Ewallet,371.52,6.0,22.29,5.1,13,February,2
+750-28-5587,Branche C,Naypyitaw,Normal,Female,Health and beauty,96.54,7,40.55,716.33,2019-02-20 08:02:52.972972,19:33,Ewallet,675.78,6.0,40.55,8.3,19,February,2
+750-41-6399,Branche A,Yangon,Normal,Male,Food and beverages,76.07,6,21.91,478.33,2019-02-20 12:19:27.567567,16:06,Credit card,456.42,4.8,21.91,10.0,16,February,2
+750-90-2639,Branche A,Yangon,Normal,Male,Electronic accessories,53.43,3,7.21,167.5,2019-02-20 12:19:27.567567,17:07,Ewallet,160.29,4.5,7.21,9.8,17,February,2
+750-54-2681,Branche B,Mandalay,Member,Male,Health and beauty,60.81,4,14.59,257.83,2019-02-20 14:27:44.864864,15:00,Ewallet,243.24,6.0,14.59,6.4,15,February,2
+750-10-6083,Branche B,Mandalay,Member,Male,Sports and travel,40.86,10,23.29,431.89,2019-02-20 16:36:02.162162,20:12,Cash,408.6,5.7,23.29,8.9,20,February,2
+750-43-6362,Branche B,Mandalay,Member,Male,Health and beauty,96.14,2,11.54,203.82,2019-02-20 16:36:02.162162,15:56,Credit card,192.28,6.0,11.54,7.4,15,February,2
+750-73-6480,Branche A,Yangon,Member,Male,Electronic accessories,74.36,5,16.73,388.53,2019-02-20 18:44:19.459459,19:16,Cash,371.8,4.5,16.73,9.2,19,February,2
+750-37-5248,Branche A,Yangon,Member,Male,Electronic accessories,20.83,4,3.75,87.07,2019-02-20 23:00:54.054054,15:23,Ewallet,83.32,4.5,3.75,9.2,15,February,2
+750-77-8189,Branche A,Yangon,Member,Male,Health and beauty,11.46,1,0.69,12.15,2019-02-21 01:09:11.351351,14:47,Cash,11.46,6.0,0.69,7.8,14,February,2
+750-80-8816,Branche A,Yangon,Member,Female,Sports and travel,78.93,2,9.0,166.86,2019-02-21 09:42:20.540540,18:53,Ewallet,157.86,5.7,9.0,7.9,18,February,2
+750-69-8540,Branche C,Naypyitaw,Member,Female,Food and beverages,84.19,6,24.25,529.39,2019-02-21 09:42:20.540540,12:17,Ewallet,505.14,4.8,24.25,4.6,12,February,2
+750-83-5559,Branche A,Yangon,Member,Female,Health and beauty,30.9,8,14.83,262.03,2019-02-21 09:42:20.540540,11:44,Ewallet,247.2,6.0,14.83,8.4,11,February,2
+750-43-9998,Branche B,Mandalay,Normal,Male,Health and beauty,88.83,5,26.65,470.8,2019-02-21 13:58:55.135135,15:02,Ewallet,444.15,6.0,26.65,7.2,15,February,2
+750-90-3686,Branche A,Yangon,Normal,Female,Home and lifestyle,98.82,6,32.61,625.53,2019-02-21 18:15:29.729729,12:49,Cash,592.92,5.5,32.61,6.6,12,February,2
+750-38-3670,Branche B,Mandalay,Member,Female,Fashion accessories,59.2,7,21.55,435.95,2019-02-21 20:23:47.027027,10:08,Cash,414.4,5.2,21.55,7.1,10,February,2
+750-16-2896,Branche A,Yangon,Normal,Female,Home and lifestyle,89.94,5,24.73,474.43,2019-02-21 20:23:47.027027,13:09,Ewallet,449.7,5.5,24.73,6.3,13,February,2
+750-25-2526,Branche A,Yangon,Member,Male,Home and lifestyle,30.7,1,1.69,32.39,2019-02-21 20:23:47.027027,16:41,Ewallet,30.7,5.5,1.69,9.6,16,February,2
+750-84-8082,Branche C,Naypyitaw,Normal,Male,Electronic accessories,14.54,5,3.27,75.97,2019-02-21 20:23:47.027027,15:31,Cash,72.7,4.5,3.27,5.7,15,February,2
+750-78-3261,Branche B,Mandalay,Member,Female,Health and beauty,27.03,3,4.87,85.96,2019-02-21 22:32:04.324324,11:21,Credit card,81.09,6.0,4.87,7.2,11,February,2
+750-61-5389,Branche B,Mandalay,Normal,Female,Fashion accessories,36.84,1,1.92,38.76,2019-02-22 00:40:21.621621,15:23,Ewallet,36.84,5.2,1.92,9.4,15,February,2
+750-68-2178,Branche A,Yangon,Normal,Female,Sports and travel,50.21,3,8.59,159.22,2019-02-22 02:48:38.918918,13:44,Cash,150.63,5.7,8.59,8.8,13,February,2
+750-53-9102,Branche C,Naypyitaw,Normal,Female,Health and beauty,81.88,7,34.39,607.55,2019-02-22 07:05:13.513513,13:14,Cash,573.16,6.0,34.39,7.6,13,February,2
+750-18-9382,Branche B,Mandalay,Member,Female,Food and beverages,67.76,6,19.51,426.07,2019-02-22 09:13:30.810810,16:38,Cash,406.56,4.8,19.51,9.9,16,February,2
+750-96-4290,Branche C,Naypyitaw,Normal,Male,Home and lifestyle,53.54,6,17.67,338.91,2019-02-22 11:21:48.108108,12:33,Credit card,321.24,5.5,17.67,7.6,12,February,2
+750-58-8988,Branche C,Naypyitaw,Normal,Male,Home and lifestyle,82.87,10,45.58,874.28,2019-02-22 13:30:05.405405,18:51,Ewallet,828.7,5.5,45.58,8.5,18,February,2
+750-27-9050,Branche C,Naypyitaw,Normal,Female,Fashion accessories,38.37,3,5.99,121.1,2019-02-22 15:38:22.702702,19:14,Credit card,115.11,5.2,5.99,5.5,19,February,2
+750-58-6834,Branche A,Yangon,Member,Male,Electronic accessories,33.14,4,5.97,138.53,2019-02-22 17:46:40.000000,14:19,Ewallet,132.56,4.5,5.97,9.3,14,February,2
+750-76-7196,Branche B,Mandalay,Normal,Female,Home and lifestyle,83.7,10,46.04,883.04,2019-02-22 17:46:40.000000,15:25,Credit card,837.0,5.5,46.04,9.2,15,February,2
+750-90-4951,Branche B,Mandalay,Normal,Male,Food and beverages,89.76,10,43.08,940.68,2019-02-22 22:03:14.594594,14:54,Credit card,897.6,4.8,43.08,5.4,14,February,2
+750-51-5124,Branche A,Yangon,Normal,Female,Food and beverages,91.02,10,43.69,953.89,2019-02-23 00:11:31.891891,19:25,Cash,910.2,4.8,43.69,7.1,19,February,2
+750-97-3795,Branche B,Mandalay,Member,Female,Home and lifestyle,40.97,6,13.52,259.34,2019-02-23 02:19:49.189189,11:01,Credit card,245.82,5.5,13.52,10.0,11,February,2
+750-88-8702,Branche C,Naypyitaw,Normal,Female,Fashion accessories,68.39,4,14.23,287.79,2019-02-23 08:44:41.081081,14:55,Credit card,273.56,5.2,14.23,4.9,14,February,2
+750-65-4807,Branche A,Yangon,Member,Male,Home and lifestyle,35.85,7,13.8,264.75,2019-02-23 17:17:50.270270,10:41,Credit card,250.95,5.5,13.8,4.6,10,February,2
+750-74-4796,Branche B,Mandalay,Member,Male,Home and lifestyle,62.36,5,17.15,328.95,2019-02-23 17:17:50.270270,14:12,Cash,311.8,5.5,17.15,4.1,14,February,2
+750-38-7074,Branche B,Mandalay,Normal,Male,Electronic accessories,58.11,3,7.84,182.17,2019-02-23 19:26:07.567567,19:08,Ewallet,174.33,4.5,7.84,9.6,19,February,2
+750-50-5270,Branche C,Naypyitaw,Normal,Female,Electronic accessories,89.02,1,4.01,93.03,2019-02-23 19:26:07.567567,10:02,Ewallet,89.02,4.5,4.01,5.4,10,February,2
+750-82-4667,Branche B,Mandalay,Member,Female,Electronic accessories,83.07,5,18.69,434.04,2019-02-23 23:42:42.162162,11:35,Credit card,415.35,4.5,18.69,5.6,11,February,2
+750-60-8529,Branche A,Yangon,Normal,Female,Sports and travel,46.06,9,23.63,438.17,2019-02-24 03:59:16.756756,19:28,Cash,414.54,5.7,23.63,8.4,19,February,2
+750-34-6630,Branche A,Yangon,Normal,Female,Home and lifestyle,80.66,9,39.93,765.87,2019-02-24 10:24:08.648648,10:11,Cash,725.94,5.5,39.93,7.5,10,February,2
+750-66-7240,Branche A,Yangon,Normal,Female,Home and lifestyle,10.05,6,3.32,63.62,2019-02-24 16:49:00.540540,15:31,Cash,60.3,5.5,3.32,8.5,15,February,2
+750-35-6767,Branche C,Naypyitaw,Normal,Male,Food and beverages,40.85,5,9.8,214.05,2019-02-24 21:05:35.135135,17:00,Ewallet,204.25,4.8,9.8,8.8,17,February,2
+750-11-6353,Branche A,Yangon,Normal,Male,Home and lifestyle,37.52,5,10.32,197.92,2019-02-25 01:22:09.729729,14:39,Ewallet,187.6,5.5,10.32,4.9,14,February,2
+750-58-6171,Branche A,Yangon,Normal,Male,Food and beverages,11.88,9,5.13,112.05,2019-02-25 01:22:09.729729,17:02,Credit card,106.92,4.8,5.13,6.4,17,February,2
+750-47-3944,Branche C,Naypyitaw,Member,Male,Fashion accessories,57.25,10,29.77,602.27,2019-02-25 03:30:27.027027,10:31,Ewallet,572.5,5.2,29.77,5.0,10,February,2
+750-18-2520,Branche B,Mandalay,Normal,Male,Home and lifestyle,70.5,8,31.02,595.02,2019-02-25 05:38:44.324324,14:52,Ewallet,564.0,5.5,31.02,10.0,14,February,2
+750-85-8137,Branche B,Mandalay,Member,Female,Food and beverages,96.53,6,27.8,606.98,2019-02-25 07:47:01.621621,13:12,Ewallet,579.18,4.8,27.8,8.6,13,February,2
+750-37-1219,Branche C,Naypyitaw,Member,Male,Fashion accessories,97.38,1,5.06,102.44,2019-02-25 09:55:18.918918,14:19,Ewallet,97.38,5.2,5.06,6.4,14,February,2
+750-93-8453,Branche A,Yangon,Normal,Male,Food and beverages,80.18,8,30.79,672.23,2019-02-25 09:55:18.918918,20:21,Credit card,641.44,4.8,30.79,8.0,20,February,2
+750-87-6441,Branche B,Mandalay,Normal,Male,Health and beauty,86.5,9,46.71,825.21,2019-02-25 16:20:10.810810,16:06,Ewallet,778.5,6.0,46.71,9.1,16,February,2
+750-12-5554,Branche A,Yangon,Normal,Female,Sports and travel,88.79,1,5.06,93.85,2019-02-25 16:20:10.810810,12:14,Credit card,88.79,5.7,5.06,7.7,12,February,2
+750-90-3807,Branche A,Yangon,Normal,Male,Health and beauty,51.85,1,3.11,54.96,2019-02-25 16:20:10.810810,19:38,Ewallet,51.85,6.0,3.11,7.5,19,February,2
+750-91-5089,Branche B,Mandalay,Normal,Female,Home and lifestyle,36.79,9,18.21,349.32,2019-02-26 03:01:37.297297,17:02,Cash,331.11,5.5,18.21,4.2,17,February,2
+750-37-7247,Branche B,Mandalay,Normal,Female,Home and lifestyle,83.77,6,27.64,530.26,2019-02-26 05:09:54.594594,18:45,Cash,502.62,5.5,27.64,6.9,18,February,2
+750-73-5686,Branche B,Mandalay,Member,Male,Sports and travel,23.78,7,9.49,175.95,2019-02-26 09:26:29.189189,16:34,Cash,166.46,5.7,9.49,9.3,16,February,2
+750-85-4644,Branche C,Naypyitaw,Member,Male,Sports and travel,49.98,4,11.4,211.32,2019-02-26 11:34:46.486486,14:20,Cash,199.92,5.7,11.4,8.7,14,February,2
+750-96-3407,Branche A,Yangon,Member,Female,Fashion accessories,69.68,6,21.74,439.82,2019-02-26 11:34:46.486486,17:36,Credit card,418.08,5.2,21.74,5.7,17,February,2
+750-35-8013,Branche B,Mandalay,Member,Male,Food and beverages,71.0,3,10.22,223.22,2019-02-26 15:51:21.081081,12:46,Ewallet,213.0,4.8,10.22,5.8,12,February,2
+750-74-6008,Branche A,Yangon,Member,Female,Food and beverages,46.48,6,13.39,292.27,2019-02-26 15:51:21.081081,11:22,Credit card,278.88,4.8,13.39,4.9,11,February,2
+750-24-6450,Branche A,Yangon,Normal,Female,Electronic accessories,76.81,3,10.37,240.8,2019-02-26 15:51:21.081081,13:02,Credit card,230.43,4.5,10.37,7.6,13,February,2
+750-74-4260,Branche A,Yangon,Member,Male,Fashion accessories,46.96,6,14.65,296.41,2019-02-26 17:59:38.378378,15:12,Credit card,281.76,5.2,14.65,6.5,15,February,2
+750-75-7385,Branche B,Mandalay,Normal,Male,Home and lifestyle,29.44,9,14.57,279.53,2019-02-26 17:59:38.378378,17:31,Cash,264.96,5.5,14.57,6.3,17,February,2
+750-44-1557,Branche C,Naypyitaw,Normal,Male,Sports and travel,35.61,8,16.24,301.12,2019-02-26 20:07:55.675675,17:54,Ewallet,284.88,5.7,16.24,6.5,17,February,2
+750-91-7446,Branche C,Naypyitaw,Member,Female,Fashion accessories,60.94,5,15.84,320.54,2019-02-26 22:16:12.972972,14:46,Cash,304.7,5.2,15.84,7.9,14,February,2
+750-96-7926,Branche B,Mandalay,Normal,Male,Food and beverages,67.21,2,6.45,140.87,2019-02-26 22:16:12.972972,15:05,Credit card,134.42,4.8,6.45,9.3,15,February,2
+750-26-3398,Branche B,Mandalay,Member,Male,Electronic accessories,80.48,5,18.11,420.51,2019-02-27 00:24:30.270270,17:35,Ewallet,402.4,4.5,18.11,6.4,17,February,2
+750-86-2022,Branche B,Mandalay,Member,Male,Home and lifestyle,34.94,4,7.69,147.45,2019-02-27 00:24:30.270270,15:33,Ewallet,139.76,5.5,7.69,9.2,15,February,2
+750-64-6491,Branche C,Naypyitaw,Member,Male,Home and lifestyle,41.99,8,18.48,354.4,2019-02-27 02:32:47.567567,12:56,Ewallet,335.92,5.5,18.48,8.7,12,February,2
+750-15-2976,Branche B,Mandalay,Normal,Female,Fashion accessories,64.91,1,3.38,68.29,2019-02-27 04:41:04.864864,14:35,Ewallet,64.91,5.2,3.38,6.5,14,February,2
+750-38-9067,Branche C,Naypyitaw,Normal,Male,Sports and travel,30.41,2,3.47,64.29,2019-02-27 04:41:04.864864,13:21,Credit card,60.82,5.7,3.47,7.3,13,February,2
+750-14-8959,Branche C,Naypyitaw,Normal,Female,Health and beauty,24.79,1,1.49,26.28,2019-02-27 11:05:56.756756,14:03,Cash,24.79,6.0,1.49,5.8,14,February,2
+750-92-9027,Branche B,Mandalay,Member,Male,Food and beverages,93.59,4,17.97,392.33,2019-02-27 11:05:56.756756,14:13,Cash,374.36,4.8,17.97,7.0,14,February,2
+750-61-2120,Branche A,Yangon,Normal,Male,Home and lifestyle,73.06,2,8.04,154.16,2019-02-27 11:05:56.756756,15:26,Credit card,146.12,5.5,8.04,6.5,15,February,2
+750-49-6595,Branche B,Mandalay,Member,Male,Health and beauty,19.72,4,4.73,83.61,2019-02-27 13:14:14.054054,19:06,Cash,78.88,6.0,4.73,7.5,19,February,2
+750-83-5250,Branche A,Yangon,Normal,Female,Electronic accessories,63.57,4,11.44,265.72,2019-02-27 13:14:14.054054,19:19,Cash,254.28,4.5,11.44,6.8,19,February,2
+750-30-1868,Branche C,Naypyitaw,Normal,Male,Electronic accessories,77.44,7,24.39,566.47,2019-02-27 13:14:14.054054,11:19,Ewallet,542.08,4.5,24.39,6.5,11,February,2
+750-52-2655,Branche C,Naypyitaw,Member,Female,Food and beverages,60.75,2,5.83,127.33,2019-02-27 19:39:05.945945,11:08,Credit card,121.5,4.8,5.83,9.9,11,February,2
+750-42-8528,Branche A,Yangon,Member,Female,Fashion accessories,56.85,5,14.78,299.03,2019-02-27 21:47:23.243243,16:20,Credit card,284.25,5.2,14.78,9.1,16,February,2
+750-39-6413,Branche A,Yangon,Normal,Female,Health and beauty,59.37,1,3.56,62.93,2019-02-27 21:47:23.243243,11:43,Credit card,59.37,6.0,3.56,7.3,11,February,2
+750-64-9250,Branche B,Mandalay,Member,Female,Food and beverages,48.44,4,9.3,203.06,2019-02-27 23:55:40.540540,14:08,Ewallet,193.76,4.8,9.3,7.1,14,February,2
+750-36-1800,Branche C,Naypyitaw,Normal,Female,Food and beverages,63.44,4,12.18,265.94,2019-02-28 02:03:57.837837,12:51,Ewallet,253.76,4.8,12.18,4.3,12,February,2
+750-59-2018,Branche C,Naypyitaw,Normal,Female,Fashion accessories,32.22,2,3.35,67.79,2019-02-28 10:37:07.027027,12:19,Ewallet,64.44,5.2,3.35,8.8,12,February,2
+750-44-8899,Branche B,Mandalay,Member,Female,Sports and travel,58.63,10,33.42,619.72,2019-02-28 12:45:24.324324,20:18,Credit card,586.3,5.7,33.42,9.3,20,February,2
+750-47-6755,Branche C,Naypyitaw,Member,Male,Home and lifestyle,61.44,3,10.14,194.46,2019-02-28 14:53:41.621621,18:44,Cash,184.32,5.5,10.14,8.6,18,February,2
+750-71-2592,Branche A,Yangon,Normal,Female,Sports and travel,31.66,8,14.44,267.72,2019-02-28 19:10:16.216216,17:36,Cash,253.28,5.7,14.44,6.6,17,February,2
+750-18-5784,Branche B,Mandalay,Normal,Female,Food and beverages,29.77,3,4.29,93.6,2019-02-28 21:18:33.513513,17:08,Credit card,89.31,4.8,4.29,8.2,17,February,2
+750-42-4071,Branche A,Yangon,Member,Female,Food and beverages,97.96,9,42.32,923.96,2019-02-28 23:26:50.810810,14:47,Ewallet,881.64,4.8,42.32,7.2,14,February,2
+750-94-6951,Branche B,Mandalay,Normal,Female,Electronic accessories,15.37,10,6.92,160.62,2019-03-01 03:43:25.405405,14:53,Credit card,153.7,4.5,6.92,7.2,14,March,3
+750-15-5776,Branche B,Mandalay,Normal,Female,Home and lifestyle,15.36,9,7.6,145.84,2019-03-01 05:51:42.702702,16:04,Ewallet,138.24,5.5,7.6,6.9,16,March,3
+750-47-5595,Branche A,Yangon,Member,Male,Sports and travel,95.14,4,21.69,402.25,2019-03-01 05:51:42.702702,15:46,Ewallet,380.56,5.7,21.69,9.2,15,March,3
+750-75-9756,Branche A,Yangon,Normal,Female,Home and lifestyle,21.19,7,8.16,156.49,2019-03-01 08:00:00.000000,18:47,Ewallet,148.33,5.5,8.16,4.1,18,March,3
+750-11-2326,Branche C,Naypyitaw,Normal,Male,Food and beverages,64.39,2,6.18,134.96,2019-03-01 10:08:17.297297,13:03,Cash,128.78,4.8,6.18,9.3,13,March,3
+750-42-7221,Branche B,Mandalay,Normal,Female,Electronic accessories,64.46,4,11.6,269.44,2019-03-01 12:16:34.594594,14:08,Cash,257.84,4.5,11.6,8.7,14,March,3
+750-88-7533,Branche C,Naypyitaw,Member,Female,Fashion accessories,26.67,4,5.55,112.23,2019-03-01 14:24:51.891891,13:47,Credit card,106.68,5.2,5.55,8.4,13,March,3
+750-39-7609,Branche A,Yangon,Normal,Female,Food and beverages,72.28,10,34.69,757.49,2019-03-01 14:24:51.891891,14:51,Cash,722.8,4.8,34.69,9.8,14,March,3
+750-23-4447,Branche A,Yangon,Member,Female,Electronic accessories,21.1,4,3.8,88.2,2019-03-01 14:24:51.891891,15:52,Cash,84.4,4.5,3.8,8.5,15,March,3
+750-24-9561,Branche C,Naypyitaw,Normal,Male,Health and beauty,71.43,4,17.14,302.86,2019-03-01 16:33:09.189189,18:26,Cash,285.72,6.0,17.14,8.3,18,March,3
+750-33-7176,Branche B,Mandalay,Member,Male,Home and lifestyle,11.99,4,2.64,50.6,2019-03-01 20:49:43.783783,14:35,Credit card,47.96,5.5,2.64,4.3,14,March,3
+750-22-2622,Branche A,Yangon,Normal,Male,Food and beverages,68.48,2,6.57,143.53,2019-03-02 01:06:18.378378,10:08,Credit card,136.96,4.8,6.57,9.6,10,March,3
+750-49-4257,Branche B,Mandalay,Normal,Female,Electronic accessories,24.53,9,9.93,230.7,2019-03-02 01:06:18.378378,12:28,Ewallet,220.77,4.5,9.93,7.2,12,March,3
+750-60-8041,Branche A,Yangon,Normal,Male,Health and beauty,67.74,5,20.32,359.02,2019-03-02 01:06:18.378378,11:28,Credit card,338.7,6.0,20.32,7.3,11,March,3
+750-78-6725,Branche A,Yangon,Member,Male,Health and beauty,70.98,8,34.07,601.91,2019-03-02 01:06:18.378378,11:45,Ewallet,567.84,6.0,34.07,6.8,11,March,3
+750-41-9527,Branche A,Yangon,Member,Male,Food and beverages,31.65,5,7.6,165.85,2019-03-02 01:06:18.378378,18:49,Credit card,158.25,4.8,7.6,7.4,18,March,3
+750-93-7322,Branche C,Naypyitaw,Member,Male,Fashion accessories,60.92,1,3.17,64.09,2019-03-02 03:14:35.675675,10:20,Credit card,60.92,5.2,3.17,6.3,10,March,3
+750-66-1461,Branche B,Mandalay,Member,Female,Food and beverages,66.31,4,12.73,277.97,2019-03-02 03:14:35.675675,18:50,Credit card,265.24,4.8,12.73,4.5,18,March,3
+750-67-9462,Branche B,Mandalay,Normal,Male,Food and beverages,44.39,8,17.05,372.17,2019-03-02 05:22:52.972972,14:42,Ewallet,355.12,4.8,17.05,4.8,14,March,3
+750-75-4042,Branche B,Mandalay,Normal,Male,Health and beauty,25.92,6,9.33,164.85,2019-03-02 05:22:52.972972,11:31,Credit card,155.52,6.0,9.33,6.3,11,March,3
+750-75-3673,Branche B,Mandalay,Member,Male,Home and lifestyle,96.88,8,42.63,817.67,2019-03-02 09:39:27.567567,13:28,Cash,775.04,5.5,42.63,6.0,13,March,3
+750-31-3318,Branche C,Naypyitaw,Normal,Female,Health and beauty,25.94,8,12.45,219.97,2019-03-02 11:47:44.864864,19:12,Ewallet,207.52,6.0,12.45,6.8,19,March,3
+750-27-8155,Branche C,Naypyitaw,Member,Female,Health and beauty,45.8,10,27.48,485.48,2019-03-02 18:12:36.756756,14:15,Cash,458.0,6.0,27.48,7.9,14,March,3
+750-35-5747,Branche B,Mandalay,Member,Female,Fashion accessories,70.41,7,25.63,518.5,2019-03-02 20:20:54.054054,14:53,Ewallet,492.87,5.2,25.63,5.1,14,March,3
+750-60-8865,Branche A,Yangon,Normal,Male,Home and lifestyle,70.51,8,31.02,595.1,2019-03-02 22:29:11.351351,17:44,Ewallet,564.08,5.5,31.02,6.5,17,March,3
+750-49-1507,Branche B,Mandalay,Normal,Male,Fashion accessories,84.33,5,21.93,443.58,2019-03-02 22:29:11.351351,13:35,Cash,421.65,5.2,21.93,5.9,13,March,3
+750-79-5964,Branche C,Naypyitaw,Normal,Female,Fashion accessories,98.96,2,10.29,208.21,2019-03-03 00:37:28.648648,16:02,Credit card,197.92,5.2,10.29,6.2,16,March,3
+750-92-5833,Branche C,Naypyitaw,Normal,Male,Sports and travel,59.02,8,26.91,499.07,2019-03-03 02:45:45.945945,17:52,Ewallet,472.16,5.7,26.91,8.2,17,March,3
+750-42-6581,Branche B,Mandalay,Normal,Female,Food and beverages,16.16,10,7.76,169.36,2019-03-03 04:54:03.243243,16:13,Cash,161.6,4.8,7.76,7.5,16,March,3
+750-89-8230,Branche B,Mandalay,Member,Male,Sports and travel,45.94,3,7.86,145.68,2019-03-03 09:10:37.837837,17:12,Credit card,137.82,5.7,7.86,9.4,17,March,3
+750-17-1782,Branche C,Naypyitaw,Normal,Female,Fashion accessories,87.94,2,9.15,185.03,2019-03-03 11:18:55.135135,18:46,Credit card,175.88,5.2,9.15,9.8,18,March,3
+750-16-6855,Branche B,Mandalay,Normal,Female,Fashion accessories,10.89,10,5.66,114.56,2019-03-03 13:27:12.432432,14:43,Cash,108.9,5.2,5.66,9.6,14,March,3
+750-60-7445,Branche B,Mandalay,Normal,Female,Electronic accessories,86.36,5,19.43,451.23,2019-03-03 13:27:12.432432,11:13,Ewallet,431.8,4.5,19.43,4.6,11,March,3
+750-50-1568,Branche B,Mandalay,Member,Male,Sports and travel,49.83,4,11.36,210.68,2019-03-03 17:43:47.027027,10:26,Ewallet,199.32,5.7,11.36,7.2,10,March,3
+750-23-5227,Branche B,Mandalay,Normal,Female,Electronic accessories,88.63,5,19.94,463.09,2019-03-03 19:52:04.324324,17:47,Credit card,443.15,4.5,19.94,7.2,17,March,3
+750-28-8851,Branche C,Naypyitaw,Member,Female,Health and beauty,31.7,8,15.22,268.82,2019-03-03 19:52:04.324324,18:46,Credit card,253.6,6.0,15.22,6.8,18,March,3
+750-23-7670,Branche C,Naypyitaw,Normal,Male,Food and beverages,17.01,4,3.27,71.31,2019-03-03 19:52:04.324324,13:51,Cash,68.04,4.8,3.27,5.8,13,March,3
+750-16-9619,Branche C,Naypyitaw,Member,Female,Home and lifestyle,45.26,2,4.98,95.5,2019-03-03 22:00:21.621621,16:59,Cash,90.52,5.5,4.98,8.7,16,March,3
+750-48-9115,Branche C,Naypyitaw,Normal,Male,Food and beverages,21.55,10,10.34,225.84,2019-03-03 22:00:21.621621,20:42,Ewallet,215.5,4.8,10.34,6.8,20,March,3
+750-82-8450,Branche B,Mandalay,Member,Male,Home and lifestyle,72.41,2,7.97,152.79,2019-03-04 00:08:38.918918,14:45,Cash,144.82,5.5,7.97,7.8,14,March,3
+750-57-7917,Branche C,Naypyitaw,Normal,Female,Electronic accessories,15.62,8,5.62,130.58,2019-03-04 00:08:38.918918,11:23,Ewallet,124.96,4.5,5.62,8.1,11,March,3
+750-62-4944,Branche A,Yangon,Member,Female,Fashion accessories,43.32,4,9.01,182.29,2019-03-04 02:16:56.216216,14:09,Cash,173.28,5.2,9.01,7.1,14,March,3
+750-34-6571,Branche B,Mandalay,Normal,Male,Food and beverages,32.71,3,4.71,102.84,2019-03-04 06:33:30.810810,16:50,Ewallet,98.13,4.8,4.71,8.1,16,March,3
+750-48-1863,Branche B,Mandalay,Member,Female,Home and lifestyle,10.1,9,5.0,95.9,2019-03-04 12:58:22.702702,13:00,Credit card,90.9,5.5,5.0,4.7,13,March,3
+750-29-5385,Branche C,Naypyitaw,Member,Female,Fashion accessories,95.99,8,39.93,807.85,2019-03-04 15:06:40.000000,11:51,Credit card,767.92,5.2,39.93,6.5,11,March,3
+750-71-2494,Branche C,Naypyitaw,Member,Male,Health and beauty,15.53,4,3.73,65.85,2019-03-04 17:14:57.297297,15:44,Ewallet,62.12,6.0,3.73,9.2,15,March,3
+750-16-9283,Branche B,Mandalay,Normal,Female,Food and beverages,68.44,10,32.85,717.25,2019-03-04 17:14:57.297297,13:00,Ewallet,684.4,4.8,32.85,8.0,13,March,3
+750-56-6622,Branche A,Yangon,Normal,Female,Fashion accessories,98.86,1,5.14,104.0,2019-03-04 19:23:14.594594,17:41,Cash,98.86,5.2,5.14,8.5,17,March,3
+750-65-6349,Branche A,Yangon,Normal,Male,Health and beauty,15.13,8,7.26,128.3,2019-03-04 19:23:14.594594,15:09,Cash,121.04,6.0,7.26,6.3,15,March,3
+750-22-9683,Branche B,Mandalay,Member,Male,Health and beauty,62.26,2,7.47,131.99,2019-03-05 01:48:06.486486,15:25,Ewallet,124.52,6.0,7.47,5.7,15,March,3
+750-39-3894,Branche A,Yangon,Normal,Male,Fashion accessories,54.01,10,28.09,568.19,2019-03-05 01:48:06.486486,11:52,Ewallet,540.1,5.2,28.09,4.2,11,March,3
+750-44-7373,Branche C,Naypyitaw,Normal,Female,Fashion accessories,38.88,7,14.15,286.31,2019-03-05 01:48:06.486486,14:41,Cash,272.16,5.2,14.15,4.5,14,March,3
+750-90-2896,Branche A,Yangon,Normal,Male,Sports and travel,45.73,8,20.85,386.69,2019-03-05 03:56:23.783783,10:32,Ewallet,365.84,5.7,20.85,8.1,10,March,3
+750-33-4063,Branche C,Naypyitaw,Member,Female,Home and lifestyle,44.45,3,7.33,140.68,2019-03-05 06:04:41.081081,14:06,Ewallet,133.35,5.5,7.33,4.3,14,March,3
+750-30-9046,Branche B,Mandalay,Member,Female,Electronic accessories,47.22,5,10.62,246.72,2019-03-05 08:12:58.378378,14:24,Cash,236.1,4.5,10.62,9.0,14,March,3
+750-69-3433,Branche B,Mandalay,Member,Female,Fashion accessories,82.27,4,17.11,346.19,2019-03-05 10:21:15.675675,19:59,Credit card,329.08,5.2,17.11,6.7,19,March,3
+750-54-8081,Branche A,Yangon,Member,Female,Sports and travel,81.66,7,32.58,604.2,2019-03-05 12:29:32.972972,13:28,Cash,571.62,5.7,32.58,6.0,13,March,3
+750-91-3691,Branche C,Naypyitaw,Normal,Female,Electronic accessories,97.79,10,44.01,1021.91,2019-03-05 12:29:32.972972,12:29,Credit card,977.9,4.5,44.01,7.6,12,March,3
+750-37-9708,Branche A,Yangon,Member,Female,Home and lifestyle,89.75,9,44.43,852.18,2019-03-05 12:29:32.972972,17:03,Ewallet,807.75,5.5,44.43,5.6,17,March,3
+750-69-1926,Branche B,Mandalay,Member,Male,Food and beverages,64.02,5,15.36,335.46,2019-03-05 14:37:50.270270,10:00,Credit card,320.1,4.8,15.36,7.4,10,March,3
+750-32-6179,Branche A,Yangon,Normal,Male,Fashion accessories,88.69,7,32.28,653.11,2019-03-05 16:46:07.567567,19:43,Ewallet,620.83,5.2,32.28,8.6,19,March,3
+750-17-3853,Branche C,Naypyitaw,Normal,Female,Health and beauty,20.64,5,6.19,109.39,2019-03-05 18:54:24.864864,13:07,Cash,103.2,6.0,6.19,7.2,13,March,3
+750-30-2083,Branche B,Mandalay,Member,Female,Home and lifestyle,34.66,7,13.34,255.96,2019-03-05 18:54:24.864864,20:43,Credit card,242.62,5.5,13.34,8.6,20,March,3
+750-30-9585,Branche C,Naypyitaw,Normal,Male,Electronic accessories,60.09,1,2.7,62.79,2019-03-05 21:02:42.162162,15:54,Ewallet,60.09,4.5,2.7,5.6,15,March,3
+750-96-8222,Branche C,Naypyitaw,Normal,Male,Food and beverages,96.92,9,41.87,914.15,2019-03-05 23:10:59.459459,17:08,Credit card,872.28,4.8,41.87,9.9,17,March,3
+750-69-5748,Branche A,Yangon,Normal,Female,Sports and travel,44.29,2,5.05,93.63,2019-03-05 23:10:59.459459,20:59,Cash,88.58,5.7,5.05,10.0,20,March,3
+750-17-7295,Branche A,Yangon,Normal,Female,Fashion accessories,84.16,3,13.13,265.61,2019-03-06 07:44:08.648648,16:30,Credit card,252.48,5.2,13.13,4.7,16,March,3
+750-35-6767,Branche C,Naypyitaw,Normal,Female,Fashion accessories,20.74,1,1.08,21.82,2019-03-06 07:44:08.648648,17:03,Credit card,20.74,5.2,1.08,9.2,17,March,3
+750-53-9359,Branche A,Yangon,Member,Male,Food and beverages,42.04,6,12.11,264.35,2019-03-06 09:52:25.945945,17:18,Credit card,252.24,4.8,12.11,9.0,17,March,3
+750-82-9430,Branche C,Naypyitaw,Normal,Female,Electronic accessories,64.09,5,14.42,334.87,2019-03-06 09:52:25.945945,12:03,Ewallet,320.45,4.5,14.42,5.3,12,March,3
+750-24-5238,Branche B,Mandalay,Normal,Female,Food and beverages,53.76,4,10.32,225.36,2019-03-06 16:17:17.837837,13:53,Ewallet,215.04,4.8,10.32,8.1,13,March,3
+750-59-9172,Branche B,Mandalay,Member,Male,Home and lifestyle,64.16,4,14.12,270.76,2019-03-06 16:17:17.837837,16:48,Ewallet,256.64,5.5,14.12,7.0,16,March,3
+750-85-7450,Branche B,Mandalay,Normal,Male,Sports and travel,13.58,10,7.74,143.54,2019-03-06 18:25:35.135135,16:10,Ewallet,135.8,5.7,7.74,9.1,16,March,3
+750-62-1805,Branche A,Yangon,Normal,Female,Sports and travel,75.72,7,30.21,560.25,2019-03-06 18:25:35.135135,20:48,Credit card,530.04,5.7,30.21,8.2,20,March,3
+750-66-7443,Branche A,Yangon,Normal,Female,Food and beverages,24.02,3,3.46,75.52,2019-03-06 22:42:09.729729,15:50,Cash,72.06,4.8,3.46,5.1,15,March,3
+750-70-4914,Branche A,Yangon,Member,Female,Sports and travel,63.58,3,10.87,201.61,2019-03-06 22:42:09.729729,16:22,Ewallet,190.74,5.7,10.87,6.0,16,March,3
+750-72-1446,Branche A,Yangon,Member,Female,Fashion accessories,77.81,5,20.23,409.28,2019-03-07 02:58:44.324324,13:17,Cash,389.05,5.2,20.23,5.8,13,March,3
+750-66-5599,Branche C,Naypyitaw,Member,Female,Electronic accessories,23.08,8,8.31,192.95,2019-03-07 05:07:01.621621,15:00,Ewallet,184.64,4.5,8.31,7.8,15,March,3
+750-34-4021,Branche B,Mandalay,Member,Female,Sports and travel,16.95,8,7.73,143.33,2019-03-07 07:15:18.918918,13:06,Ewallet,135.6,5.7,7.73,7.7,13,March,3
+750-88-7707,Branche C,Naypyitaw,Member,Male,Health and beauty,76.75,4,18.42,325.42,2019-03-07 07:15:18.918918,19:58,Ewallet,307.0,6.0,18.42,4.3,19,March,3
+750-63-8248,Branche C,Naypyitaw,Normal,Female,Fashion accessories,71.4,3,11.14,225.34,2019-03-07 09:23:36.216216,20:07,Cash,214.2,5.2,11.14,8.7,20,March,3
+750-90-7157,Branche B,Mandalay,Normal,Male,Health and beauty,70.87,10,42.52,751.22,2019-03-07 09:23:36.216216,15:42,Cash,708.7,6.0,42.52,9.0,15,March,3
+750-37-4700,Branche A,Yangon,Member,Female,Food and beverages,69.74,8,26.78,584.7,2019-03-07 15:48:28.108108,18:04,Ewallet,557.92,4.8,26.78,6.0,18,March,3
+750-96-1303,Branche B,Mandalay,Normal,Male,Health and beauty,80.16,5,24.05,424.85,2019-03-07 17:56:45.405405,18:16,Ewallet,400.8,6.0,24.05,9.6,18,March,3
+750-37-1527,Branche A,Yangon,Normal,Male,Electronic accessories,23.24,1,1.05,24.29,2019-03-07 17:56:45.405405,13:43,Credit card,23.24,4.5,1.05,5.9,13,March,3
+750-59-6267,Branche B,Mandalay,Member,Male,Food and beverages,61.8,8,23.73,518.13,2019-03-07 20:05:02.702702,13:44,Ewallet,494.4,4.8,23.73,6.9,13,March,3
+750-53-3069,Branche A,Yangon,Normal,Female,Health and beauty,66.49,6,23.94,422.88,2019-03-07 22:13:20.000000,15:56,Cash,398.94,6.0,23.94,4.6,15,March,3
+750-82-1613,Branche A,Yangon,Member,Male,Health and beauty,67.03,7,28.15,497.36,2019-03-07 22:13:20.000000,20:15,Cash,469.21,6.0,28.15,8.1,20,March,3
+750-96-8897,Branche A,Yangon,Normal,Male,Home and lifestyle,29.68,8,13.06,250.5,2019-03-08 02:29:54.594594,12:26,Ewallet,237.44,5.5,13.06,6.3,12,March,3
+750-63-6491,Branche A,Yangon,Member,Female,Fashion accessories,70.65,5,18.37,371.62,2019-03-08 08:54:46.486486,18:42,Credit card,353.25,5.2,18.37,6.3,18,March,3
+750-71-1464,Branche A,Yangon,Member,Male,Food and beverages,21.99,10,10.56,230.46,2019-03-08 08:54:46.486486,13:25,Cash,219.9,4.8,10.56,9.5,13,March,3
+750-40-4005,Branche A,Yangon,Normal,Female,Health and beauty,25.1,7,10.54,186.24,2019-03-08 08:54:46.486486,15:40,Cash,175.7,6.0,10.54,7.0,15,March,3
+750-29-6894,Branche B,Mandalay,Member,Male,Sports and travel,74.83,8,34.12,632.76,2019-03-08 11:03:03.783783,19:16,Cash,598.64,5.7,34.12,8.4,19,March,3
+750-55-7541,Branche B,Mandalay,Member,Female,Home and lifestyle,52.79,5,14.52,278.47,2019-03-08 11:03:03.783783,14:02,Ewallet,263.95,5.5,14.52,7.7,14,March,3
+750-93-6069,Branche A,Yangon,Member,Female,Fashion accessories,59.92,5,15.58,315.18,2019-03-08 13:11:21.081081,16:20,Credit card,299.6,5.2,15.58,8.7,16,March,3
+750-57-4741,Branche B,Mandalay,Normal,Male,Home and lifestyle,52.21,8,22.97,440.65,2019-03-08 19:36:12.972972,14:52,Credit card,417.68,5.5,22.97,8.1,14,March,3
+750-22-5759,Branche B,Mandalay,Normal,Female,Food and beverages,59.23,1,2.84,62.07,2019-03-08 23:52:47.567567,15:35,Credit card,59.23,4.8,2.84,8.7,15,March,3
+750-29-4307,Branche C,Naypyitaw,Member,Female,Health and beauty,22.91,1,1.37,24.28,2019-03-09 06:17:39.459459,18:16,Credit card,22.91,6.0,1.37,7.8,18,March,3
+750-43-1842,Branche A,Yangon,Member,Male,Food and beverages,15.58,1,0.75,16.33,2019-03-09 06:17:39.459459,12:17,Cash,15.58,4.8,0.75,7.0,12,March,3
+750-45-2424,Branche C,Naypyitaw,Normal,Male,Electronic accessories,88.76,2,7.99,185.51,2019-03-09 08:25:56.756756,10:22,Cash,177.52,4.5,7.99,5.5,10,March,3
+750-62-8237,Branche C,Naypyitaw,Member,Male,Electronic accessories,38.09,10,17.14,398.04,2019-03-09 10:34:14.054054,20:54,Credit card,380.9,4.5,17.14,8.1,20,March,3
+750-84-2829,Branche B,Mandalay,Normal,Male,Home and lifestyle,50.88,2,5.6,107.36,2019-03-09 12:42:31.351351,14:20,Ewallet,101.76,5.5,5.6,4.1,14,March,3
+750-26-7655,Branche C,Naypyitaw,Normal,Female,Food and beverages,90.69,7,30.47,665.3,2019-03-09 16:59:05.945945,14:49,Cash,634.83,4.8,30.47,8.9,14,March,3
+750-95-3800,Branche B,Mandalay,Normal,Male,Health and beauty,23.84,10,14.3,252.7,2019-03-09 16:59:05.945945,13:10,Cash,238.4,6.0,14.3,9.2,13,March,3
+750-83-4890,Branche A,Yangon,Member,Male,Home and lifestyle,56.05,10,30.83,591.33,2019-03-09 19:07:23.243243,12:04,Credit card,560.5,5.5,30.83,6.8,12,March,3
+750-61-8867,Branche C,Naypyitaw,Member,Male,Electronic accessories,62.92,4,11.33,263.01,2019-03-09 19:07:23.243243,13:30,Cash,251.68,4.5,11.33,6.2,13,March,3
+750-23-6765,Branche B,Mandalay,Member,Male,Electronic accessories,44.51,10,20.03,465.13,2019-03-09 19:07:23.243243,12:34,Ewallet,445.1,4.5,20.03,5.1,12,March,3
+750-71-4034,Branche A,Yangon,Normal,Male,Sports and travel,61.76,6,21.12,391.68,2019-03-09 19:07:23.243243,16:01,Credit card,370.56,5.7,21.12,8.3,16,March,3
+750-28-8836,Branche A,Yangon,Member,Female,Food and beverages,27.41,7,9.21,201.08,2019-03-09 19:07:23.243243,17:35,Credit card,191.87,4.8,9.21,6.6,17,March,3
+750-48-2935,Branche B,Mandalay,Member,Female,Sports and travel,32.13,10,18.31,339.61,2019-03-09 21:15:40.540540,10:35,Ewallet,321.3,5.7,18.31,9.4,10,March,3
+750-19-8802,Branche B,Mandalay,Normal,Female,Home and lifestyle,97.89,3,16.15,309.82,2019-03-09 21:15:40.540540,12:57,Credit card,293.67,5.5,16.15,4.7,12,March,3
+750-30-6297,Branche B,Mandalay,Member,Female,Fashion accessories,37.69,2,3.92,79.3,2019-03-09 21:15:40.540540,14:00,Cash,75.38,5.2,3.92,5.0,14,March,3
+750-74-9934,Branche A,Yangon,Normal,Female,Fashion accessories,59.86,7,21.79,440.81,2019-03-10 01:32:15.135135,18:54,Ewallet,419.02,5.2,21.79,5.6,18,March,3
+750-89-6541,Branche B,Mandalay,Member,Male,Sports and travel,39.59,7,15.8,292.93,2019-03-10 03:40:32.432432,11:16,Credit card,277.13,5.7,15.8,7.0,11,March,3
+750-86-7652,Branche C,Naypyitaw,Normal,Male,Health and beauty,78.88,3,14.2,250.84,2019-03-10 03:40:32.432432,18:00,Ewallet,236.64,6.0,14.2,5.7,18,March,3
+750-60-1750,Branche B,Mandalay,Member,Female,Sports and travel,24.96,1,1.42,26.38,2019-03-10 03:40:32.432432,19:54,Credit card,24.96,5.7,1.42,7.5,19,March,3
+750-75-7139,Branche C,Naypyitaw,Normal,Female,Food and beverages,65.75,1,3.16,68.91,2019-03-10 10:05:24.324324,17:20,Credit card,65.75,4.8,3.16,4.6,17,March,3
+750-18-8635,Branche B,Mandalay,Member,Female,Food and beverages,59.71,9,25.79,563.18,2019-03-10 10:05:24.324324,16:57,Cash,537.39,4.8,25.79,5.8,16,March,3
+750-47-4465,Branche A,Yangon,Normal,Male,Home and lifestyle,29.84,4,6.56,125.92,2019-03-10 12:13:41.621621,13:29,Credit card,119.36,5.5,6.56,7.5,13,March,3
+750-13-9498,Branche A,Yangon,Normal,Male,Food and beverages,21.85,9,9.44,206.09,2019-03-10 14:21:58.918918,10:59,Ewallet,196.65,4.8,9.44,6.6,10,March,3
+750-48-2379,Branche A,Yangon,Normal,Female,Sports and travel,47.66,9,24.45,453.39,2019-03-10 16:30:16.216216,19:22,Cash,428.94,5.7,24.45,8.2,19,March,3
+750-95-2982,Branche A,Yangon,Member,Male,Health and beauty,23.37,5,7.01,123.86,2019-03-10 22:55:08.108108,14:17,Ewallet,116.85,6.0,7.01,9.3,14,March,3
+750-32-6930,Branche A,Yangon,Member,Male,Fashion accessories,96.91,10,50.39,1019.49,2019-03-10 22:55:08.108108,16:21,Ewallet,969.1,5.2,50.39,5.0,16,March,3
+750-56-5881,Branche C,Naypyitaw,Member,Female,Home and lifestyle,38.45,8,16.92,324.52,2019-03-10 22:55:08.108108,13:36,Ewallet,307.6,5.5,16.92,8.3,13,March,3
+750-36-6062,Branche C,Naypyitaw,Member,Male,Home and lifestyle,71.59,1,3.94,75.53,2019-03-10 22:55:08.108108,16:46,Cash,71.59,5.5,3.94,8.8,16,March,3
+750-79-6761,Branche B,Mandalay,Normal,Female,Fashion accessories,26.45,6,8.25,166.95,2019-03-11 05:20:00.000000,16:11,Cash,158.7,5.2,8.25,5.6,16,March,3
+750-95-8457,Branche A,Yangon,Normal,Male,Electronic accessories,26.12,2,2.35,54.59,2019-03-11 07:28:17.297297,16:49,Cash,52.24,4.5,2.35,9.3,16,March,3
+750-82-3775,Branche C,Naypyitaw,Member,Male,Health and beauty,84.76,7,35.6,628.92,2019-03-11 07:28:17.297297,15:30,Credit card,593.32,6.0,35.6,6.5,15,March,3
+750-52-2080,Branche C,Naypyitaw,Normal,Male,Fashion accessories,78.41,7,28.54,577.41,2019-03-11 11:44:51.891891,13:05,Ewallet,548.87,5.2,28.54,5.7,13,March,3
+750-19-3064,Branche B,Mandalay,Member,Male,Health and beauty,17.34,4,4.16,73.52,2019-03-11 16:01:26.486486,15:29,Cash,69.36,6.0,4.16,5.5,15,March,3
+750-68-8903,Branche B,Mandalay,Member,Male,Sports and travel,96.07,3,16.43,304.64,2019-03-11 16:01:26.486486,17:08,Credit card,288.21,5.7,16.43,5.0,17,March,3
+750-76-1061,Branche A,Yangon,Member,Female,Food and beverages,58.46,4,11.22,245.06,2019-03-11 18:09:43.783783,20:12,Ewallet,233.84,4.8,11.22,9.0,20,March,3
+750-21-7192,Branche B,Mandalay,Member,Male,Electronic accessories,63.76,4,11.48,266.52,2019-03-11 20:18:01.081081,15:34,Cash,255.04,4.5,11.48,8.7,15,March,3
+750-95-8026,Branche C,Naypyitaw,Member,Female,Electronic accessories,82.46,4,14.84,344.68,2019-03-11 22:26:18.378378,14:35,Ewallet,329.84,4.5,14.84,4.9,14,March,3
+750-74-4957,Branche B,Mandalay,Member,Male,Electronic accessories,54.37,6,14.68,340.9,2019-03-11 22:26:18.378378,13:46,Ewallet,326.22,4.5,14.68,8.1,13,March,3
+750-30-2725,Branche C,Naypyitaw,Member,Female,Fashion accessories,89.28,2,9.29,187.85,2019-03-11 22:26:18.378378,14:05,Credit card,178.56,5.2,9.29,8.4,14,March,3
+750-53-5962,Branche B,Mandalay,Normal,Male,Health and beauty,76.15,1,4.57,80.72,2019-03-12 09:07:44.864864,15:18,Cash,76.15,6.0,4.57,8.9,15,March,3
+750-87-3840,Branche B,Mandalay,Normal,Female,Sports and travel,31.52,2,3.59,66.63,2019-03-12 09:07:44.864864,19:02,Cash,63.04,5.7,3.59,4.9,19,March,3
+750-30-2024,Branche B,Mandalay,Normal,Male,Home and lifestyle,76.95,3,12.7,243.55,2019-03-12 11:16:02.162162,15:07,Credit card,230.85,5.5,12.7,6.8,15,March,3
+750-88-7953,Branche B,Mandalay,Member,Female,Health and beauty,55.7,10,33.42,590.42,2019-03-12 13:24:19.459459,15:48,Credit card,557.0,6.0,33.42,7.3,15,March,3
+750-30-8595,Branche B,Mandalay,Member,Male,Fashion accessories,83.91,5,21.82,441.37,2019-03-12 13:24:19.459459,13:06,Cash,419.55,5.2,21.82,7.7,13,March,3
+750-95-5297,Branche B,Mandalay,Member,Female,Fashion accessories,77.07,5,20.04,405.39,2019-03-12 15:32:36.756756,19:37,Cash,385.35,5.2,20.04,5.2,19,March,3
+750-70-1333,Branche C,Naypyitaw,Member,Male,Sports and travel,11.46,3,1.96,36.34,2019-03-12 19:49:11.351351,14:06,Cash,34.38,5.7,1.96,8.6,14,March,3
+750-93-4727,Branche A,Yangon,Member,Male,Home and lifestyle,16.55,7,6.37,122.22,2019-03-12 21:57:28.648648,16:13,Credit card,115.85,5.5,6.37,9.2,16,March,3
+750-88-5703,Branche A,Yangon,Member,Female,Health and beauty,13.12,3,2.36,41.72,2019-03-12 21:57:28.648648,11:47,Ewallet,39.36,6.0,2.36,5.9,11,March,3
+750-66-4257,Branche A,Yangon,Normal,Female,Electronic accessories,34.83,2,3.13,72.79,2019-03-13 00:05:45.945945,13:26,Ewallet,69.66,4.5,3.13,6.0,13,March,3
+750-18-2781,Branche C,Naypyitaw,Normal,Male,Home and lifestyle,99.24,7,38.21,732.89,2019-03-13 02:14:03.243243,11:01,Cash,694.68,5.5,38.21,8.5,11,March,3
+750-93-8575,Branche C,Naypyitaw,Normal,Male,Electronic accessories,24.39,6,6.59,152.93,2019-03-13 02:14:03.243243,17:37,Cash,146.34,4.5,6.59,9.1,17,March,3
+750-91-3530,Branche A,Yangon,Normal,Male,Home and lifestyle,39.51,1,2.17,41.68,2019-03-13 04:22:20.540540,18:14,Cash,39.51,5.5,2.17,8.4,18,March,3
+750-13-3846,Branche A,Yangon,Member,Female,Home and lifestyle,55.8,3,9.21,176.61,2019-03-13 04:22:20.540540,17:55,Cash,167.4,5.5,9.21,8.3,17,March,3
+750-26-7627,Branche C,Naypyitaw,Normal,Male,Sports and travel,88.56,6,30.29,561.65,2019-03-13 04:22:20.540540,10:44,Ewallet,531.36,5.7,30.29,6.3,10,March,3
+750-29-5353,Branche B,Mandalay,Normal,Female,Electronic accessories,19.78,7,6.23,144.69,2019-03-13 06:30:37.837837,16:04,Cash,138.46,4.5,6.23,4.3,16,March,3
+750-53-8611,Branche C,Naypyitaw,Normal,Female,Food and beverages,48.47,9,20.94,457.17,2019-03-13 08:38:55.135135,16:17,Credit card,436.23,4.8,20.94,7.9,16,March,3
+750-81-2910,Branche B,Mandalay,Normal,Male,Health and beauty,18.5,4,4.44,78.44,2019-03-13 10:47:12.432432,15:27,Cash,74.0,6.0,4.44,9.4,15,March,3
+750-44-5029,Branche B,Mandalay,Member,Male,Sports and travel,49.03,4,11.18,207.3,2019-03-13 10:47:12.432432,11:39,Ewallet,196.12,5.7,11.18,4.1,11,March,3
+750-93-8061,Branche A,Yangon,Member,Male,Fashion accessories,78.82,2,8.2,165.84,2019-03-13 12:55:29.729729,19:51,Credit card,157.64,5.2,8.2,6.1,19,March,3
+750-37-2865,Branche A,Yangon,Normal,Female,Food and beverages,81.68,9,35.29,770.41,2019-03-13 15:03:47.027027,12:36,Credit card,735.12,4.8,35.29,5.4,12,March,3
+750-59-3615,Branche C,Naypyitaw,Member,Male,Health and beauty,70.74,5,21.22,374.92,2019-03-13 19:20:21.621621,10:05,Credit card,353.7,6.0,21.22,9.8,10,March,3
+750-29-7764,Branche C,Naypyitaw,Member,Male,Sports and travel,60.21,9,30.89,572.78,2019-03-14 06:01:48.108108,15:23,Credit card,541.89,5.7,30.89,5.7,15,March,3
+750-28-8541,Branche A,Yangon,Normal,Male,Electronic accessories,46.59,9,18.87,438.18,2019-03-14 06:01:48.108108,17:28,Cash,419.31,4.5,18.87,4.0,17,March,3
+750-89-8244,Branche A,Yangon,Normal,Female,Home and lifestyle,96.19,4,21.16,405.92,2019-03-14 08:10:05.405405,14:37,Cash,384.76,5.5,21.16,7.9,14,March,3
+750-32-7086,Branche B,Mandalay,Normal,Female,Sports and travel,46.03,10,26.24,486.54,2019-03-14 12:26:40.000000,11:25,Cash,460.3,5.7,26.24,8.6,11,March,3
+750-11-6311,Branche B,Mandalay,Normal,Male,Sports and travel,77.41,2,8.82,163.64,2019-03-14 14:34:57.297297,14:44,Credit card,154.82,5.7,8.82,4.7,14,March,3
+750-25-5988,Branche A,Yangon,Normal,Female,Food and beverages,67.85,1,3.26,71.11,2019-03-14 14:34:57.297297,15:37,Credit card,67.85,4.8,3.26,6.1,15,March,3
+750-93-7856,Branche C,Naypyitaw,Member,Female,Health and beauty,24.29,5,7.29,128.74,2019-03-14 14:34:57.297297,15:12,Credit card,121.45,6.0,7.29,6.2,15,March,3
+750-85-7071,Branche A,Yangon,Member,Male,Fashion accessories,42.67,7,15.53,314.22,2019-03-14 18:51:31.891891,13:44,Credit card,298.69,5.2,15.53,4.0,13,March,3
+750-82-2596,Branche B,Mandalay,Normal,Male,Sports and travel,72.13,4,16.45,304.97,2019-03-14 20:59:49.189189,19:38,Cash,288.52,5.7,16.45,4.5,19,March,3
+750-61-2955,Branche B,Mandalay,Member,Female,Food and beverages,13.51,7,4.54,99.11,2019-03-14 20:59:49.189189,14:12,Credit card,94.57,4.8,4.54,6.9,14,March,3
+750-77-9723,Branche A,Yangon,Member,Female,Home and lifestyle,73.45,8,32.32,619.92,2019-03-14 23:08:06.486486,16:20,Ewallet,587.6,5.5,32.32,6.1,16,March,3
+750-46-7641,Branche B,Mandalay,Member,Female,Food and beverages,74.57,7,25.06,547.05,2019-03-14 23:08:06.486486,20:36,Credit card,521.99,4.8,25.06,4.7,20,March,3
+750-59-4506,Branche C,Naypyitaw,Member,Female,Fashion accessories,50.66,3,7.9,159.88,2019-03-14 23:08:06.486486,13:28,Credit card,151.98,5.2,7.9,6.4,13,March,3
+750-53-6682,Branche B,Mandalay,Normal,Female,Sports and travel,22.53,6,7.71,142.89,2019-03-15 03:24:41.081081,15:39,Cash,135.18,5.7,7.71,7.0,15,March,3
+750-42-6892,Branche B,Mandalay,Normal,Male,Health and beauty,15.42,6,5.55,98.07,2019-03-15 05:32:58.378378,19:25,Credit card,92.52,6.0,5.55,8.9,19,March,3
+750-90-8892,Branche C,Naypyitaw,Member,Female,Health and beauty,63.68,4,15.28,270.0,2019-03-15 07:41:15.675675,13:15,Cash,254.72,6.0,15.28,9.5,13,March,3
+750-18-3006,Branche C,Naypyitaw,Member,Male,Fashion accessories,79.25,6,24.73,500.23,2019-03-15 07:41:15.675675,15:45,Credit card,475.5,5.2,24.73,8.3,15,March,3
+750-25-6196,Branche A,Yangon,Normal,Male,Sports and travel,99.28,2,11.32,209.88,2019-03-15 09:49:32.972972,15:37,Cash,198.56,5.7,11.32,7.1,15,March,3
+750-25-2129,Branche A,Yangon,Member,Female,Health and beauty,59.11,6,21.28,375.94,2019-03-15 09:49:32.972972,15:40,Cash,354.66,6.0,21.28,8.2,15,March,3
+750-54-9271,Branche C,Naypyitaw,Normal,Female,Food and beverages,21.79,7,7.32,159.85,2019-03-15 16:14:24.864864,15:16,Cash,152.53,4.8,7.32,7.6,15,March,3
+750-80-1045,Branche A,Yangon,Normal,Male,Food and beverages,34.36,7,11.54,252.06,2019-03-15 16:14:24.864864,15:56,Ewallet,240.52,4.8,11.54,4.9,15,March,3
+750-81-2562,Branche A,Yangon,Normal,Male,Home and lifestyle,34.14,4,7.51,144.07,2019-03-15 20:30:59.459459,13:35,Ewallet,136.56,5.5,7.51,4.3,13,March,3
+750-82-2484,Branche A,Yangon,Member,Female,Health and beauty,39.82,8,19.11,337.67,2019-03-15 20:30:59.459459,19:48,Credit card,318.56,6.0,19.11,9.0,19,March,3
+750-95-4830,Branche B,Mandalay,Member,Female,Electronic accessories,99.49,2,8.95,207.93,2019-03-15 22:39:16.756756,18:18,Ewallet,198.98,4.5,8.95,5.3,18,March,3
+750-69-8157,Branche A,Yangon,Member,Female,Food and beverages,71.12,9,30.72,670.8,2019-03-15 22:39:16.756756,10:43,Cash,640.08,4.8,30.72,8.9,10,March,3
+750-13-2251,Branche C,Naypyitaw,Member,Female,Electronic accessories,15.1,5,3.4,78.9,2019-03-16 02:55:51.351351,10:56,Cash,75.5,4.5,3.4,4.1,10,March,3
+750-28-3562,Branche A,Yangon,Member,Female,Home and lifestyle,14.83,10,8.16,156.46,2019-03-16 02:55:51.351351,11:12,Credit card,148.3,5.5,8.16,5.2,11,March,3
+750-72-6308,Branche C,Naypyitaw,Normal,Female,Electronic accessories,43.92,7,13.83,321.27,2019-03-16 02:55:51.351351,14:13,Ewallet,307.44,4.5,13.83,9.1,14,March,3
+750-14-9053,Branche A,Yangon,Normal,Male,Electronic accessories,85.5,2,7.69,178.69,2019-03-16 05:04:08.648648,18:14,Cash,171.0,4.5,7.69,9.1,18,March,3
+750-16-4889,Branche B,Mandalay,Normal,Female,Food and beverages,56.0,7,18.82,410.82,2019-03-16 09:20:43.243243,14:58,Credit card,392.0,4.8,18.82,4.3,14,March,3
+750-94-7764,Branche C,Naypyitaw,Normal,Male,Food and beverages,66.82,9,28.87,630.25,2019-03-16 09:20:43.243243,18:18,Cash,601.38,4.8,28.87,8.6,18,March,3
+750-95-6162,Branche B,Mandalay,Normal,Male,Electronic accessories,61.65,5,13.87,322.12,2019-03-16 09:20:43.243243,14:57,Ewallet,308.25,4.5,13.87,5.8,14,March,3
+750-41-6613,Branche B,Mandalay,Member,Male,Fashion accessories,74.32,10,38.65,781.85,2019-03-16 09:20:43.243243,14:24,Ewallet,743.2,5.2,38.65,4.6,14,March,3
+750-61-1022,Branche C,Naypyitaw,Normal,Female,Sports and travel,12.31,10,7.02,130.12,2019-03-16 09:20:43.243243,18:08,Ewallet,123.1,5.7,7.02,9.2,18,March,3
+750-94-4177,Branche C,Naypyitaw,Member,Male,Fashion accessories,41.05,7,14.94,302.29,2019-03-16 09:20:43.243243,11:02,Credit card,287.35,5.2,14.94,9.7,11,March,3
+750-66-6637,Branche A,Yangon,Normal,Female,Food and beverages,25.08,1,1.2,26.28,2019-03-16 13:37:17.837837,13:57,Cash,25.08,4.8,1.2,9.3,13,March,3
+750-61-9376,Branche B,Mandalay,Normal,Male,Electronic accessories,52.45,7,16.52,383.67,2019-03-16 13:37:17.837837,16:18,Credit card,367.15,4.5,16.52,10.0,16,March,3
+750-45-2792,Branche B,Mandalay,Normal,Female,Food and beverages,30.8,2,2.96,64.56,2019-03-16 13:37:17.837837,13:16,Cash,61.6,4.8,2.96,5.1,13,March,3
+750-14-7374,Branche A,Yangon,Member,Male,Health and beauty,44.8,5,13.44,237.44,2019-03-16 15:45:35.135135,12:37,Credit card,224.0,6.0,13.44,8.4,12,March,3
+750-51-5537,Branche A,Yangon,Normal,Female,Home and lifestyle,63.61,10,34.99,671.09,2019-03-16 15:45:35.135135,12:21,Cash,636.1,5.5,34.99,6.3,12,March,3
+750-64-2778,Branche B,Mandalay,Normal,Male,Health and beauty,24.07,10,14.44,255.14,2019-03-16 17:53:52.432432,12:20,Credit card,240.7,6.0,14.44,5.6,12,March,3
+750-88-2634,Branche A,Yangon,Normal,Male,Home and lifestyle,40.75,1,2.24,42.99,2019-03-16 20:02:09.729729,13:03,Ewallet,40.75,5.5,2.24,4.1,13,March,3
+750-48-2368,Branche A,Yangon,Normal,Female,Electronic accessories,59.93,8,21.57,501.01,2019-03-16 20:02:09.729729,11:27,Credit card,479.44,4.5,21.57,7.9,11,March,3
+750-24-1676,Branche C,Naypyitaw,Member,Male,Food and beverages,51.47,9,22.24,485.47,2019-03-16 22:10:27.027027,11:26,Credit card,463.23,4.8,22.24,8.3,11,March,3
+750-26-7821,Branche A,Yangon,Member,Male,Health and beauty,70.88,5,21.26,375.66,2019-03-17 02:27:01.621621,16:07,Ewallet,354.4,6.0,21.26,5.7,16,March,3
+750-25-6715,Branche C,Naypyitaw,Member,Female,Health and beauty,86.22,4,20.69,365.57,2019-03-17 04:35:18.918918,10:55,Credit card,344.88,6.0,20.69,4.6,10,March,3
+750-23-9806,Branche C,Naypyitaw,Member,Male,Fashion accessories,74.81,7,27.23,550.9,2019-03-17 04:35:18.918918,19:21,Cash,523.67,5.2,27.23,5.4,19,March,3
+750-95-3486,Branche A,Yangon,Normal,Male,Fashion accessories,99.6,9,46.61,943.01,2019-03-17 04:35:18.918918,14:38,Cash,896.4,5.2,46.61,4.0,14,March,3
+750-74-1548,Branche A,Yangon,Member,Female,Home and lifestyle,86.15,8,37.91,727.11,2019-03-17 08:51:53.513513,18:12,Cash,689.2,5.5,37.91,5.8,18,March,3
+750-36-7256,Branche A,Yangon,Member,Male,Food and beverages,53.55,3,7.71,168.36,2019-03-17 08:51:53.513513,10:18,Credit card,160.65,4.8,7.71,6.5,10,March,3
+750-12-5087,Branche C,Naypyitaw,Normal,Female,Electronic accessories,95.91,9,38.84,902.03,2019-03-17 11:00:10.810810,11:06,Cash,863.19,4.5,38.84,9.2,11,March,3
+750-56-7413,Branche C,Naypyitaw,Normal,Male,Sports and travel,76.11,10,43.38,804.48,2019-03-17 19:33:20.000000,15:21,Credit card,761.1,5.7,43.38,4.2,15,March,3
+750-90-6644,Branche C,Naypyitaw,Normal,Female,Food and beverages,60.93,10,29.25,638.55,2019-03-18 01:58:11.891891,14:56,Cash,609.3,4.8,29.25,6.8,14,March,3
+750-37-1793,Branche B,Mandalay,Normal,Male,Health and beauty,62.05,3,11.17,197.32,2019-03-18 01:58:11.891891,13:28,Ewallet,186.15,6.0,11.17,4.1,13,March,3
+750-93-8008,Branche B,Mandalay,Normal,Male,Fashion accessories,28.61,3,4.46,90.29,2019-03-18 01:58:11.891891,13:39,Ewallet,85.83,5.2,4.46,8.2,13,March,3
+750-56-4392,Branche B,Mandalay,Member,Female,Electronic accessories,48.67,3,6.57,152.58,2019-03-18 04:06:29.189189,20:29,Credit card,146.01,4.5,6.57,4.4,20,March,3
+750-67-8852,Branche A,Yangon,Member,Female,Fashion accessories,28.52,10,14.83,300.03,2019-03-18 04:06:29.189189,17:56,Cash,285.2,5.2,14.83,7.1,17,March,3
+750-45-2301,Branche A,Yangon,Member,Male,Electronic accessories,70.39,9,28.51,662.02,2019-03-18 08:23:03.783783,17:01,Cash,633.51,4.5,28.51,7.1,17,March,3
+750-40-9102,Branche C,Naypyitaw,Normal,Female,Fashion accessories,84.09,4,17.49,353.85,2019-03-18 10:31:21.081081,17:11,Ewallet,336.36,5.2,17.49,8.9,17,March,3
+750-94-9159,Branche A,Yangon,Normal,Male,Fashion accessories,28.21,7,10.27,207.74,2019-03-18 12:39:38.378378,17:59,Ewallet,197.47,5.2,10.27,9.9,17,March,3
+750-57-4743,Branche C,Naypyitaw,Member,Male,Sports and travel,61.78,10,35.21,653.01,2019-03-18 12:39:38.378378,15:51,Ewallet,617.8,5.7,35.21,8.5,15,March,3
+750-93-5636,Branche A,Yangon,Member,Male,Home and lifestyle,94.65,8,41.65,798.85,2019-03-18 14:47:55.675675,14:04,Credit card,757.2,5.5,41.65,10.0,14,March,3
+750-16-2706,Branche A,Yangon,Normal,Male,Health and beauty,81.78,9,44.16,780.18,2019-03-18 14:47:55.675675,15:36,Credit card,736.02,6.0,44.16,5.3,15,March,3
+750-40-9662,Branche C,Naypyitaw,Member,Female,Home and lifestyle,16.25,7,6.26,120.01,2019-03-18 16:56:12.972972,16:05,Credit card,113.75,5.5,6.26,4.2,16,March,3
+750-72-2600,Branche B,Mandalay,Normal,Female,Sports and travel,31.02,5,8.84,163.94,2019-03-18 19:04:30.270270,12:02,Cash,155.1,5.7,8.84,5.4,12,March,3
+750-20-9405,Branche B,Mandalay,Normal,Male,Food and beverages,92.48,10,44.39,969.19,2019-03-18 21:12:47.567567,18:40,Ewallet,924.8,4.8,44.39,7.3,18,March,3
+750-73-2403,Branche A,Yangon,Member,Female,Fashion accessories,77.62,9,36.33,734.91,2019-03-19 01:29:22.162162,10:55,Ewallet,698.58,5.2,36.33,5.8,10,March,3
+750-42-1870,Branche B,Mandalay,Member,Female,Sports and travel,31.0,2,3.53,65.53,2019-03-19 03:37:39.459459,12:04,Cash,62.0,5.7,3.53,6.4,12,March,3
+750-21-4989,Branche A,Yangon,Member,Male,Electronic accessories,60.0,3,8.1,188.1,2019-03-19 03:37:39.459459,19:23,Credit card,180.0,4.5,8.1,4.6,19,March,3
+750-56-5133,Branche B,Mandalay,Member,Female,Electronic accessories,68.36,5,15.38,357.18,2019-03-19 05:45:56.756756,15:49,Cash,341.8,4.5,15.38,4.5,15,March,3
+750-62-8235,Branche C,Naypyitaw,Normal,Female,Food and beverages,53.07,6,15.28,333.7,2019-03-19 07:54:14.054054,12:13,Cash,318.42,4.8,15.28,6.2,12,March,3
+750-87-2845,Branche A,Yangon,Member,Female,Health and beauty,35.71,1,2.14,37.85,2019-03-19 07:54:14.054054,16:54,Cash,35.71,6.0,2.14,4.9,16,March,3
+750-67-5090,Branche C,Naypyitaw,Member,Male,Fashion accessories,64.28,8,26.74,540.98,2019-03-19 07:54:14.054054,10:44,Ewallet,514.24,5.2,26.74,7.5,10,March,3
+750-72-5708,Branche A,Yangon,Member,Female,Electronic accessories,23.63,8,8.51,197.55,2019-03-19 10:02:31.351351,11:47,Credit card,189.04,4.5,8.51,6.7,11,March,3
+750-74-4299,Branche C,Naypyitaw,Member,Male,Health and beauty,40.54,7,17.03,300.81,2019-03-19 10:02:31.351351,19:19,Ewallet,283.78,6.0,17.03,5.4,19,March,3
+750-35-5491,Branche B,Mandalay,Member,Female,Health and beauty,69.99,5,21.0,370.95,2019-03-19 10:02:31.351351,13:36,Ewallet,349.95,6.0,21.0,7.2,13,March,3
+750-54-7851,Branche B,Mandalay,Normal,Male,Fashion accessories,40.13,2,4.17,84.43,2019-03-19 12:10:48.648648,12:43,Credit card,80.26,5.2,4.17,4.2,12,March,3
+750-30-5927,Branche A,Yangon,Normal,Female,Sports and travel,40.71,6,13.92,258.18,2019-03-19 14:19:05.945945,20:21,Ewallet,244.26,5.7,13.92,8.5,20,March,3
+750-16-7786,Branche B,Mandalay,Member,Male,Sports and travel,83.12,2,9.48,175.72,2019-03-19 16:27:23.243243,12:41,Credit card,166.24,5.7,9.48,5.7,12,March,3
+750-21-8770,Branche A,Yangon,Member,Female,Home and lifestyle,47.42,9,23.47,450.25,2019-03-19 18:35:40.540540,14:12,Ewallet,426.78,5.5,23.47,9.2,14,March,3
+750-68-3062,Branche A,Yangon,Normal,Female,Health and beauty,90.13,8,43.26,764.3,2019-03-19 18:35:40.540540,20:59,Credit card,721.04,6.0,43.26,6.9,20,March,3
+750-27-6538,Branche C,Naypyitaw,Member,Male,Home and lifestyle,66.31,2,7.29,139.91,2019-03-19 22:52:15.135135,10:00,Credit card,132.62,5.5,7.29,4.3,10,March,3
+750-59-3268,Branche B,Mandalay,Member,Female,Sports and travel,77.49,2,8.83,163.81,2019-03-20 05:17:07.027027,16:41,Credit card,154.98,5.7,8.83,7.9,16,March,3
+750-73-2031,Branche A,Yangon,Normal,Male,Fashion accessories,15.12,6,4.72,95.44,2019-03-20 05:17:07.027027,13:16,Cash,90.72,5.2,4.72,8.1,13,March,3
+750-79-6838,Branche C,Naypyitaw,Normal,Male,Food and beverages,70.81,3,10.2,222.63,2019-03-20 07:25:24.324324,14:21,Cash,212.43,4.8,10.2,4.6,14,March,3
+750-75-7911,Branche B,Mandalay,Normal,Female,Health and beauty,73.19,6,26.35,465.49,2019-03-20 07:25:24.324324,19:09,Cash,439.14,6.0,26.35,6.1,19,March,3
+750-32-6169,Branche C,Naypyitaw,Normal,Female,Sports and travel,46.31,10,26.4,489.5,2019-03-20 09:33:41.621621,15:12,Credit card,463.1,5.7,26.4,9.0,15,March,3
+750-21-3037,Branche A,Yangon,Normal,Male,Health and beauty,94.68,7,39.77,702.53,2019-03-20 11:41:58.918918,16:13,Ewallet,662.76,6.0,39.77,7.4,16,March,3
+750-32-2725,Branche A,Yangon,Member,Female,Food and beverages,65.73,7,22.09,482.2,2019-03-20 11:41:58.918918,14:50,Ewallet,460.11,4.8,22.09,9.8,14,March,3
+750-39-9664,Branche A,Yangon,Member,Female,Home and lifestyle,15.39,7,5.93,113.66,2019-03-20 13:50:16.216216,14:53,Credit card,107.73,5.5,5.93,8.1,14,March,3
+750-86-7094,Branche A,Yangon,Member,Male,Sports and travel,35.94,1,2.05,37.99,2019-03-20 13:50:16.216216,12:59,Credit card,35.94,5.7,2.05,9.4,12,March,3
+750-70-7820,Branche A,Yangon,Member,Male,Fashion accessories,85.52,4,17.79,359.87,2019-03-20 15:58:33.513513,15:56,Ewallet,342.08,5.2,17.79,6.7,15,March,3
+750-40-6643,Branche B,Mandalay,Member,Male,Food and beverages,95.71,7,32.16,702.13,2019-03-20 15:58:33.513513,12:33,Cash,669.97,4.8,32.16,6.8,12,March,3
+750-48-7601,Branche C,Naypyitaw,Normal,Male,Fashion accessories,94.13,10,48.95,990.25,2019-03-20 15:58:33.513513,14:52,Credit card,941.3,5.2,48.95,7.6,14,March,3
+750-44-9076,Branche A,Yangon,Member,Male,Fashion accessories,11.19,10,5.82,117.72,2019-03-20 18:06:50.810810,14:21,Cash,111.9,5.2,5.82,8.4,14,March,3
+750-58-8913,Branche B,Mandalay,Normal,Female,Fashion accessories,62.8,1,3.27,66.07,2019-03-20 20:15:08.108108,17:59,Ewallet,62.8,5.2,3.27,4.1,17,March,3
+750-53-5920,Branche B,Mandalay,Normal,Male,Fashion accessories,17.87,8,7.43,150.39,2019-03-20 20:15:08.108108,14:06,Ewallet,142.96,5.2,7.43,5.9,14,March,3
+750-49-4712,Branche B,Mandalay,Normal,Male,Fashion accessories,71.43,4,14.86,300.58,2019-03-20 22:23:25.405405,17:07,Cash,285.72,5.2,14.86,7.5,17,March,3
+750-67-9014,Branche C,Naypyitaw,Normal,Female,Food and beverages,17.22,7,5.79,126.33,2019-03-20 22:23:25.405405,12:53,Ewallet,120.54,4.8,5.79,9.8,12,March,3
+750-94-2583,Branche A,Yangon,Member,Female,Health and beauty,53.32,1,3.2,56.52,2019-03-21 00:31:42.702702,17:13,Cash,53.32,6.0,3.2,6.9,17,March,3
+750-64-4596,Branche A,Yangon,Member,Male,Sports and travel,47.36,2,5.4,100.12,2019-03-21 02:40:00.000000,16:32,Cash,94.72,5.7,5.4,5.9,16,March,3
+750-21-5204,Branche C,Naypyitaw,Normal,Male,Fashion accessories,44.39,5,11.54,233.49,2019-03-21 02:40:00.000000,13:05,Ewallet,221.95,5.2,11.54,9.8,13,March,3
+750-31-3612,Branche B,Mandalay,Member,Male,Fashion accessories,86.05,5,22.37,452.62,2019-03-21 04:48:17.297297,19:16,Credit card,430.25,5.2,22.37,8.2,19,March,3
+750-33-5237,Branche A,Yangon,Member,Female,Fashion accessories,70.53,6,22.01,445.19,2019-03-21 04:48:17.297297,13:11,Credit card,423.18,5.2,22.01,9.8,13,March,3
+750-49-6400,Branche B,Mandalay,Normal,Female,Home and lifestyle,93.95,2,10.33,198.23,2019-03-21 06:56:34.594594,14:49,Ewallet,187.9,5.5,10.33,4.7,14,March,3
+750-86-1214,Branche A,Yangon,Normal,Male,Home and lifestyle,47.01,7,18.1,347.17,2019-03-21 06:56:34.594594,12:26,Ewallet,329.07,5.5,18.1,4.3,12,March,3
+750-71-6125,Branche C,Naypyitaw,Member,Female,Health and beauty,22.71,5,6.81,120.36,2019-03-21 06:56:34.594594,20:07,Cash,113.55,6.0,6.81,4.2,20,March,3
+750-41-4761,Branche B,Mandalay,Normal,Female,Sports and travel,74.68,6,25.54,473.62,2019-03-21 06:56:34.594594,10:21,Ewallet,448.08,5.7,25.54,9.3,10,March,3
+750-83-6600,Branche A,Yangon,Member,Female,Electronic accessories,36.83,8,13.26,307.9,2019-03-21 09:04:51.891891,14:50,Cash,294.64,4.5,13.26,7.8,14,March,3
+750-70-8527,Branche A,Yangon,Normal,Male,Electronic accessories,81.45,4,14.66,340.46,2019-03-21 09:04:51.891891,15:59,Cash,325.8,4.5,14.66,6.6,15,March,3
+750-17-4139,Branche B,Mandalay,Normal,Female,Fashion accessories,45.4,8,18.89,382.09,2019-03-21 09:04:51.891891,18:08,Ewallet,363.2,5.2,18.89,9.7,18,March,3
+750-80-2104,Branche B,Mandalay,Normal,Male,Fashion accessories,90.73,5,23.59,477.24,2019-03-21 09:04:51.891891,13:42,Cash,453.65,5.2,23.59,6.5,13,March,3
+750-37-2841,Branche C,Naypyitaw,Member,Female,Fashion accessories,39.88,10,20.74,419.54,2019-03-21 09:04:51.891891,14:39,Ewallet,398.8,5.2,20.74,9.2,14,March,3
+750-70-5176,Branche A,Yangon,Normal,Female,Fashion accessories,10.0,10,5.2,105.2,2019-03-21 17:38:01.081081,11:57,Cash,100.0,5.2,5.2,4.6,11,March,3
+750-31-3015,Branche B,Mandalay,Normal,Female,Health and beauty,46.18,2,5.54,97.9,2019-03-21 21:54:35.675675,13:58,Cash,92.36,6.0,5.54,6.3,13,March,3
+750-11-9440,Branche B,Mandalay,Member,Male,Health and beauty,51.88,7,21.79,384.95,2019-03-21 21:54:35.675675,17:14,Credit card,363.16,6.0,21.79,8.9,17,March,3
+750-25-7598,Branche B,Mandalay,Member,Female,Food and beverages,83.06,6,23.92,522.28,2019-03-22 00:02:52.972972,19:30,Ewallet,498.36,4.8,23.92,4.0,19,March,3
+750-45-8478,Branche A,Yangon,Normal,Female,Health and beauty,41.65,3,7.5,132.45,2019-03-22 00:02:52.972972,14:58,Ewallet,124.95,6.0,7.5,7.4,14,March,3
+750-92-6278,Branche A,Yangon,Member,Male,Sports and travel,69.57,7,27.76,514.75,2019-03-22 00:02:52.972972,14:53,Credit card,486.99,5.7,27.76,6.9,14,March,3
+750-63-6786,Branche C,Naypyitaw,Member,Female,Electronic accessories,63.73,8,22.94,532.78,2019-03-22 00:02:52.972972,13:41,Credit card,509.84,4.5,22.94,9.8,13,March,3
+750-54-8240,Branche C,Naypyitaw,Normal,Female,Home and lifestyle,81.92,9,40.55,777.83,2019-03-22 00:02:52.972972,17:16,Ewallet,737.28,5.5,40.55,8.7,17,March,3
+750-33-9120,Branche C,Naypyitaw,Member,Male,Health and beauty,71.17,9,38.43,678.96,2019-03-22 02:11:10.270270,14:26,Ewallet,640.53,6.0,38.43,8.5,14,March,3
+750-75-1529,Branche B,Mandalay,Member,Male,Health and beauty,56.12,10,33.67,594.87,2019-03-22 04:19:27.567567,13:43,Ewallet,561.2,6.0,33.67,8.8,13,March,3
+750-41-4322,Branche A,Yangon,Member,Female,Food and beverages,12.27,10,5.89,128.59,2019-03-22 06:27:44.864864,12:10,Ewallet,122.7,4.8,5.89,7.8,12,March,3
+750-86-5231,Branche C,Naypyitaw,Member,Female,Home and lifestyle,32.71,5,9.0,172.55,2019-03-22 06:27:44.864864,15:55,Ewallet,163.55,5.5,9.0,4.2,15,March,3
+750-65-2575,Branche C,Naypyitaw,Member,Male,Home and lifestyle,95.55,9,47.3,907.25,2019-03-22 06:27:44.864864,12:56,Credit card,859.95,5.5,47.3,6.7,12,March,3
+750-12-5521,Branche A,Yangon,Member,Male,Sports and travel,95.3,9,48.89,906.59,2019-03-22 06:27:44.864864,14:04,Cash,857.7,5.7,48.89,6.8,14,March,3
+750-30-4163,Branche B,Mandalay,Normal,Female,Health and beauty,26.64,7,11.19,197.67,2019-03-22 08:36:02.162162,14:03,Credit card,186.48,6.0,11.19,4.4,14,March,3
+750-14-4835,Branche A,Yangon,Member,Female,Electronic accessories,64.64,3,8.73,202.65,2019-03-22 08:36:02.162162,16:18,Ewallet,193.92,4.5,8.73,7.1,16,March,3
+750-17-3035,Branche A,Yangon,Member,Male,Electronic accessories,55.53,8,19.99,464.23,2019-03-22 12:52:36.756756,10:48,Ewallet,444.24,4.5,19.99,8.4,10,March,3
+750-59-6645,Branche A,Yangon,Member,Male,Electronic accessories,84.58,9,34.25,795.47,2019-03-22 15:00:54.054054,14:39,Credit card,761.22,4.5,34.25,5.3,14,March,3
+750-97-1831,Branche C,Naypyitaw,Normal,Female,Sports and travel,18.23,1,1.04,19.27,2019-03-22 17:09:11.351351,19:46,Cash,18.23,5.7,1.04,8.0,19,March,3
+750-17-7724,Branche A,Yangon,Normal,Male,Sports and travel,48.14,4,10.98,203.54,2019-03-22 21:25:45.945945,18:48,Cash,192.56,5.7,10.98,9.4,18,March,3
+750-62-6620,Branche B,Mandalay,Member,Male,Electronic accessories,69.23,8,24.92,578.76,2019-03-23 01:42:20.540540,17:41,Credit card,553.84,4.5,24.92,9.2,17,March,3
+750-97-7114,Branche B,Mandalay,Normal,Female,Health and beauty,45.38,1,2.72,48.1,2019-03-23 03:50:37.837837,10:16,Ewallet,45.38,6.0,2.72,8.1,10,March,3
+750-75-2485,Branche A,Yangon,Member,Female,Food and beverages,17.74,10,8.52,185.92,2019-03-23 05:58:55.135135,11:44,Ewallet,177.4,4.8,8.52,5.0,11,March,3
+750-81-5382,Branche B,Mandalay,Normal,Male,Food and beverages,62.92,5,15.1,329.7,2019-03-23 05:58:55.135135,15:49,Ewallet,314.6,4.8,15.1,4.6,15,March,3
+750-47-4611,Branche C,Naypyitaw,Normal,Male,Fashion accessories,36.63,10,19.05,385.35,2019-03-23 05:58:55.135135,16:36,Cash,366.3,5.2,19.05,8.4,16,March,3
+750-34-7875,Branche B,Mandalay,Normal,Male,Home and lifestyle,48.47,4,10.66,204.54,2019-03-23 10:15:29.729729,14:26,Ewallet,193.88,5.5,10.66,8.0,14,March,3
+750-27-2500,Branche B,Mandalay,Normal,Male,Electronic accessories,95.81,10,43.11,1001.21,2019-03-23 10:15:29.729729,11:20,Ewallet,958.1,4.5,43.11,7.4,11,March,3
+750-21-1211,Branche B,Mandalay,Normal,Male,Electronic accessories,10.08,3,1.36,31.6,2019-03-23 12:23:47.027027,13:19,Credit card,30.24,4.5,1.36,6.7,13,March,3
+750-30-4584,Branche C,Naypyitaw,Normal,Male,Fashion accessories,84.56,6,26.38,533.74,2019-03-23 12:23:47.027027,19:53,Credit card,507.36,5.2,26.38,4.1,19,March,3
+750-64-3493,Branche A,Yangon,Normal,Female,Fashion accessories,26.21,10,13.63,275.73,2019-03-23 14:32:04.324324,16:41,Ewallet,262.1,5.2,13.63,4.1,16,March,3
+750-41-8407,Branche B,Mandalay,Normal,Female,Food and beverages,82.22,8,31.57,689.33,2019-03-23 16:40:21.621621,17:42,Cash,657.76,4.8,31.57,5.8,17,March,3
+750-55-7583,Branche A,Yangon,Member,Male,Electronic accessories,13.74,1,0.62,14.36,2019-03-23 16:40:21.621621,12:22,Cash,13.74,4.5,0.62,6.0,12,March,3
+750-91-6270,Branche A,Yangon,Member,Female,Fashion accessories,66.28,7,24.13,488.09,2019-03-24 01:13:30.810810,18:17,Credit card,463.96,5.2,24.13,9.1,18,March,3
+750-59-6497,Branche C,Naypyitaw,Normal,Male,Health and beauty,78.06,2,9.37,165.49,2019-03-24 03:21:48.108108,14:48,Ewallet,156.12,6.0,9.37,5.5,14,March,3
+750-91-9981,Branche C,Naypyitaw,Normal,Male,Food and beverages,26.27,7,8.83,192.72,2019-03-24 03:21:48.108108,17:20,Cash,183.89,4.8,8.83,7.9,17,March,3
+750-92-2516,Branche A,Yangon,Normal,Male,Health and beauty,28.75,4,6.9,121.9,2019-03-24 03:21:48.108108,16:36,Cash,115.0,6.0,6.9,9.8,16,March,3
+750-60-1020,Branche A,Yangon,Member,Female,Health and beauty,96.01,10,57.61,1017.71,2019-03-24 07:38:22.702702,19:13,Credit card,960.1,6.0,57.61,9.3,19,March,3
+750-54-4221,Branche C,Naypyitaw,Normal,Female,Health and beauty,80.42,2,9.65,170.49,2019-03-24 09:46:40.000000,18:37,Credit card,160.84,6.0,9.65,5.8,18,March,3
+750-87-9493,Branche C,Naypyitaw,Normal,Female,Health and beauty,90.82,3,16.35,288.81,2019-03-24 11:54:57.297297,13:44,Cash,272.46,6.0,16.35,7.5,13,March,3
+750-50-3808,Branche B,Mandalay,Normal,Male,Health and beauty,68.07,3,12.25,216.46,2019-03-24 16:11:31.891891,10:16,Cash,204.21,6.0,12.25,6.3,10,March,3
+750-18-3928,Branche A,Yangon,Normal,Male,Sports and travel,46.17,9,23.69,439.22,2019-03-24 16:11:31.891891,14:08,Cash,415.53,5.7,23.69,4.3,14,March,3
+750-26-4832,Branche B,Mandalay,Member,Female,Health and beauty,60.08,10,36.05,636.85,2019-03-24 20:28:06.486486,13:41,Ewallet,600.8,6.0,36.05,8.9,13,March,3
+750-92-6723,Branche A,Yangon,Member,Female,Electronic accessories,53.49,2,4.81,111.79,2019-03-24 22:36:23.783783,17:19,Ewallet,106.98,4.5,4.81,9.1,17,March,3
+750-56-8017,Branche B,Mandalay,Member,Male,Electronic accessories,17.34,6,4.68,108.72,2019-03-25 05:01:15.675675,14:46,Ewallet,104.04,4.5,4.68,5.2,14,March,3
+750-72-2965,Branche A,Yangon,Normal,Female,Electronic accessories,26.78,7,8.44,195.9,2019-03-25 07:09:32.972972,10:49,Credit card,187.46,4.5,8.44,4.3,10,March,3
+750-25-8511,Branche A,Yangon,Normal,Female,Health and beauty,83.84,7,35.21,622.09,2019-03-25 09:17:50.270270,20:32,Cash,586.88,6.0,35.21,8.3,20,March,3
+750-65-6118,Branche C,Naypyitaw,Normal,Female,Sports and travel,46.87,5,13.36,247.71,2019-03-25 09:17:50.270270,12:47,Credit card,234.35,5.7,13.36,9.2,12,March,3
+750-81-6196,Branche C,Naypyitaw,Member,Male,Food and beverages,68.34,6,19.68,429.72,2019-03-25 15:42:42.162162,14:05,Ewallet,410.04,4.8,19.68,6.7,14,March,3
+750-41-4681,Branche C,Naypyitaw,Member,Male,Electronic accessories,10.58,5,2.38,55.28,2019-03-25 19:59:16.756756,18:04,Cash,52.9,4.5,2.38,4.8,18,March,3
+750-95-9511,Branche B,Mandalay,Normal,Male,Fashion accessories,47.02,10,24.45,494.65,2019-03-25 19:59:16.756756,10:35,Ewallet,470.2,5.2,24.45,9.2,10,March,3
+750-37-6539,Branche C,Naypyitaw,Normal,Male,Food and beverages,45.26,1,2.17,47.43,2019-03-26 04:32:25.945945,15:58,Cash,45.26,4.8,2.17,6.0,15,March,3
+750-21-8370,Branche A,Yangon,Normal,Female,Food and beverages,21.97,2,2.11,46.05,2019-03-26 08:49:00.540540,15:27,Cash,43.94,4.8,2.11,9.3,15,March,3
+750-43-4285,Branche C,Naypyitaw,Normal,Male,Health and beauty,21.42,1,1.29,22.71,2019-03-26 10:57:17.837837,17:15,Ewallet,21.42,6.0,1.29,4.8,17,March,3
+750-27-9620,Branche B,Mandalay,Normal,Female,Electronic accessories,20.13,7,6.34,147.25,2019-03-26 13:05:35.135135,18:02,Credit card,140.91,4.5,6.34,8.7,18,March,3
+750-84-2284,Branche A,Yangon,Normal,Male,Health and beauty,12.28,8,5.89,104.13,2019-03-26 13:05:35.135135,18:06,Cash,98.24,6.0,5.89,5.1,18,March,3
+750-81-9746,Branche C,Naypyitaw,Normal,Female,Food and beverages,32.9,1,1.58,34.48,2019-03-26 13:05:35.135135,11:26,Ewallet,32.9,4.8,1.58,5.0,11,March,3
+750-36-9772,Branche A,Yangon,Normal,Female,Home and lifestyle,75.6,8,33.26,638.06,2019-03-26 17:22:09.729729,11:43,Ewallet,604.8,5.5,33.26,8.5,11,March,3
+750-74-6758,Branche C,Naypyitaw,Member,Male,Home and lifestyle,37.3,7,14.36,275.46,2019-03-26 17:22:09.729729,16:23,Ewallet,261.1,5.5,14.36,8.7,16,March,3
+750-32-7055,Branche C,Naypyitaw,Member,Male,Health and beauty,38.84,8,18.64,329.36,2019-03-26 19:30:27.027027,15:39,Cash,310.72,6.0,18.64,6.1,15,March,3
+750-51-3093,Branche C,Naypyitaw,Normal,Female,Electronic accessories,38.52,4,6.93,161.01,2019-03-27 01:55:18.918918,15:40,Cash,154.08,4.5,6.93,9.0,15,March,3
+750-24-8618,Branche A,Yangon,Member,Female,Food and beverages,36.01,7,12.1,264.17,2019-03-27 04:03:36.216216,14:17,Ewallet,252.07,4.8,12.1,7.7,14,March,3
+750-76-7283,Branche A,Yangon,Normal,Female,Home and lifestyle,68.1,10,37.46,718.46,2019-03-27 06:11:53.513513,19:20,Cash,681.0,5.5,37.46,5.8,19,March,3
+750-96-7323,Branche A,Yangon,Normal,Male,Sports and travel,22.45,2,2.56,47.46,2019-03-27 08:20:10.810810,13:28,Credit card,44.9,5.7,2.56,9.2,13,March,3
+750-54-2140,Branche B,Mandalay,Normal,Female,Sports and travel,25.2,5,7.18,133.18,2019-03-27 08:20:10.810810,12:56,Credit card,126.0,5.7,7.18,5.8,12,March,3
+750-88-1100,Branche B,Mandalay,Member,Male,Fashion accessories,87.55,6,27.32,552.62,2019-03-27 08:20:10.810810,11:04,Cash,525.3,5.2,27.32,9.7,11,March,3
+750-16-8681,Branche C,Naypyitaw,Normal,Female,Electronic accessories,70.64,2,6.36,147.64,2019-03-27 10:28:28.108108,11:57,Credit card,141.28,4.5,6.36,6.4,11,March,3
+750-78-4781,Branche B,Mandalay,Normal,Female,Home and lifestyle,44.81,9,22.18,425.47,2019-03-27 12:36:45.405405,10:34,Credit card,403.29,5.5,22.18,9.1,10,March,3
+750-31-6903,Branche C,Naypyitaw,Member,Male,Health and beauty,76.8,2,9.22,162.82,2019-03-27 14:45:02.702702,19:50,Ewallet,153.6,6.0,9.22,9.6,19,March,3
+750-66-1997,Branche A,Yangon,Member,Female,Electronic accessories,21.34,8,7.68,178.4,2019-03-27 21:09:54.594594,20:23,Ewallet,170.72,4.5,7.68,9.6,20,March,3
+750-30-3525,Branche A,Yangon,Normal,Male,Fashion accessories,67.96,9,31.81,643.45,2019-03-27 23:18:11.891891,19:55,Credit card,611.64,5.2,31.81,5.9,19,March,3
+750-81-4037,Branche A,Yangon,Member,Male,Fashion accessories,75.81,1,3.94,79.75,2019-03-28 01:26:29.189189,13:13,Ewallet,75.81,5.2,3.94,8.0,13,March,3
+750-51-9697,Branche C,Naypyitaw,Normal,Female,Fashion accessories,87.28,1,4.54,91.82,2019-03-28 05:43:03.783783,15:03,Credit card,87.28,5.2,4.54,9.4,15,March,3
+750-39-6987,Branche C,Naypyitaw,Member,Male,Fashion accessories,33.52,3,5.23,105.79,2019-03-28 07:51:21.081081,20:54,Ewallet,100.56,5.2,5.23,4.5,20,March,3
+750-77-5870,Branche B,Mandalay,Member,Male,Sports and travel,47.27,3,8.08,149.89,2019-03-28 07:51:21.081081,16:25,Cash,141.81,5.7,8.08,4.7,16,March,3
+750-57-6674,Branche A,Yangon,Normal,Male,Fashion accessories,24.57,9,11.5,232.63,2019-03-28 12:07:55.675675,15:48,Ewallet,221.13,5.2,11.5,5.9,15,March,3
+750-37-8750,Branche B,Mandalay,Member,Male,Electronic accessories,19.49,7,6.14,142.57,2019-03-28 18:32:47.567567,12:49,Cash,136.43,4.5,6.14,6.1,12,March,3
+750-29-1171,Branche B,Mandalay,Member,Female,Health and beauty,94.43,10,56.66,1000.96,2019-03-28 22:49:22.162162,15:15,Credit card,944.3,6.0,56.66,8.1,15,March,3
+750-26-5308,Branche A,Yangon,Member,Male,Fashion accessories,91.83,3,14.33,289.82,2019-03-29 09:30:48.648648,15:20,Credit card,275.49,5.2,14.33,8.2,15,March,3
+750-29-2317,Branche C,Naypyitaw,Normal,Male,Food and beverages,42.69,5,10.25,223.7,2019-03-29 11:39:05.945945,15:38,Cash,213.45,4.8,10.25,6.0,15,March,3
+750-97-5348,Branche B,Mandalay,Member,Female,Electronic accessories,44.85,6,12.11,281.21,2019-03-29 11:39:05.945945,16:15,Credit card,269.1,4.5,12.11,8.9,16,March,3
+750-18-6659,Branche A,Yangon,Normal,Male,Electronic accessories,28.93,8,10.41,241.85,2019-03-29 11:39:05.945945,17:10,Cash,231.44,4.5,10.41,9.8,17,March,3
+750-28-6281,Branche C,Naypyitaw,Normal,Male,Home and lifestyle,22.43,2,2.47,47.33,2019-03-29 15:55:40.540540,19:57,Ewallet,44.86,5.5,2.47,8.7,19,March,3
+750-18-8430,Branche C,Naypyitaw,Member,Female,Fashion accessories,86.42,8,35.95,727.31,2019-03-29 18:03:57.837837,12:31,Credit card,691.36,5.2,35.95,6.7,12,March,3
+750-54-9527,Branche C,Naypyitaw,Member,Female,Home and lifestyle,36.7,1,2.02,38.72,2019-03-29 20:12:15.135135,11:45,Credit card,36.7,5.5,2.02,6.6,11,March,3
+750-45-5993,Branche C,Naypyitaw,Normal,Male,Electronic accessories,18.82,10,8.47,196.67,2019-03-30 00:28:49.729729,17:08,Ewallet,188.2,4.5,8.47,7.1,17,March,3
+750-29-3665,Branche A,Yangon,Normal,Male,Food and beverages,87.27,1,4.19,91.46,2019-03-30 00:28:49.729729,15:38,Credit card,87.27,4.8,4.19,4.5,15,March,3
+750-29-6271,Branche B,Mandalay,Member,Male,Electronic accessories,17.66,9,7.15,166.09,2019-03-30 02:37:07.027027,14:23,Cash,158.94,4.5,7.15,8.3,14,March,3
+750-13-6605,Branche B,Mandalay,Normal,Male,Fashion accessories,98.45,7,35.84,724.99,2019-03-30 06:53:41.621621,17:06,Cash,689.15,5.2,35.84,9.0,17,March,3
+750-91-8066,Branche A,Yangon,Normal,Female,Sports and travel,59.33,8,27.05,501.69,2019-03-30 06:53:41.621621,15:28,Ewallet,474.64,5.7,27.05,5.6,15,March,3
+750-31-4342,Branche C,Naypyitaw,Member,Female,Health and beauty,67.14,6,24.17,427.01,2019-03-30 09:01:58.918918,17:42,Ewallet,402.84,6.0,24.17,9.0,17,March,3
+750-42-9722,Branche C,Naypyitaw,Normal,Female,Electronic accessories,25.94,2,2.33,54.21,2019-03-30 13:18:33.513513,15:20,Cash,51.88,4.5,2.33,5.1,15,March,3
+750-43-4029,Branche A,Yangon,Member,Female,Fashion accessories,55.03,9,25.75,521.02,2019-03-30 13:18:33.513513,11:01,Ewallet,495.27,5.2,25.75,8.2,11,March,3
+750-36-7695,Branche B,Mandalay,Member,Female,Food and beverages,94.11,1,4.52,98.63,2019-03-30 17:35:08.108108,15:59,Credit card,94.11,4.8,4.52,8.1,15,March,3
+750-10-4783,Branche A,Yangon,Member,Male,Home and lifestyle,92.17,5,25.35,486.2,2019-03-30 19:43:25.405405,18:04,Credit card,460.85,5.5,25.35,7.5,18,March,3
